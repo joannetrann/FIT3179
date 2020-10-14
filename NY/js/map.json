@@ -33,7 +33,7 @@
                           "domain": [0, 299]
                         }},
             "color": {"field": "neighbourhood", 
-                      "type": "quantitative",
+                      "type": "nominal",
                       "scale":{
                           "scheme":"reds"
                       }          
