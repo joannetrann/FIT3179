@@ -14,7 +14,7 @@
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/j/joannetrann/FIT3179/main/NY/NYC.csv"
+        "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/NYC.csv"
       },
       "encoding": {
         "longitude": {"field": "longitude", "type": "quantitative"},
