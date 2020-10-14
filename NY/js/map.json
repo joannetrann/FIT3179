@@ -32,7 +32,7 @@
                      "scale": {
                           "domain": [0, 299]
                         }},
-            "color": {"field": "neighbourhood", 
+            "color": {"field": "neighbourhood_group", 
                       "type": "nominal",
                       "scale":{
                           "scheme":"reds"
