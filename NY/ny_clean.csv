@@ -1,0 +1,2026 @@
+id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,calculated_host_listings_count,availability_365
+2539,Brooklyn,Kensington,40.64749,-73.97237,Private room,149,1,9,6,365
+2595,Manhattan,Midtown,40.75362,-73.98377,Entire home/apt,225,1,45,2,355
+3831,Brooklyn,Clinton Hill,40.68514,-73.95976,Entire home/apt,89,1,270,1,194
+5022,Manhattan,East Harlem,40.79851,-73.94399,Entire home/apt,80,10,9,1,0
+5099,Manhattan,Murray Hill,40.74767,-73.975,Entire home/apt,200,3,74,1,129
+5121,Brooklyn,Bedford-Stuyvesant,40.68688,-73.95596,Private room,60,45,49,1,0
+5178,Manhattan,Hell's Kitchen,40.76489,-73.98493,Private room,79,2,430,1,220
+5203,Manhattan,Upper West Side,40.80178,-73.96723,Private room,79,2,118,1,0
+5238,Manhattan,Chinatown,40.71344,-73.99037,Entire home/apt,150,1,160,4,188
+5295,Manhattan,Upper West Side,40.80316,-73.96545,Entire home/apt,135,5,53,1,6
+5441,Manhattan,Hell's Kitchen,40.76076,-73.98867,Private room,85,2,188,1,39
+5803,Brooklyn,South Slope,40.66829,-73.98779,Private room,89,4,167,3,314
+6021,Manhattan,Upper West Side,40.79826,-73.96113,Private room,85,2,113,1,333
+6090,Manhattan,West Village,40.7353,-74.00525,Entire home/apt,120,90,27,1,0
+6848,Brooklyn,Williamsburg,40.70837,-73.95352,Entire home/apt,140,2,148,1,46
+7097,Brooklyn,Fort Greene,40.69169,-73.97185,Entire home/apt,215,2,198,1,321
+7322,Manhattan,Chelsea,40.74192,-73.99501,Private room,140,1,260,1,12
+7726,Brooklyn,Crown Heights,40.67592,-73.94694,Entire home/apt,99,3,53,1,21
+7801,Brooklyn,Williamsburg,40.71842,-73.95718,Entire home/apt,299,3,9,1,0
+8024,Brooklyn,Park Slope,40.68069,-73.97706,Private room,130,2,130,6,347
+8025,Brooklyn,Park Slope,40.67989,-73.97798,Private room,80,1,39,6,364
+8110,Brooklyn,Park Slope,40.68001,-73.97865,Private room,110,2,71,6,304
+8490,Brooklyn,Bedford-Stuyvesant,40.68371,-73.94028,Entire home/apt,120,2,88,2,233
+8505,Brooklyn,Windsor Terrace,40.65599,-73.97519,Private room,60,1,19,2,85
+9357,Manhattan,Hell's Kitchen,40.76715,-73.98533,Entire home/apt,150,10,58,1,75
+9518,Manhattan,Inwood,40.86482,-73.92106,Private room,44,3,108,3,311
+9657,Manhattan,East Village,40.7292,-73.98542,Entire home/apt,180,14,29,1,67
+9668,Manhattan,Harlem,40.82245,-73.95104,Private room,50,3,242,3,355
+9704,Manhattan,Harlem,40.81305,-73.95466,Private room,52,2,88,1,255
+9782,Brooklyn,Greenpoint,40.72219,-73.93762,Private room,55,4,197,3,284
+9783,Manhattan,Harlem,40.8213,-73.95318,Private room,50,3,273,3,359
+10452,Brooklyn,Bedford-Stuyvesant,40.6831,-73.95473,Private room,70,1,74,2,269
+10962,Brooklyn,South Slope,40.66869,-73.9878,Private room,89,4,168,3,340
+11708,Brooklyn,Bushwick,40.70186,-73.92745,Entire home/apt,85,2,231,2,22
+12048,Manhattan,Lower East Side,40.71401,-73.98917,Shared room,40,1,214,4,188
+12192,Manhattan,East Village,40.7229,-73.98199,Private room,68,2,245,2,96
+12299,Brooklyn,South Slope,40.66278,-73.97966,Entire home/apt,120,3,15,1,345
+12303,Brooklyn,Fort Greene,40.69673,-73.97584,Private room,120,7,25,1,311
+12318,Manhattan,Upper West Side,40.79009,-73.97927,Private room,135,4,81,1,273
+12343,Manhattan,Harlem,40.81175,-73.94478,Entire home/apt,150,7,97,1,309
+12627,Brooklyn,Prospect-Lefferts Gardens,40.65944,-73.96238,Entire home/apt,150,29,11,1,95
+12937,Queens,Long Island City,40.74771,-73.9474,Private room,130,3,248,1,215
+12940,Brooklyn,Bedford-Stuyvesant,40.68111,-73.95591,Entire home/apt,110,7,61,1,265
+13050,Brooklyn,Bedford-Stuyvesant,40.68554,-73.9409,Entire home/apt,115,3,11,1,0
+13394,Brooklyn,Fort Greene,40.69142,-73.97376,Private room,80,3,135,2,192
+13808,Brooklyn,Bedford-Stuyvesant,40.68043,-73.93934,Private room,80,1,112,3,251
+14287,Manhattan,Upper West Side,40.78635,-73.97008,Entire home/apt,151,2,73,1,302
+14290,Brooklyn,Williamsburg,40.7042,-73.9356,Entire home/apt,228,3,82,1,140
+14314,Brooklyn,Greenpoint,40.73506,-73.95392,Entire home/apt,144,2,328,1,234
+14322,Manhattan,Kips Bay,40.73961,-73.98074,Entire home/apt,200,7,19,1,257
+14377,Brooklyn,Williamsburg,40.70881,-73.9593,Entire home/apt,150,30,105,1,30
+14991,Manhattan,Lower East Side,40.72004,-73.99104,Private room,110,5,19,1,301
+15220,Manhattan,Hell's Kitchen,40.75531,-73.99293,Private room,69,2,289,2,294
+15338,Brooklyn,Greenpoint,40.72401,-73.93788,Private room,49,4,138,3,320
+15341,Manhattan,SoHo,40.7221,-73.99775,Entire home/apt,180,30,21,1,154
+15385,Brooklyn,Williamsburg,40.71185,-73.96204,Private room,80,2,42,1,263
+15396,Manhattan,Chelsea,40.74623,-73.9953,Entire home/apt,375,180,5,1,180
+15711,Manhattan,Upper East Side,40.77065,-73.95269,Entire home/apt,250,2,66,2,231
+16326,Brooklyn,Prospect Heights,40.67811,-73.96428,Entire home/apt,200,30,143,2,297
+16338,Brooklyn,Clinton Hill,40.69,-73.96788,Private room,55,7,27,2,292
+16421,Manhattan,Hell's Kitchen,40.75979,-73.99119,Private room,52,30,191,1,191
+16458,Brooklyn,Park Slope,40.67343,-73.98338,Entire home/apt,225,3,4,1,0
+16580,Manhattan,East Village,40.72649,-73.97904,Private room,80,1,338,2,72
+16595,Brooklyn,Williamsburg,40.70933,-73.96792,Entire home/apt,275,1,148,1,362
+16821,Manhattan,East Village,40.72298,-73.98474,Private room,99,1,106,2,336
+16974,Manhattan,East Harlem,40.80164,-73.93922,Entire home/apt,225,4,190,1,215
+17037,Manhattan,East Village,40.72162,-73.98008,Entire home/apt,230,9,49,1,116
+17092,Manhattan,Hell's Kitchen,40.76342,-73.98865,Private room,51,7,23,1,88
+17693,Manhattan,Washington Heights,40.83139,-73.94095,Private room,65,2,49,2,336
+17747,Brooklyn,Clinton Hill,40.68346,-73.96374,Private room,105,2,105,1,304
+18127,Manhattan,East Village,40.72828,-73.98801,Entire home/apt,190,5,21,1,224
+18152,Manhattan,Upper East Side,40.76865,-73.95058,Private room,200,1,142,1,322
+18198,Queens,Woodside,40.75038,-73.90334,Private room,70,30,25,1,324
+18590,Brooklyn,Fort Greene,40.6932,-73.97267,Private room,95,3,143,1,132
+18728,Manhattan,Chelsea,40.74138,-74.00197,Private room,150,3,167,1,295
+18764,Brooklyn,Williamsburg,40.71154,-73.96112,Private room,145,3,61,4,238
+19159,Manhattan,Harlem,40.82915,-73.95136,Entire home/apt,110,31,54,1,209
+19169,Manhattan,Lower East Side,40.71851,-73.98892,Entire home/apt,285,5,70,1,328
+19282,Brooklyn,Flatbush,40.65401,-73.96323,Entire home/apt,130,6,16,1,38
+19319,Manhattan,Lower East Side,40.7114,-73.98794,Private room,94,30,94,1,188
+19601,Brooklyn,Brooklyn Heights,40.69723,-73.99268,Entire home/apt,800,1,25,1,7
+19812,Brooklyn,Williamsburg,40.71833,-73.95748,Entire home/apt,105,3,61,1,272
+20299,Manhattan,East Village,40.72334,-73.9844,Private room,60,3,194,1,26
+20300,Manhattan,East Village,40.72912,-73.98057,Private room,50,1,2,1,0
+20611,Brooklyn,Williamsburg,40.71156,-73.96218,Private room,85,3,174,4,288
+20724,Brooklyn,Bushwick,40.70032,-73.9383,Private room,65,4,24,1,317
+20734,Brooklyn,Prospect Heights,40.68233,-73.97261,Entire home/apt,131,4,166,1,207
+20755,Brooklyn,Clinton Hill,40.68634,-73.966,Private room,98,7,16,6,185
+20853,Brooklyn,Prospect Heights,40.68035,-73.97162,Entire home/apt,250,7,21,1,158
+20913,Brooklyn,Williamsburg,40.70984,-73.95775,Entire home/apt,100,5,168,1,0
+21293,Brooklyn,Bushwick,40.70093,-73.92609,Entire home/apt,105,3,118,2,9
+21456,Manhattan,Upper West Side,40.79764,-73.96177,Entire home/apt,140,3,81,1,198
+21644,Manhattan,Harlem,40.82803,-73.94731,Private room,89,1,1,1,365
+21794,Manhattan,Chelsea,40.74008,-74.00271,Private room,98,30,30,2,364
+22911,Brooklyn,Bedford-Stuyvesant,40.68413,-73.92357,Entire home/apt,125,7,139,2,311
+22918,Manhattan,Harlem,40.82279,-73.95139,Private room,60,3,11,3,219
+23135,Brooklyn,Carroll Gardens,40.67967,-74.00154,Entire home/apt,175,2,233,3,342
+23501,Manhattan,Washington Heights,40.83927,-73.94281,Private room,65,2,68,1,312
+23686,Manhattan,West Village,40.73096,-74.00319,Entire home/apt,500,4,46,2,243
+24143,Brooklyn,Williamsburg,40.71332,-73.94177,Private room,101,3,335,1,152
+24285,Brooklyn,Park Slope,40.66941,-73.98109,Entire home/apt,220,30,88,1,9
+25235,Brooklyn,Bedford-Stuyvesant,40.68373,-73.92377,Entire home/apt,125,90,162,2,137
+25406,Brooklyn,Williamsburg,40.71459,-73.94844,Entire home/apt,80,30,29,1,222
+25696,Manhattan,Harlem,40.8092,-73.94421,Private room,100,2,170,1,346
+26012,Brooklyn,Gowanus,40.68157,-73.98989,Entire home/apt,200,30,19,1,208
+26362,Manhattan,Hell's Kitchen,40.75527,-73.99291,Private room,59,2,334,2,279
+26520,Brooklyn,Clinton Hill,40.68698,-73.96572,Private room,125,2,19,6,250
+26559,Manhattan,East Village,40.7288,-73.98192,Entire home/apt,140,7,12,1,164
+26785,Brooklyn,South Slope,40.66853,-73.98912,Entire home/apt,120,30,467,2,192
+26933,Manhattan,East Village,40.7254,-73.98157,Entire home/apt,350,2,7,4,298
+26954,Manhattan,Kips Bay,40.74294,-73.98009,Entire home/apt,199,5,38,1,260
+26969,Brooklyn,Williamsburg,40.71942,-73.95748,Entire home/apt,325,3,324,1,107
+27006,Manhattan,Upper West Side,40.77823,-73.97637,Entire home/apt,235,6,27,1,199
+27385,Manhattan,East Village,40.72555,-73.97965,Entire home/apt,225,1,115,4,299
+27531,Brooklyn,South Slope,40.66831,-73.98604,Private room,99,2,354,3,20
+27644,Manhattan,Harlem,40.82754,-73.94919,Entire home/apt,170,2,195,1,318
+27659,Brooklyn,South Slope,40.66499,-73.97925,Entire home/apt,400,2,16,2,216
+27759,Manhattan,Upper West Side,40.77842,-73.97556,Entire home/apt,170,7,13,1,224
+27883,Manhattan,East Village,40.72245,-73.98527,Entire home/apt,100,4,25,1,0
+28321,Brooklyn,Prospect-Lefferts Gardens,40.65593,-73.96053,Private room,75,2,9,1,324
+28396,Brooklyn,Williamsburg,40.71923,-73.96468,Private room,90,1,9,1,245
+28907,Manhattan,Upper East Side,40.778,-73.94822,Entire home/apt,150,5,21,1,189
+29012,Manhattan,Washington Heights,40.85879,-73.93128,Private room,85,15,36,1,307
+29013,Brooklyn,Bedford-Stuyvesant,40.68332,-73.9547,Private room,70,3,63,2,310
+29455,Manhattan,Harlem,40.81618,-73.94894,Entire home/apt,120,3,155,3,213
+29628,Brooklyn,Clinton Hill,40.68414,-73.96351,Private room,89,3,260,1,278
+29683,Manhattan,East Village,40.72392,-73.99143,Entire home/apt,185,5,73,1,209
+30031,Brooklyn,Greenpoint,40.73494,-73.9503,Private room,50,3,193,1,0
+30927,Manhattan,Lower East Side,40.71341,-73.98856,Entire home/apt,105,3,32,1,16
+31130,Manhattan,Hell's Kitchen,40.76754,-73.98399,Private room,130,2,50,3,234
+31555,Manhattan,West Village,40.73442,-74.00303,Entire home/apt,115,29,26,1,12
+31902,Brooklyn,Flatlands,40.63188,-73.93248,Private room,77,2,2,1,178
+31994,Brooklyn,Clinton Hill,40.6873,-73.9634,Private room,76,2,426,3,275
+32023,Brooklyn,Bedford-Stuyvesant,40.68296,-73.93662,Entire home/apt,125,3,227,2,163
+32037,Brooklyn,Clinton Hill,40.6863,-73.96765,Private room,135,4,84,3,365
+32100,Brooklyn,Greenpoint,40.73409,-73.95348,Entire home/apt,250,29,3,1,34
+32289,Brooklyn,Williamsburg,40.71561,-73.94835,Entire home/apt,199,3,10,1,280
+32331,Brooklyn,Cobble Hill,40.6857,-73.99183,Entire home/apt,140,2,4,1,0
+32363,Queens,Flushing,40.74028,-73.83168,Private room,140,2,1,1,1
+32965,Brooklyn,Bedford-Stuyvesant,40.68281,-73.93524,Entire home/apt,115,3,124,2,170
+32969,Brooklyn,Williamsburg,40.71596,-73.93938,Entire home/apt,160,3,11,1,188
+33009,Brooklyn,Williamsburg,40.71492,-73.95935,Entire home/apt,195,4,240,1,214
+33014,Manhattan,East Village,40.72354,-73.98295,Entire home/apt,195,3,30,1,248
+33223,Brooklyn,Williamsburg,40.71165,-73.96087,Private room,80,3,200,4,262
+34760,Brooklyn,Fort Greene,40.69101,-73.97312,Private room,44,8,27,5,280
+35526,Manhattan,West Village,40.73474,-74.00101,Private room,156,4,79,1,307
+36121,Brooklyn,Prospect Heights,40.67386,-73.96641,Private room,85,15,9,1,339
+36133,Brooklyn,Williamsburg,40.71536,-73.96057,Private room,125,3,155,1,1
+36442,Brooklyn,Prospect Heights,40.6741,-73.96595,Entire home/apt,115,15,4,1,269
+36647,Manhattan,East Harlem,40.79295,-73.93997,Private room,69,2,34,1,10
+36703,Manhattan,West Village,40.73226,-74.00401,Entire home/apt,225,45,134,1,312
+36934,Brooklyn,Williamsburg,40.71363,-73.96398,Entire home/apt,125,6,27,1,189
+38638,Manhattan,Upper East Side,40.77711,-73.9527,Entire home/apt,219,4,126,2,290
+38663,Brooklyn,Boerum Hill,40.68559,-73.98094,Entire home/apt,475,3,23,1,230
+39267,Manhattan,Upper East Side,40.77456,-73.95323,Entire home/apt,99,1,234,2,164
+39282,Brooklyn,Williamsburg,40.71088,-73.95055,Private room,69,4,202,2,53
+39593,Queens,Sunnyside,40.74559,-73.92313,Private room,79,30,28,1,126
+39704,Brooklyn,Bedford-Stuyvesant,40.68306,-73.94659,Entire home/apt,135,2,309,2,3
+40039,Brooklyn,DUMBO,40.70207,-73.98571,Private room,250,3,14,1,189
+40453,Manhattan,Upper East Side,40.76123,-73.9642,Entire home/apt,250,3,4,1,365
+41348,Brooklyn,Gowanus,40.66858,-73.99083,Entire home/apt,250,2,80,1,0
+41513,Manhattan,Harlem,40.82704,-73.94907,Entire home/apt,80,3,2,1,0
+42580,Brooklyn,Clinton Hill,40.68843,-73.96408,Private room,70,2,294,3,336
+42729,Brooklyn,Carroll Gardens,40.6783,-74.00135,Entire home/apt,165,2,150,3,342
+42882,Staten Island,St. George,40.64524,-74.08088,Private room,70,2,166,1,312
+43957,Brooklyn,Bushwick,40.70641,-73.91765,Private room,50,2,47,1,37
+44096,Bronx,Highbridge,40.83232,-73.93184,Private room,40,1,219,3,353
+44161,Brooklyn,Williamsburg,40.71045,-73.9677,Entire home/apt,150,2,193,1,177
+44212,Manhattan,East Village,40.72518,-73.98034,Private room,125,1,84,4,310
+44221,Manhattan,Financial District,40.70666,-74.01374,Entire home/apt,196,3,114,1,0
+44229,Brooklyn,Fort Greene,40.69098,-73.97113,Private room,110,2,213,2,321
+44288,Manhattan,West Village,40.73756,-74.00405,Entire home/apt,170,3,86,1,246
+44506,Manhattan,Harlem,40.81526,-73.94791,Entire home/apt,165,3,80,3,231
+45393,Manhattan,West Village,40.73423,-74.0046,Entire home/apt,150,26,38,1,225
+45542,Manhattan,Harlem,40.82374,-73.9373,Entire home/apt,100,2,18,1,0
+45556,Brooklyn,Fort Greene,40.68863,-73.97691,Private room,65,2,206,2,0
+45910,Queens,Ridgewood,40.70382,-73.89797,Entire home/apt,350,8,10,5,365
+45936,Manhattan,Morningside Heights,40.80549,-73.95924,Private room,99,4,122,2,233
+45940,Brooklyn,Williamsburg,40.71627,-73.9587,Entire home/apt,200,4,33,1,1
+46544,Brooklyn,Park Slope,40.67994,-73.97863,Entire home/apt,150,5,52,1,18
+46723,Brooklyn,Bedford-Stuyvesant,40.67992,-73.9475,Private room,90,3,126,4,343
+46911,Brooklyn,Prospect Heights,40.67868,-73.97307,Private room,120,3,51,3,250
+47199,Manhattan,Upper East Side,40.76834,-73.95334,Private room,75,3,199,1,326
+47362,Brooklyn,Bedford-Stuyvesant,40.68237,-73.9415,Entire home/apt,175,26,30,1,364
+47370,Manhattan,Chelsea,40.74031,-73.99999,Entire home/apt,125,3,3,1,0
+47926,Manhattan,Hell's Kitchen,40.76307,-73.99665,Entire home/apt,275,1,41,1,299
+48719,Manhattan,Lower East Side,40.71882,-73.98852,Entire home/apt,299,2,109,1,207
+50447,Brooklyn,South Slope,40.6693,-73.98804,Entire home/apt,135,5,151,3,162
+51438,Manhattan,Upper East Side,40.77333,-73.95199,Private room,130,14,0,2,0
+51485,Manhattan,Lower East Side,40.72319,-73.99201,Private room,83,1,285,1,7
+51572,Manhattan,Chelsea,40.74859,-73.99671,Private room,123,1,375,1,328
+51850,Queens,Jamaica,40.67252,-73.76597,Private room,55,2,52,2,365
+53137,Manhattan,Hell's Kitchen,40.76244,-73.99271,Entire home/apt,195,5,10,1,0
+53196,Brooklyn,Bedford-Stuyvesant,40.69546,-73.93503,Private room,80,2,11,1,0
+53469,Queens,Middle Village,40.71722,-73.87856,Entire home/apt,98,30,33,5,240
+53470,Queens,Ridgewood,40.70234,-73.89816,Private room,140,7,6,5,365
+53477,Queens,Middle Village,40.71546,-73.87854,Entire home/apt,265,7,38,5,365
+54158,Brooklyn,Williamsburg,40.7195,-73.95976,Entire home/apt,249,2,358,2,164
+54453,Manhattan,Hell's Kitchen,40.76548,-73.98474,Shared room,105,6,10,1,363
+54466,Manhattan,Harlem,40.80234,-73.95603,Private room,200,30,0,1,365
+54508,Brooklyn,Prospect Heights,40.6787,-73.97262,Private room,100,2,226,3,250
+54544,Manhattan,Harlem,40.81035,-73.94598,Entire home/apt,121,1,104,5,247
+54626,Bronx,Highbridge,40.83075,-73.93058,Private room,45,1,138,3,323
+54860,Manhattan,East Harlem,40.79958,-73.94275,Private room,100,5,204,1,192
+55467,Brooklyn,Williamsburg,40.71625,-73.93845,Entire home/apt,140,2,253,1,125
+55498,Brooklyn,Bedford-Stuyvesant,40.6829,-73.93549,Private room,71,2,23,1,91
+55668,Manhattan,NoHo,40.72773,-73.99134,Private room,130,2,115,1,75
+55737,Manhattan,West Village,40.72861,-74.0049,Entire home/apt,199,5,129,1,286
+55959,Brooklyn,Williamsburg,40.70979,-73.95162,Private room,69,4,82,2,60
+55982,Brooklyn,Fort Greene,40.68656,-73.97525,Private room,68,3,37,1,0
+56467,Manhattan,East Village,40.72752,-73.98432,Entire home/apt,130,1,204,1,192
+56525,Brooklyn,Greenpoint,40.729,-73.95829,Entire home/apt,195,2,69,1,58
+56859,Manhattan,Harlem,40.81219,-73.94499,Private room,64,1,192,5,245
+57166,Queens,Ditmars Steinway,40.77185,-73.90502,Entire home/apt,140,2,17,1,292
+57297,Brooklyn,Cobble Hill,40.68926,-73.99386,Entire home/apt,159,2,222,1,279
+57468,Manhattan,East Village,40.72821,-73.98701,Entire home/apt,189,3,205,1,0
+57618,Manhattan,Hell's Kitchen,40.7672,-73.98508,Entire home/apt,250,3,94,1,3
+57740,Manhattan,East Village,40.73012,-73.99053,Entire home/apt,239,3,7,1,351
+57754,Manhattan,Flatiron District,40.7403,-73.98498,Entire home/apt,305,2,108,1,201
+57874,Manhattan,Harlem,40.80931,-73.94343,Entire home/apt,155,3,222,2,232
+58059,Manhattan,Harlem,40.8251,-73.94287,Private room,60,1,458,2,258
+58062,Brooklyn,Windsor Terrace,40.6585,-73.98397,Private room,135,2,21,1,272
+58467,Manhattan,Roosevelt Island,40.76193,-73.9501,Private room,120,7,17,1,341
+59014,Manhattan,Lower East Side,40.72052,-73.98589,Entire home/apt,150,3,41,1,244
+59121,Queens,Ridgewood,40.70411,-73.89934,Entire home/apt,140,14,1,5,365
+59642,Brooklyn,Greenpoint,40.73401,-73.95967,Entire home/apt,135,2,69,1,12
+59709,Manhattan,Chinatown,40.71756,-73.99503,Entire home/apt,250,4,18,2,265
+59855,Manhattan,Midtown,40.7589,-73.96991,Entire home/apt,250,30,82,1,0
+60164,Manhattan,SoHo,40.72003,-74.00262,Entire home/apt,500,4,94,1,329
+60457,Manhattan,Greenwich Village,40.73194,-73.99474,Entire home/apt,225,5,10,1,91
+60611,Manhattan,East Harlem,40.79163,-73.94573,Entire home/apt,125,28,183,2,365
+60666,Manhattan,Harlem,40.8118,-73.94434,Private room,92,1,189,5,253
+60673,Manhattan,Harlem,40.81583,-73.94707,Private room,175,2,1,1,365
+60680,Manhattan,East Village,40.72654,-73.98049,Entire home/apt,99,2,127,1,320
+60794,Manhattan,Upper West Side,40.80021,-73.96071,Entire home/apt,195,4,4,1,0
+60948,Manhattan,East Harlem,40.80942,-73.93936,Entire home/apt,140,3,135,3,192
+61167,Manhattan,Little Italy,40.71961,-73.9954,Entire home/apt,135,2,21,1,0
+61224,Manhattan,Chelsea,40.74358,-74.00027,Entire home/apt,500,2,35,1,348
+61406,Manhattan,Harlem,40.80335,-73.9575,Private room,80,14,10,2,0
+61492,Manhattan,Chinatown,40.71445,-73.9908,Private room,120,4,171,2,353
+61509,Manhattan,Midtown,40.75749,-73.96897,Entire home/apt,110,200,92,1,140
+62095,Brooklyn,East Flatbush,40.64446,-73.9503,Entire home/apt,65,3,238,1,2
+62427,Manhattan,East Village,40.7268,-73.99079,Entire home/apt,130,50,56,1,56
+62430,Brooklyn,Bushwick,40.688,-73.9171,Entire home/apt,99,3,111,1,68
+62452,Staten Island,Tompkinsville,40.63536,-74.08537,Private room,36,2,193,6,360
+62461,Staten Island,Tompkinsville,40.63627,-74.08543,Private room,37,2,147,6,0
+62787,Staten Island,Tompkinsville,40.63518,-74.08546,Private room,37,2,177,6,320
+62891,Manhattan,East Village,40.72477,-73.98161,Entire home/apt,175,3,185,2,326
+62903,Manhattan,Chelsea,40.74238,-73.99567,Entire home/apt,205,9,62,2,76
+62925,Brooklyn,Greenpoint,40.72945,-73.95511,Entire home/apt,285,3,124,3,279
+63299,Brooklyn,Williamsburg,40.70763,-73.95177,Private room,59,2,181,2,15
+63320,Staten Island,Tompkinsville,40.63481,-74.08519,Private room,36,2,333,6,340
+63360,Queens,Astoria,40.75384,-73.91433,Entire home/apt,99,5,441,1,226
+63546,Brooklyn,Kensington,40.64106,-73.97426,Private room,39,1,45,2,365
+63573,Brooklyn,Park Slope,40.66793,-73.98327,Private room,60,14,9,2,0
+63610,Bronx,Eastchester,40.88057,-73.83572,Entire home/apt,105,2,38,13,365
+63657,Brooklyn,Bedford-Stuyvesant,40.68236,-73.94314,Entire home/apt,135,2,248,2,11
+63693,Manhattan,East Village,40.72185,-73.98246,Entire home/apt,390,5,143,2,316
+63719,Brooklyn,Bedford-Stuyvesant,40.68503,-73.95385,Private room,70,3,36,4,281
+64000,Brooklyn,Williamsburg,40.7069,-73.95467,Private room,60,17,14,4,362
+64107,Brooklyn,Crown Heights,40.6778,-73.94339,Private room,100,3,279,1,301
+64277,Brooklyn,Bedford-Stuyvesant,40.68317,-73.94701,Private room,70,4,18,4,189
+64314,Brooklyn,Crown Heights,40.6761,-73.9529,Private room,110,6,50,1,0
+64365,Brooklyn,Crown Heights,40.67586,-73.95155,Private room,60,2,227,2,287
+64707,Manhattan,Little Italy,40.71702,-73.99811,Entire home/apt,90,14,1,1,14
+64837,Manhattan,East Village,40.72321,-73.98157,Private room,68,2,203,2,86
+65019,Manhattan,Upper West Side,40.77956,-73.98098,Entire home/apt,115,2,210,1,261
+65268,Brooklyn,Bedford-Stuyvesant,40.68276,-73.95264,Private room,75,5,64,1,68
+65562,Manhattan,East Village,40.72956,-73.98158,Entire home/apt,129,7,5,1,231
+65615,Brooklyn,Williamsburg,40.71069,-73.95175,Entire home/apt,130,10,49,1,152
+65660,Brooklyn,Williamsburg,40.70863,-73.94641,Entire home/apt,95,4,132,1,46
+65813,Manhattan,Harlem,40.82888,-73.94307,Private room,75,3,20,1,364
+65834,Brooklyn,Park Slope,40.67319,-73.97323,Entire home/apt,175,2,11,1,246
+66008,Brooklyn,Carroll Gardens,40.67846,-73.99443,Entire home/apt,190,3,51,1,288
+66026,Brooklyn,Crown Heights,40.6715,-73.94808,Private room,49,21,15,5,331
+66251,Manhattan,East Village,40.72681,-73.98534,Entire home/apt,212,3,67,1,51
+66275,Manhattan,Lower East Side,40.71904,-73.99392,Private room,95,1,109,3,364
+66451,Brooklyn,Williamsburg,40.71031,-73.9583,Entire home/apt,140,2,9,1,254
+66718,Manhattan,Harlem,40.81322,-73.95306,Entire home/apt,135,6,187,1,189
+66741,Brooklyn,Park Slope,40.67732,-73.98225,Entire home/apt,150,2,214,2,263
+66974,Brooklyn,Gowanus,40.68076,-73.9896,Entire home/apt,190,3,69,2,258
+67288,Manhattan,East Harlem,40.79603,-73.94903,Entire home/apt,124,28,22,1,103
+67299,Brooklyn,Williamsburg,40.71492,-73.96282,Entire home/apt,135,30,56,1,42
+67397,Manhattan,Morningside Heights,40.80393,-73.95838,Private room,122,3,93,1,246
+68099,Manhattan,Upper West Side,40.80082,-73.9652,Private room,109,1,104,2,364
+68305,Manhattan,Harlem,40.82976,-73.94867,Private room,85,30,64,1,318
+68403,Brooklyn,Bedford-Stuyvesant,40.683,-73.91981,Entire home/apt,145,3,127,2,72
+68735,Manhattan,Upper West Side,40.78971,-73.9729,Entire home/apt,195,11,30,1,249
+68765,Brooklyn,Carroll Gardens,40.67817,-73.99495,Entire home/apt,250,2,106,3,272
+68900,Brooklyn,Greenpoint,40.73119,-73.95578,Private room,125,3,6,1,325
+68974,Manhattan,Little Italy,40.71943,-73.99627,Entire home/apt,575,2,191,1,298
+69894,Manhattan,Upper West Side,40.78,-73.98249,Entire home/apt,150,30,48,1,35
+69921,Brooklyn,Bushwick,40.70514,-73.91922,Private room,70,5,47,1,203
+70095,Manhattan,Inwood,40.86713,-73.92811,Private room,90,2,120,1,132
+70128,Manhattan,East Village,40.73198,-73.98881,Private room,65,3,52,1,5
+70609,Manhattan,East Village,40.72542,-73.97986,Entire home/apt,500,2,48,4,297
+71010,Manhattan,Washington Heights,40.83494,-73.93869,Entire home/apt,250,3,32,2,276
+71248,Manhattan,Chinatown,40.71659,-73.98945,Entire home/apt,125,25,43,1,102
+71366,Manhattan,West Village,40.72966,-74.00243,Entire home/apt,200,30,39,1,251
+71384,Brooklyn,Greenpoint,40.72898,-73.95552,Entire home/apt,229,1,50,1,188
+71812,Bronx,Kingsbridge,40.87207,-73.90193,Entire home/apt,90,30,4,2,346
+72190,Manhattan,Upper West Side,40.77728,-73.97818,Entire home/apt,110,13,38,1,0
+72265,Brooklyn,Greenpoint,40.72646,-73.95341,Private room,59,3,29,1,15
+74073,Brooklyn,Williamsburg,40.71015,-73.96101,Entire home/apt,195,4,59,1,71
+74240,Brooklyn,Williamsburg,40.71903,-73.9597,Entire home/apt,169,1,68,2,215
+74333,Manhattan,East Harlem,40.80892,-73.93985,Entire home/apt,113,14,26,3,253
+74404,Manhattan,Harlem,40.80276,-73.9567,Entire home/apt,250,14,31,1,78
+74680,Queens,Astoria,40.77635,-73.93426,Entire home/apt,115,2,198,1,257
+74860,Brooklyn,Greenpoint,40.72488,-73.95018,Private room,55,2,1,1,0
+75193,Brooklyn,Williamsburg,40.71398,-73.95763,Private room,69,2,220,2,8
+75635,Manhattan,Lower East Side,40.71876,-73.98394,Entire home/apt,150,3,286,1,191
+76761,Brooklyn,South Slope,40.66552,-73.99019,Entire home/apt,169,2,398,3,182
+77765,Brooklyn,Greenpoint,40.73749,-73.95292,Private room,179,3,36,28,79
+77936,Manhattan,Hell's Kitchen,40.76248,-73.9913,Private room,150,3,36,1,49
+78919,Brooklyn,Boerum Hill,40.68674,-73.98876,Entire home/apt,135,4,6,1,0
+79067,Brooklyn,Clinton Hill,40.6848,-73.96219,Entire home/apt,350,6,14,1,156
+79782,Brooklyn,Williamsburg,40.70516,-73.95455,Private room,120,14,76,6,343
+80493,Manhattan,East Village,40.72329,-73.98486,Private room,71,2,182,1,200
+80684,Brooklyn,Greenpoint,40.73776,-73.95327,Private room,349,3,8,28,60
+80700,Brooklyn,Greenpoint,40.73738,-73.95482,Private room,349,3,7,28,60
+80924,Brooklyn,Park Slope,40.67542,-73.98142,Entire home/apt,165,30,34,2,189
+81739,Brooklyn,Greenpoint,40.73842,-73.95312,Private room,249,3,2,28,60
+82549,Brooklyn,Brooklyn Heights,40.6926,-73.99832,Private room,100,3,66,2,0
+82550,Brooklyn,Brooklyn Heights,40.69441,-73.99771,Entire home/apt,200,3,80,2,106
+82638,Manhattan,East Village,40.72399,-73.98374,Entire home/apt,169,4,240,1,276
+82928,Brooklyn,Bedford-Stuyvesant,40.6824,-73.94615,Entire home/apt,185,3,46,1,248
+83243,Brooklyn,Bushwick,40.68949,-73.91708,Entire home/apt,65,2,228,1,194
+83446,Brooklyn,Fort Greene,40.68819,-73.97258,Entire home/apt,130,35,5,1,135
+83722,Brooklyn,Williamsburg,40.7205,-73.96015,Entire home/apt,199,30,8,1,30
+83847,Manhattan,East Village,40.72451,-73.98094,Entire home/apt,225,2,33,1,0
+84010,Brooklyn,Greenpoint,40.73813,-73.95394,Private room,179,3,13,28,81
+84059,Brooklyn,Crown Heights,40.67591,-73.94715,Entire home/apt,150,5,5,1,0
+84659,Manhattan,East Village,40.72843,-73.98895,Entire home/apt,139,1,388,1,142
+84905,Manhattan,Two Bridges,40.71271,-73.99776,Private room,95,3,223,2,60
+85094,Brooklyn,Crown Heights,40.66966,-73.94735,Entire home/apt,79,15,11,5,179
+86215,Manhattan,Lower East Side,40.71965,-73.98766,Entire home/apt,150,2,151,2,52
+89427,Brooklyn,Clinton Hill,40.68613,-73.96536,Entire home/apt,650,5,0,3,365
+89621,Brooklyn,Bedford-Stuyvesant,40.68048,-73.94911,Entire home/apt,90,3,218,4,324
+93313,Brooklyn,Bedford-Stuyvesant,40.68314,-73.93963,Entire home/apt,120,2,75,2,237
+94035,Queens,Astoria,40.75961,-73.91117,Private room,80,1,42,2,365
+94209,Brooklyn,Crown Heights,40.67473,-73.94494,Entire home/apt,100,90,0,1,365
+94477,Brooklyn,Bedford-Stuyvesant,40.69305,-73.93185,Entire home/apt,175,2,370,1,204
+94783,Brooklyn,Crown Heights,40.67174,-73.95663,Entire home/apt,120,5,104,1,272
+95747,Brooklyn,Williamsburg,40.71055,-73.95098,Entire home/apt,140,7,13,1,0
+95883,Brooklyn,Bedford-Stuyvesant,40.69465,-73.95458,Entire home/apt,200,5,4,1,9
+96471,Brooklyn,Clinton Hill,40.68413,-73.96542,Private room,165,4,11,3,365
+98330,Manhattan,Kips Bay,40.73877,-73.97707,Entire home/apt,125,4,1,3,181
+98663,Manhattan,Chelsea,40.74893,-73.99544,Entire home/apt,130,30,19,1,189
+99070,Manhattan,East Harlem,40.79406,-73.94102,Shared room,65,7,131,2,0
+99085,Brooklyn,Fort Greene,40.68795,-73.97332,Entire home/apt,123,30,15,1,189
+100002,Manhattan,Washington Heights,40.85295,-73.93361,Private room,67,2,136,1,296
+100184,Queens,Queens Village,40.72413,-73.76133,Private room,50,1,43,1,88
+100186,Brooklyn,Gowanus,40.66918,-73.99187,Entire home/apt,130,7,98,1,35
+101053,Brooklyn,Williamsburg,40.71125,-73.95613,Private room,100,3,31,1,0
+102995,Manhattan,Upper West Side,40.78558,-73.9696,Entire home/apt,212,21,45,1,35
+103161,Brooklyn,Williamsburg,40.71577,-73.96053,Entire home/apt,190,3,124,1,359
+103311,Brooklyn,Greenpoint,40.73861,-73.95485,Private room,599,3,9,28,60
+103806,Manhattan,East Village,40.72577,-73.98745,Entire home/apt,249,5,166,2,365
+105469,Queens,Rockaway Beach,40.58615,-73.81245,Private room,70,27,13,1,335
+105510,Brooklyn,Crown Heights,40.67086,-73.94872,Entire home/apt,100,30,15,5,282
+106363,Manhattan,Harlem,40.82773,-73.95231,Private room,60,3,380,2,247
+106647,Brooklyn,Bedford-Stuyvesant,40.68505,-73.95684,Entire home/apt,135,2,86,1,102
+107630,Brooklyn,Greenpoint,40.72911,-73.95493,Entire home/apt,175,3,248,3,274
+107895,Manhattan,Upper West Side,40.77944,-73.98567,Entire home/apt,120,5,49,1,201
+110739,Manhattan,Midtown,40.74503,-73.98876,Entire home/apt,169,18,54,1,98
+112100,Brooklyn,Crown Heights,40.67539,-73.96093,Entire home/apt,165,7,3,1,157
+112304,Manhattan,Harlem,40.8054,-73.95189,Private room,90,1,1,1,0
+112359,Manhattan,Upper East Side,40.78491,-73.9508,Entire home/apt,225,2,56,1,312
+112435,Brooklyn,Fort Greene,40.69088,-73.97307,Private room,95,2,163,2,331
+113265,Brooklyn,Crown Heights,40.67555,-73.95057,Private room,55,2,247,2,275
+113945,Manhattan,Hell's Kitchen,40.75835,-73.99193,Private room,85,10,116,1,174
+114123,Brooklyn,South Slope,40.66527,-73.9886,Entire home/apt,199,14,27,2,223
+114229,Manhattan,Lower East Side,40.71895,-73.99434,Entire home/apt,211,1,52,3,361
+114969,Manhattan,Midtown,40.75579,-73.96699,Entire home/apt,145,6,39,1,0
+115535,Manhattan,Harlem,40.82399,-73.95328,Private room,65,14,35,1,283
+115678,Manhattan,Harlem,40.81822,-73.94095,Entire home/apt,99,1,320,1,220
+115748,Queens,Astoria,40.76434,-73.92132,Entire home/apt,110,4,30,1,363
+116940,Brooklyn,Crown Heights,40.67705,-73.94925,Entire home/apt,80,3,225,4,315
+117425,Brooklyn,Brooklyn Heights,40.69263,-73.99438,Entire home/apt,150,30,95,1,281
+118061,Brooklyn,Bedford-Stuyvesant,40.68448,-73.92747,Entire home/apt,110,4,70,1,283
+118430,Manhattan,Chelsea,40.74412,-74.00208,Private room,290,2,35,1,20
+120362,Brooklyn,Williamsburg,40.70665,-73.94061,Entire home/apt,190,4,50,1,331
+121687,Brooklyn,Williamsburg,40.72063,-73.95952,Entire home/apt,200,2,29,1,36
+121861,Brooklyn,Park Slope,40.67644,-73.98082,Entire home/apt,165,2,23,2,7
+123784,Manhattan,Harlem,40.80481,-73.94794,Entire home/apt,110,2,142,2,301
+125053,Manhattan,East Village,40.72533,-73.99143,Entire home/apt,395,2,70,1,170
+125163,Brooklyn,Bedford-Stuyvesant,40.68569,-73.93038,Private room,99,2,38,2,307
+125594,Brooklyn,Kensington,40.64302,-73.97255,Private room,39,1,82,2,365
+126443,Manhattan,East Village,40.72939,-73.98857,Entire home/apt,189,2,403,3,201
+126816,Manhattan,Upper West Side,40.79918,-73.96607,Private room,85,1,3,1,0
+127387,Brooklyn,Gowanus,40.66862,-73.9926,Entire home/apt,260,30,3,1,316
+128975,Manhattan,Harlem,40.81333,-73.94453,Entire home/apt,122,1,116,5,271
+131154,Brooklyn,Greenpoint,40.72473,-73.95199,Entire home/apt,165,2,175,1,139
+132516,Queens,Forest Hills,40.70925,-73.85262,Entire home/apt,97,3,28,3,209
+132570,Manhattan,West Village,40.73215,-74.00922,Entire home/apt,170,4,24,1,0
+132695,Brooklyn,Williamsburg,40.71109,-73.94332,Entire home/apt,125,2,15,1,0
+133025,Manhattan,Murray Hill,40.7463,-73.97926,Private room,130,4,105,1,193
+134934,Brooklyn,Williamsburg,40.71823,-73.95849,Entire home/apt,225,10,22,1,52
+135393,Brooklyn,East Flatbush,40.651,-73.94886,Private room,50,2,263,2,136
+135465,Brooklyn,Fort Greene,40.68626,-73.97598,Entire home/apt,170,3,86,2,286
+135706,Manhattan,Chelsea,40.74488,-74.001,Entire home/apt,132,4,10,1,0
+136493,Brooklyn,Park Slope,40.67632,-73.97616,Entire home/apt,250,7,18,1,18
+138216,Brooklyn,Greenpoint,40.72212,-73.94254,Entire home/apt,141,5,8,1,9
+139624,Brooklyn,Crown Heights,40.67456,-73.95151,Entire home/apt,64,20,70,1,3
+140133,Brooklyn,Williamsburg,40.71363,-73.96019,Entire home/apt,249,3,150,1,277
+140425,Brooklyn,Crown Heights,40.6755,-73.95878,Private room,79,2,115,1,0
+140973,Manhattan,East Village,40.72274,-73.97581,Entire home/apt,185,2,69,1,233
+141154,Brooklyn,Boerum Hill,40.6858,-73.9828,Entire home/apt,120,3,232,1,221
+141335,Brooklyn,Park Slope,40.67535,-73.97654,Entire home/apt,495,1,35,1,355
+141890,Manhattan,Nolita,40.72255,-73.99346,Entire home/apt,375,3,18,1,0
+141984,Manhattan,Nolita,40.72094,-73.99706,Entire home/apt,175,3,68,1,277
+142069,Manhattan,East Village,40.72485,-73.97813,Entire home/apt,150,4,22,1,0
+144087,Manhattan,Harlem,40.80473,-73.9532,Entire home/apt,259,8,17,1,343
+144148,Manhattan,East Village,40.72217,-73.98419,Private room,96,1,34,1,0
+145064,Brooklyn,Williamsburg,40.71943,-73.9565,Entire home/apt,145,7,8,1,0
+145994,Manhattan,Upper West Side,40.79264,-73.97294,Entire home/apt,95,5,2,1,0
+146754,Brooklyn,Windsor Terrace,40.65749,-73.97675,Entire home/apt,250,4,52,1,188
+147586,Manhattan,Harlem,40.80474,-73.94688,Entire home/apt,295,2,74,2,264
+148201,Manhattan,Greenwich Village,40.72831,-74.00177,Entire home/apt,175,3,18,1,0
+148259,Brooklyn,Williamsburg,40.71541,-73.94144,Entire home/apt,451,2,72,1,331
+148825,Manhattan,Upper West Side,40.79765,-73.96245,Entire home/apt,165,2,191,1,236
+149777,Bronx,Woodlawn,40.89747,-73.8639,Entire home/apt,77,1,197,1,309
+150804,Manhattan,Lower East Side,40.72008,-73.98404,Entire home/apt,250,4,19,1,0
+151199,Queens,Astoria,40.75725,-73.91098,Entire home/apt,129,1,414,1,245
+151478,Brooklyn,Williamsburg,40.7102,-73.94495,Private room,98,2,8,4,0
+152078,Manhattan,East Village,40.72674,-73.9782,Private room,95,7,25,1,359
+152259,Manhattan,Harlem,40.81156,-73.94571,Private room,55,3,119,5,333
+152263,Manhattan,Harlem,40.80497,-73.95016,Entire home/apt,300,2,203,3,258
+152520,Queens,Sunnyside,40.7385,-73.91806,Private room,42,40,53,3,236
+153405,Brooklyn,Greenpoint,40.72937,-73.95671,Entire home/apt,125,2,104,1,22
+153780,Manhattan,East Village,40.72587,-73.98438,Private room,175,3,175,1,236
+154934,Manhattan,Harlem,40.82426,-73.9463,Private room,75,3,38,3,365
+155296,Brooklyn,Williamsburg,40.71624,-73.96272,Entire home/apt,255,45,39,1,89
+157673,Brooklyn,Bedford-Stuyvesant,40.68101,-73.94081,Entire home/apt,72,31,88,1,164
+158061,Brooklyn,Bedford-Stuyvesant,40.68669,-73.91989,Private room,165,1,27,4,311
+158176,Brooklyn,Williamsburg,40.71534,-73.95914,Entire home/apt,165,5,117,1,23
+158290,Brooklyn,Clinton Hill,40.68288,-73.96024,Private room,75,3,43,2,365
+158913,Brooklyn,Greenpoint,40.72489,-73.95494,Entire home/apt,130,5,4,1,0
+158955,Brooklyn,Williamsburg,40.70867,-73.94284,Entire home/apt,139,2,385,1,222
+159749,Brooklyn,Bedford-Stuyvesant,40.67963,-73.93908,Private room,88,1,64,3,238
+159815,Brooklyn,Bedford-Stuyvesant,40.6798,-73.93908,Private room,80,1,39,3,218
+159913,Manhattan,Chelsea,40.74346,-73.99882,Private room,150,2,37,1,0
+160609,Manhattan,Upper West Side,40.77724,-73.98109,Entire home/apt,200,3,10,1,0
+160994,Manhattan,East Village,40.72972,-73.97995,Entire home/apt,200,2,103,1,235
+161366,Queens,Sunnyside,40.74102,-73.91681,Private room,42,40,41,3,246
+161394,Brooklyn,Williamsburg,40.71309,-73.94128,Private room,90,6,3,1,0
+161996,Manhattan,Harlem,40.83096,-73.94633,Entire home/apt,295,3,227,1,247
+162493,Brooklyn,Williamsburg,40.71323,-73.95745,Entire home/apt,450,5,37,1,15
+162508,Brooklyn,Crown Heights,40.67212,-73.9506,Entire home/apt,130,2,29,1,119
+163627,Brooklyn,Williamsburg,40.71023,-73.96665,Private room,89,3,205,3,0
+163809,Manhattan,Harlem,40.80523,-73.95139,Entire home/apt,198,5,42,2,234
+163814,Manhattan,East Village,40.72636,-73.98917,Entire home/apt,99,2,280,3,257
+163836,Brooklyn,Greenpoint,40.72185,-73.93956,Private room,46,4,86,3,350
+164989,Manhattan,SoHo,40.72351,-73.99683,Private room,140,2,54,1,221
+165080,Brooklyn,Carroll Gardens,40.6809,-73.99233,Entire home/apt,500,7,7,1,0
+165461,Manhattan,Morningside Heights,40.80525,-73.95916,Private room,75,5,57,2,201
+165824,Queens,Sunnyside,40.74,-73.91901,Private room,33,44,31,3,161
+166006,Manhattan,Upper West Side,40.80006,-73.96049,Entire home/apt,250,31,188,1,259
+166172,Brooklyn,Bushwick,40.70283,-73.92131,Private room,60,3,480,1,0
+166541,Manhattan,Washington Heights,40.84468,-73.94303,Private room,75,2,34,1,222
+166983,Brooklyn,Carroll Gardens,40.68252,-73.99619,Entire home/apt,350,5,6,1,0
+167013,Manhattan,Chelsea,40.74342,-73.99483,Entire home/apt,205,9,3,2,76
+167017,Brooklyn,Park Slope,40.67853,-73.98089,Entire home/apt,219,5,2,1,0
+167222,Brooklyn,Park Slope,40.6788,-73.97643,Private room,60,1,20,6,258
+167482,Manhattan,Upper West Side,40.77886,-73.98042,Entire home/apt,185,2,129,1,14
+168084,Manhattan,East Village,40.72578,-73.97879,Entire home/apt,190,3,147,1,27
+168123,Brooklyn,South Slope,40.66085,-73.98537,Entire home/apt,105,28,101,1,167
+168546,Manhattan,East Harlem,40.80113,-73.94503,Entire home/apt,250,2,11,2,68
+168810,Manhattan,Upper West Side,40.78569,-73.97581,Entire home/apt,175,65,11,1,358
+169002,Manhattan,Harlem,40.82411,-73.94934,Private room,65,2,41,2,59
+169152,Brooklyn,Bedford-Stuyvesant,40.68131,-73.95332,Entire home/apt,75,2,87,1,0
+169306,Bronx,University Heights,40.85811,-73.90675,Private room,37,4,117,1,232
+169464,Brooklyn,Williamsburg,40.70667,-73.96524,Entire home/apt,85,2,86,2,15
+170420,Manhattan,East Harlem,40.7932,-73.94007,Entire home/apt,79,2,15,1,0
+170761,Brooklyn,Fort Greene,40.68768,-73.97611,Private room,85,2,35,2,161
+171776,Manhattan,Harlem,40.80224,-73.94558,Private room,170,2,17,2,88
+172700,Manhattan,Lower East Side,40.71473,-73.98842,Private room,115,3,3,2,337
+172870,Manhattan,Harlem,40.80518,-73.95359,Private room,89,5,43,2,247
+173072,Manhattan,Harlem,40.80827,-73.95329,Shared room,49,3,168,1,248
+173151,Brooklyn,Greenpoint,40.72901,-73.95812,Private room,91,3,241,1,287
+173742,Manhattan,Gramercy,40.73476,-73.98452,Entire home/apt,400,2,105,1,304
+174527,Brooklyn,Bushwick,40.69055,-73.92357,Entire home/apt,150,2,11,1,0
+174966,Manhattan,Upper West Side,40.7735,-73.98697,Entire home/apt,2000,30,30,11,0
+176135,Brooklyn,Crown Heights,40.67505,-73.95969,Entire home/apt,97,3,31,1,193
+176653,Manhattan,East Village,40.72974,-73.98201,Private room,100,4,49,2,43
+176962,Brooklyn,Williamsburg,40.70925,-73.95425,Entire home/apt,179,4,23,1,25
+177421,Brooklyn,Greenpoint,40.72315,-73.95226,Entire home/apt,500,2,20,2,127
+177495,Manhattan,Chelsea,40.73939,-73.99612,Entire home/apt,429,10,18,1,0
+177606,Manhattan,Kips Bay,40.74112,-73.97686,Entire home/apt,189,6,90,1,303
+179670,Manhattan,Lower East Side,40.72019,-73.98217,Private room,120,2,99,1,345
+179741,Manhattan,Nolita,40.72133,-73.99666,Entire home/apt,300,1,6,3,115
+180507,Queens,Astoria,40.75744,-73.92163,Entire home/apt,107,30,21,8,200
+180792,Queens,Astoria,40.75695,-73.9202,Entire home/apt,95,30,24,8,271
+181972,Manhattan,Harlem,40.8296,-73.94651,Entire home/apt,199,2,111,1,12
+182069,Manhattan,East Harlem,40.79056,-73.9468,Entire home/apt,120,2,86,1,268
+182095,Manhattan,West Village,40.73631,-73.99977,Entire home/apt,199,15,66,2,89
+182177,Bronx,Allerton,40.86466,-73.85709,Entire home/apt,125,2,271,2,347
+182649,Brooklyn,Williamsburg,40.71312,-73.96199,Private room,70,2,227,1,37
+185266,Brooklyn,Williamsburg,40.71297,-73.94336,Private room,75,4,80,1,0
+187488,Manhattan,West Village,40.73712,-74.00166,Private room,100,30,5,1,359
+187566,Brooklyn,Bedford-Stuyvesant,40.69242,-73.95097,Entire home/apt,99,2,187,2,287
+187986,Manhattan,Chelsea,40.73862,-73.99758,Entire home/apt,250,1,2,1,0
+188146,Brooklyn,Williamsburg,40.7158,-73.95803,Entire home/apt,350,6,1,1,233
+188661,Brooklyn,Prospect Heights,40.68262,-73.97299,Entire home/apt,170,3,67,1,129
+188674,Manhattan,East Village,40.73217,-73.98801,Entire home/apt,165,1,63,1,0
+189135,Manhattan,Hell's Kitchen,40.76311,-73.99388,Private room,99,1,89,1,353
+189181,Manhattan,Chelsea,40.74695,-74.00454,Private room,255,4,1,1,365
+189732,Brooklyn,East New York,40.67497,-73.87305,Entire home/apt,169,3,177,1,297
+189787,Brooklyn,Crown Heights,40.66788,-73.94813,Entire home/apt,99,4,90,1,56
+190267,Manhattan,Upper East Side,40.76684,-73.95944,Entire home/apt,169,7,39,1,44
+190542,Brooklyn,Bedford-Stuyvesant,40.68967,-73.95445,Entire home/apt,160,3,42,1,355
+190968,Brooklyn,Prospect Heights,40.67946,-73.96501,Entire home/apt,215,3,33,1,156
+190974,Brooklyn,Park Slope,40.66944,-73.98083,Entire home/apt,130,3,179,1,273
+191075,Manhattan,East Village,40.72566,-73.97748,Private room,110,3,81,2,274
+193105,Manhattan,Hell's Kitchen,40.7709,-73.99181,Private room,150,28,43,2,258
+193333,Brooklyn,Williamsburg,40.71943,-73.95958,Private room,65,30,52,1,276
+193393,Queens,Sunnyside,40.74249,-73.92466,Private room,75,2,160,1,65
+193853,Manhattan,Chelsea,40.74033,-74.00024,Entire home/apt,149,6,23,2,0
+194154,Manhattan,Upper West Side,40.7969,-73.96128,Private room,89,6,35,1,180
+195123,Manhattan,Washington Heights,40.83403,-73.94553,Private room,50,1,225,1,343
+195233,Brooklyn,Prospect-Lefferts Gardens,40.65513,-73.95641,Private room,43,1,401,2,43
+195240,Brooklyn,Prospect-Lefferts Gardens,40.65589,-73.95539,Private room,42,1,72,2,96
+195578,Brooklyn,Williamsburg,40.70275,-73.94501,Private room,85,1,46,1,59
+195971,Brooklyn,Bedford-Stuyvesant,40.68897,-73.93569,Entire home/apt,139,3,83,1,255
+195989,Brooklyn,Park Slope,40.67617,-73.98136,Private room,105,1,211,2,252
+196010,Brooklyn,Park Slope,40.67595,-73.98053,Entire home/apt,265,5,15,1,0
+197155,Manhattan,Hell's Kitchen,40.76415,-73.99067,Entire home/apt,149,1,122,1,20
+197753,Manhattan,Harlem,40.83127,-73.94718,Private room,68,2,295,2,188
+197942,Brooklyn,Bedford-Stuyvesant,40.68497,-73.95592,Entire home/apt,99,3,207,1,304
+199195,Manhattan,Harlem,40.82922,-73.94174,Private room,75,3,50,2,38
+199312,Brooklyn,Williamsburg,40.71137,-73.94362,Private room,100,2,273,1,254
+200955,Manhattan,East Village,40.73089,-73.98195,Entire home/apt,160,30,25,1,46
+201992,Brooklyn,Park Slope,40.6755,-73.97859,Entire home/apt,190,4,105,1,328
+202273,Brooklyn,Bedford-Stuyvesant,40.68812,-73.94934,Private room,67,4,72,3,0
+203901,Manhattan,Upper East Side,40.7694,-73.9572,Entire home/apt,190,1,8,1,0
+204065,Brooklyn,Clinton Hill,40.68634,-73.96161,Entire home/apt,248,2,58,6,199
+204833,Brooklyn,Williamsburg,40.7093,-73.9497,Private room,100,6,8,1,249
+204959,Manhattan,Chinatown,40.713,-73.99752,Private room,95,3,172,2,64
+205043,Manhattan,Theater District,40.75895,-73.9883,Private room,150,1,330,1,111
+205485,Brooklyn,Bedford-Stuyvesant,40.68186,-73.94113,Entire home/apt,145,3,123,1,287
+205735,Brooklyn,Bushwick,40.68364,-73.91076,Private room,41,2,55,1,286
+205867,Brooklyn,Williamsburg,40.71893,-73.9428,Entire home/apt,120,4,87,1,263
+206071,Bronx,Concourse Village,40.82802,-73.92039,Private room,50,3,258,2,276
+206316,Brooklyn,Fort Greene,40.68765,-73.97073,Entire home/apt,157,2,4,1,0
+206772,Brooklyn,Williamsburg,40.71413,-73.96596,Entire home/apt,195,14,31,1,263
+206957,Brooklyn,Sheepshead Bay,40.58422,-73.94079,Entire home/apt,70,4,128,2,90
+208148,Brooklyn,Williamsburg,40.71973,-73.95582,Entire home/apt,185,3,14,1,0
+208889,Brooklyn,Bedford-Stuyvesant,40.69025,-73.93323,Entire home/apt,145,3,30,3,11
+209310,Queens,Sunnyside,40.73826,-73.92458,Private room,50,28,258,1,287
+211078,Brooklyn,Greenpoint,40.73049,-73.96115,Entire home/apt,185,3,228,3,1
+211974,Manhattan,East Village,40.72956,-73.97903,Entire home/apt,250,1,60,1,0
+212109,Manhattan,West Village,40.73854,-74.00821,Private room,80,90,9,1,338
+212178,Manhattan,Theater District,40.75877,-73.98863,Entire home/apt,230,2,179,1,44
+212544,Brooklyn,Gowanus,40.67688,-73.9859,Entire home/apt,100,7,9,1,0
+213272,Brooklyn,Bushwick,40.70051,-73.92204,Private room,40,1,1,1,5
+213330,Manhattan,Lower East Side,40.71712,-73.98898,Private room,200,30,25,1,0
+214917,Staten Island,Emerson Hill,40.60742,-74.14388,Private room,80,2,2,1,158
+215560,Brooklyn,Bedford-Stuyvesant,40.68741,-73.95741,Private room,79,3,152,3,192
+215784,Queens,Long Island City,40.75627,-73.9211,Entire home/apt,95,30,24,8,358
+215907,Manhattan,Upper West Side,40.79816,-73.9619,Entire home/apt,300,2,45,3,31
+217580,Brooklyn,Fort Hamilton,40.61927,-74.0307,Entire home/apt,100,30,7,1,241
+218358,Manhattan,Harlem,40.8078,-73.95208,Private room,80,7,19,1,285
+219066,Brooklyn,Bensonhurst,40.61922,-73.99399,Entire home/apt,110,1,24,1,183
+219482,Brooklyn,Clinton Hill,40.68275,-73.96148,Entire home/apt,172,4,8,2,189
+219793,Manhattan,Lower East Side,40.71813,-73.98416,Entire home/apt,199,1,29,2,162
+219818,Manhattan,Lower East Side,40.71892,-73.98401,Entire home/apt,199,1,14,2,158
+219922,Manhattan,Harlem,40.816,-73.95545,Private room,100,1,33,1,84
+220351,Manhattan,Harlem,40.82748,-73.95153,Private room,55,4,99,1,260
+220563,Brooklyn,Bedford-Stuyvesant,40.68634,-73.95088,Private room,75,3,59,3,0
+220946,Manhattan,East Village,40.72229,-73.97901,Entire home/apt,146,3,142,1,166
+221097,Brooklyn,Greenpoint,40.72595,-73.95298,Entire home/apt,116,29,22,1,335
+221618,Manhattan,Tribeca,40.71193,-74.00817,Private room,150,3,82,2,90
+222054,Brooklyn,Park Slope,40.68012,-73.97847,Private room,120,2,23,6,342
+222304,Manhattan,Chelsea,40.74233,-73.99865,Entire home/apt,199,4,32,1,28
+223930,Brooklyn,Prospect Heights,40.67424,-73.96665,Entire home/apt,150,5,24,1,363
+224004,Manhattan,Harlem,40.80486,-73.95298,Private room,69,1,59,2,86
+224006,Manhattan,Harlem,40.80307,-73.95048,Private room,300,55,6,2,83
+224510,Brooklyn,Boerum Hill,40.68653,-73.98562,Entire home/apt,230,4,18,1,0
+225297,Manhattan,Midtown,40.74267,-73.98569,Entire home/apt,125,4,3,1,0
+225306,Brooklyn,Bedford-Stuyvesant,40.68749,-73.95494,Private room,79,3,115,3,264
+225887,Brooklyn,Fort Greene,40.68645,-73.97538,Private room,130,3,154,2,305
+225926,Brooklyn,Clinton Hill,40.68999,-73.96711,Private room,239,1,164,11,356
+225976,Staten Island,Shore Acres,40.61077,-74.06824,Entire home/apt,75,6,76,1,278
+226021,Brooklyn,Williamsburg,40.71126,-73.94576,Entire home/apt,220,3,116,2,135
+227715,Brooklyn,Bedford-Stuyvesant,40.67855,-73.94949,Entire home/apt,80,3,234,4,308
+227735,Manhattan,East Village,40.72416,-73.9853,Entire home/apt,288,2,120,1,229
+228317,Brooklyn,Bedford-Stuyvesant,40.68516,-73.92521,Entire home/apt,135,4,82,1,273
+228496,Manhattan,West Village,40.73507,-74.00048,Entire home/apt,225,3,13,1,83
+228517,Manhattan,Chinatown,40.71611,-73.99828,Private room,110,30,59,1,281
+228925,Brooklyn,Bedford-Stuyvesant,40.67964,-73.93946,Entire home/apt,100,7,63,1,321
+228979,Manhattan,Hell's Kitchen,40.76189,-73.99,Private room,130,2,52,1,303
+229367,Manhattan,East Village,40.72645,-73.98035,Private room,89,1,278,3,192
+229874,Brooklyn,Sunset Park,40.66293,-73.99833,Entire home/apt,200,5,1,1,0
+230321,Brooklyn,Bedford-Stuyvesant,40.69046,-73.95167,Entire home/apt,80,2,35,1,36
+230854,Bronx,Concourse,40.83001,-73.92158,Private room,50,5,235,2,271
+230877,Manhattan,East Harlem,40.79239,-73.94535,Entire home/apt,135,28,115,2,341
+230956,Manhattan,East Village,40.72709,-73.98274,Private room,90,1,109,1,333
+231414,Manhattan,SoHo,40.72599,-74.00168,Private room,270,5,1,1,210
+232612,Brooklyn,Bedford-Stuyvesant,40.68309,-73.94219,Entire home/apt,110,3,305,1,231
+232618,Manhattan,East Harlem,40.79442,-73.93433,Entire home/apt,145,1,102,1,308
+233189,Manhattan,Hell's Kitchen,40.76166,-73.99675,Entire home/apt,179,30,83,1,292
+233638,Queens,Ridgewood,40.70163,-73.90867,Private room,55,1,19,1,311
+233662,Manhattan,Midtown,40.75575,-73.96842,Private room,110,2,61,1,264
+234184,Manhattan,Harlem,40.80903,-73.94197,Entire home/apt,325,5,89,1,153
+234870,Queens,Long Island City,40.74581,-73.95295,Private room,75,30,65,3,219
+235552,Brooklyn,South Slope,40.66414,-73.98574,Entire home/apt,300,1,40,1,0
+235651,Manhattan,West Village,40.74,-74.00381,Private room,130,30,80,2,332
+235951,Manhattan,Midtown,40.75348,-73.97065,Entire home/apt,190,30,136,1,120
+235960,Manhattan,Lower East Side,40.72066,-73.98506,Entire home/apt,200,3,100,1,191
+236671,Brooklyn,Williamsburg,40.71746,-73.95497,Entire home/apt,180,2,125,3,248
+236788,Brooklyn,DUMBO,40.70257,-73.9847,Entire home/apt,350,5,40,1,67
+237127,Manhattan,Kips Bay,40.73833,-73.98186,Entire home/apt,195,30,139,4,325
+239055,Manhattan,Chinatown,40.71892,-73.99628,Entire home/apt,300,7,2,1,0
+239733,Queens,Ditmars Steinway,40.77679,-73.91687,Entire home/apt,75,28,49,1,313
+239766,Manhattan,Lower East Side,40.71693,-73.98948,Entire home/apt,100,5,8,1,0
+239883,Brooklyn,Fort Greene,40.68501,-73.97019,Private room,85,5,124,1,69
+239899,Brooklyn,Prospect-Lefferts Gardens,40.66068,-73.96003,Entire home/apt,80,21,5,1,0
+240800,Brooklyn,Prospect Heights,40.67722,-73.96542,Private room,55,1,147,1,293
+241140,Brooklyn,Clinton Hill,40.68975,-73.96703,Private room,438,1,43,11,363
+241159,Brooklyn,Bedford-Stuyvesant,40.69221,-73.95866,Entire home/apt,110,6,8,1,4
+241862,Manhattan,West Village,40.72969,-74.00635,Entire home/apt,200,2,37,1,257
+242532,Brooklyn,Clinton Hill,40.6893,-73.96602,Private room,279,1,120,11,362
+242643,Brooklyn,Williamsburg,40.70832,-73.94157,Entire home/apt,137,1,24,1,0
+243229,Brooklyn,Bedford-Stuyvesant,40.68016,-73.94878,Entire home/apt,280,3,5,1,365
+243708,Brooklyn,Williamsburg,40.70875,-73.95508,Entire home/apt,199,30,242,1,102
+245504,Manhattan,Inwood,40.85888,-73.92886,Private room,71,4,229,1,26
+245544,Bronx,Kingsbridge,40.8679,-73.90023,Private room,42,2,108,2,302
+245574,Brooklyn,Bedford-Stuyvesant,40.6889,-73.95383,Entire home/apt,180,2,181,1,280
+245607,Manhattan,Chelsea,40.75127,-73.99637,Entire home/apt,226,5,34,1,302
+246134,Brooklyn,Crown Heights,40.67607,-73.94421,Private room,85,3,5,1,281
+246351,Manhattan,Gramercy,40.73834,-73.9823,Entire home/apt,135,1,5,1,0
+246916,Queens,Elmhurst,40.7347,-73.88066,Entire home/apt,79,4,60,2,297
+246938,Manhattan,Lower East Side,40.71876,-73.98851,Entire home/apt,154,1,238,1,246
+248865,Brooklyn,Greenpoint,40.73787,-73.95385,Entire home/apt,199,3,34,28,60
+248871,Manhattan,West Village,40.73066,-74.00287,Entire home/apt,700,3,131,4,296
+249414,Manhattan,West Village,40.73291,-74.00059,Entire home/apt,246,4,6,1,0
+249618,Manhattan,Washington Heights,40.85099,-73.92822,Private room,125,60,4,1,364
+249867,Brooklyn,Bedford-Stuyvesant,40.68707,-73.91918,Private room,100,1,7,4,281
+250259,Brooklyn,Williamsburg,40.7184,-73.96019,Entire home/apt,295,5,125,1,0
+250323,Manhattan,Chinatown,40.71582,-73.99902,Entire home/apt,119,1,49,1,0
+250536,Manhattan,Harlem,40.81068,-73.94288,Private room,125,1,11,2,365
+250801,Manhattan,Greenwich Village,40.73129,-73.99944,Entire home/apt,850,3,107,1,249
+251262,Brooklyn,Williamsburg,40.71628,-73.95737,Private room,129,2,241,1,303
+251277,Manhattan,Upper West Side,40.78558,-73.9726,Private room,140,1,176,1,300
+252076,Manhattan,Chinatown,40.7146,-73.991,Private room,115,4,151,2,323
+252607,Manhattan,East Harlem,40.79493,-73.94462,Entire home/apt,200,3,49,2,0
+253332,Brooklyn,Sunset Park,40.6623,-73.99049,Entire home/apt,96,120,13,1,204
+253466,Brooklyn,Greenpoint,40.73693,-73.95284,Entire home/apt,199,3,33,28,60
+253471,Brooklyn,Greenpoint,40.73641,-73.9533,Entire home/apt,199,3,24,28,84
+253475,Brooklyn,Greenpoint,40.73794,-73.95254,Entire home/apt,199,3,59,28,60
+253548,Brooklyn,Brighton Beach,40.58147,-73.96726,Private room,69,1,2,1,303
+253590,Manhattan,Upper West Side,40.79771,-73.96323,Entire home/apt,185,2,16,1,261
+253623,Manhattan,Harlem,40.81512,-73.94692,Private room,81,2,72,1,0
+253800,Brooklyn,Greenpoint,40.7373,-73.95323,Entire home/apt,199,3,24,28,60
+253803,Brooklyn,Greenpoint,40.73708,-73.95271,Entire home/apt,199,3,23,28,60
+253806,Brooklyn,Greenpoint,40.73652,-73.95236,Entire home/apt,199,3,43,28,60
+253811,Brooklyn,Greenpoint,40.73693,-73.95316,Entire home/apt,199,3,30,28,56
+253815,Brooklyn,Greenpoint,40.73784,-73.95324,Entire home/apt,199,3,39,28,84
+253828,Brooklyn,Greenpoint,40.73674,-73.95247,Private room,349,3,8,28,58
+253839,Brooklyn,Greenpoint,40.73783,-73.95259,Private room,249,3,3,28,60
+253842,Brooklyn,Greenpoint,40.73714,-73.95296,Private room,299,3,6,28,60
+253846,Brooklyn,Greenpoint,40.73731,-73.9545,Private room,179,3,4,28,81
+254131,Queens,Jackson Heights,40.74965,-73.89344,Private room,54,5,56,3,365
+254168,Brooklyn,Greenpoint,40.73793,-73.95316,Private room,599,3,7,28,60
+254409,Brooklyn,Clinton Hill,40.68197,-73.96549,Entire home/apt,110,1,2,1,0
+255024,Brooklyn,Bushwick,40.70271,-73.91566,Entire home/apt,220,2,178,1,297
+255476,Brooklyn,Williamsburg,40.7116,-73.9529,Private room,89,30,30,1,91
+255601,Brooklyn,Bedford-Stuyvesant,40.69241,-73.94885,Entire home/apt,170,2,190,1,315
+255957,Manhattan,Nolita,40.72004,-73.99424,Entire home/apt,495,7,25,2,338
+256078,Queens,Sunnyside,40.74511,-73.92398,Entire home/apt,80,10,81,2,40
+256328,Manhattan,Chelsea,40.74599,-74.00253,Entire home/apt,760,2,7,1,361
+256369,Brooklyn,Cobble Hill,40.68946,-73.99385,Private room,98,4,216,1,288
+257097,Brooklyn,Bedford-Stuyvesant,40.68226,-73.95473,Entire home/apt,125,30,31,1,218
+257568,Brooklyn,Cypress Hills,40.67855,-73.8896,Private room,48,90,53,2,1
+257787,Brooklyn,Williamsburg,40.71408,-73.9489,Private room,64,3,247,2,117
+258284,Brooklyn,Clinton Hill,40.68618,-73.96144,Entire home/apt,154,3,233,1,0
+258397,Brooklyn,Park Slope,40.67379,-73.98454,Entire home/apt,139,3,135,1,204
+258686,Queens,St. Albans,40.70554,-73.76637,Private room,75,4,20,1,0
+258688,Manhattan,West Village,40.74031,-74.00532,Entire home/apt,325,4,46,1,20
+258690,Manhattan,Chelsea,40.74618,-74.00392,Entire home/apt,195,365,10,1,0
+258740,Manhattan,Harlem,40.81872,-73.94567,Private room,58,1,143,1,0
+258838,Staten Island,Arrochar,40.59251,-74.06479,Entire home/apt,250,2,21,4,333
+259946,Staten Island,Arrochar,40.59262,-74.06659,Entire home/apt,125,2,8,4,353
+260451,Brooklyn,Fort Greene,40.69142,-73.97203,Entire home/apt,70,7,4,2,0
+260765,Manhattan,Upper East Side,40.76928,-73.95021,Entire home/apt,189,2,314,2,206
+261194,Brooklyn,Bedford-Stuyvesant,40.68338,-73.95289,Entire home/apt,130,3,18,1,1
+261259,Manhattan,West Village,40.72953,-74.00462,Entire home/apt,145,7,11,1,0
+261344,Manhattan,Financial District,40.70523,-74.01345,Private room,101,7,51,1,307
+261674,Manhattan,Chelsea,40.74025,-74.00161,Private room,95,5,20,1,0
+261781,Manhattan,West Village,40.73378,-74.00429,Entire home/apt,375,7,8,1,0
+262343,Manhattan,Lower East Side,40.72087,-73.99022,Entire home/apt,153,31,59,1,27
+262405,Brooklyn,East Flatbush,40.64468,-73.94219,Entire home/apt,92,4,54,1,27
+262478,Manhattan,Lower East Side,40.7193,-73.98966,Private room,80,5,10,1,348
+262583,Manhattan,West Village,40.73312,-74.0042,Entire home/apt,300,4,153,4,246
+263005,Brooklyn,Fort Greene,40.69778,-73.97676,Entire home/apt,145,3,110,1,15
+263190,Manhattan,East Village,40.72534,-73.98591,Private room,88,2,69,2,0
+263232,Manhattan,Harlem,40.82151,-73.94516,Entire home/apt,155,1,1,1,5
+263502,Brooklyn,Williamsburg,40.72059,-73.9567,Entire home/apt,185,180,24,1,0
+263776,Queens,Sunnyside,40.74558,-73.92324,Private room,73,2,95,2,0
+263888,Manhattan,Upper West Side,40.79433,-73.9765,Entire home/apt,225,2,129,1,107
+264323,Manhattan,Morningside Heights,40.81055,-73.95549,Private room,85,7,171,2,144
+265036,Brooklyn,Crown Heights,40.6711,-73.95231,Private room,99,2,20,1,98
+265064,Brooklyn,Cypress Hills,40.67962,-73.88928,Private room,48,90,17,2,0
+265145,Manhattan,Theater District,40.76217,-73.98411,Entire home/apt,200,5,8,1,0
+265506,Manhattan,Upper East Side,40.76128,-73.96463,Entire home/apt,485,7,11,1,0
+265831,Manhattan,Nolita,40.72313,-73.99438,Entire home/apt,310,5,5,1,89
+266146,Manhattan,Upper West Side,40.78448,-73.97289,Entire home/apt,109,30,36,5,286
+266155,Manhattan,Upper West Side,40.78304,-73.97447,Entire home/apt,167,30,16,5,252
+266351,Brooklyn,Fort Greene,40.68737,-73.97125,Entire home/apt,147,15,5,1,189
+266449,Manhattan,Lower East Side,40.71992,-73.98773,Entire home/apt,195,4,68,1,271
+266756,Manhattan,Little Italy,40.71905,-73.99677,Entire home/apt,199,28,89,1,0
+267376,Manhattan,Financial District,40.70741,-74.00102,Private room,65,30,10,1,0
+267435,Queens,Rego Park,40.73349,-73.86009,Private room,55,1,38,1,0
+267535,Bronx,Wakefield,40.89557,-73.8447,Private room,50,2,15,1,337
+267652,Brooklyn,Kensington,40.64277,-73.97296,Private room,60,2,20,1,347
+267708,Manhattan,East Harlem,40.79111,-73.94466,Private room,99,3,25,2,127
+268392,Manhattan,Harlem,40.79951,-73.95257,Entire home/apt,130,2,35,1,41
+268481,Brooklyn,Williamsburg,40.71647,-73.93974,Entire home/apt,290,30,1,1,0
+268868,Manhattan,Chelsea,40.75114,-74.00195,Entire home/apt,350,3,64,1,18
+269283,Brooklyn,Crown Heights,40.66431,-73.93216,Private room,50,3,26,1,158
+269889,Queens,Long Island City,40.74579,-73.95012,Private room,96,2,244,1,270
+270139,Brooklyn,Bushwick,40.70278,-73.92673,Private room,45,15,21,3,88
+270231,Queens,Woodside,40.74409,-73.91122,Private room,85,2,270,2,306
+270315,Brooklyn,Bedford-Stuyvesant,40.68812,-73.93254,Private room,34,10,16,3,216
+270345,Manhattan,East Village,40.72454,-73.99151,Entire home/apt,250,3,24,1,16
+270680,Brooklyn,Williamsburg,40.71073,-73.96207,Private room,190,1,30,2,365
+270681,Brooklyn,Williamsburg,40.71028,-73.96128,Private room,75,2,5,2,365
+271083,Brooklyn,Prospect-Lefferts Gardens,40.65772,-73.96131,Entire home/apt,93,4,115,1,312
+271128,Brooklyn,Bedford-Stuyvesant,40.68884,-73.95059,Private room,60,5,9,2,33
+271130,Brooklyn,Bedford-Stuyvesant,40.6865,-73.95372,Private room,65,5,45,2,0
+271694,Manhattan,Midtown,40.75282,-73.97315,Entire home/apt,125,365,19,1,365
+271950,Manhattan,Upper East Side,40.76373,-73.96897,Entire home/apt,300,3,5,1,27
+271954,Manhattan,Greenwich Village,40.73388,-73.99452,Entire home/apt,150,2,203,1,300
+272026,Manhattan,Washington Heights,40.85774,-73.92901,Entire home/apt,56,122,20,1,216
+272044,Manhattan,East Village,40.72257,-73.98465,Entire home/apt,299,3,49,1,365
+272427,Brooklyn,Greenpoint,40.72723,-73.95728,Private room,60,4,6,1,303
+272706,Brooklyn,Fort Greene,40.69135,-73.97321,Entire home/apt,88,5,7,1,0
+272738,Brooklyn,Williamsburg,40.70513,-73.95505,Private room,60,2,35,2,161
+273190,Manhattan,West Village,40.73301,-74.00268,Entire home/apt,1300,5,28,4,297
+274062,Manhattan,Harlem,40.80285,-73.95166,Private room,99,2,54,1,50
+274329,Brooklyn,Bushwick,40.70642,-73.91665,Entire home/apt,110,3,115,2,28
+274376,Brooklyn,Clinton Hill,40.68156,-73.96537,Entire home/apt,135,5,6,1,317
+274743,Manhattan,Upper East Side,40.77368,-73.95198,Entire home/apt,110,15,1,1,275
+275976,Brooklyn,Bedford-Stuyvesant,40.68631,-73.93702,Entire home/apt,165,3,204,1,80
+276216,Brooklyn,Sunset Park,40.65992,-73.99042,Entire home/apt,127,180,1,1,365
+276317,Brooklyn,Prospect Heights,40.67847,-73.97038,Entire home/apt,402,3,89,1,340
+276482,Manhattan,Harlem,40.81371,-73.95585,Private room,85,6,130,2,97
+277207,Brooklyn,Greenpoint,40.72868,-73.95835,Private room,75,7,15,3,365
+277370,Manhattan,East Village,40.73168,-73.98662,Entire home/apt,139,30,52,1,314
+277883,Brooklyn,Prospect-Lefferts Gardens,40.65689,-73.9533,Entire home/apt,70,6,58,1,0
+278090,Manhattan,East Harlem,40.7928,-73.93967,Private room,50,3,208,1,339
+278145,Queens,Astoria,40.77117,-73.91905,Private room,30,5,3,1,0
+278631,Manhattan,West Village,40.73729,-74.00807,Entire home/apt,250,30,7,1,35
+278876,Brooklyn,Crown Heights,40.66984,-73.95141,Private room,64,1,1,1,0
+279093,Manhattan,Harlem,40.82977,-73.94071,Entire home/apt,300,3,2,1,365
+279857,Brooklyn,Bedford-Stuyvesant,40.68492,-73.95489,Entire home/apt,800,4,122,1,257
+279969,Brooklyn,Bedford-Stuyvesant,40.68255,-73.91957,Entire home/apt,100,3,63,2,5
+280315,Brooklyn,Crown Heights,40.67392,-73.94662,Entire home/apt,250,5,26,1,0
+281521,Manhattan,West Village,40.73879,-74.00425,Entire home/apt,200,27,1,1,0
+281756,Brooklyn,Greenpoint,40.73321,-73.95587,Entire home/apt,140,5,14,1,0
+281851,Manhattan,Harlem,40.80671,-73.95082,Private room,130,1,107,1,304
+282341,Brooklyn,Kensington,40.6433,-73.97386,Entire home/apt,90,30,3,1,286
+282443,Manhattan,Chinatown,40.71601,-73.99123,Entire home/apt,90,3,107,1,0
+282514,Brooklyn,Bedford-Stuyvesant,40.68106,-73.9292,Private room,97,3,29,1,118
+282863,Brooklyn,Gowanus,40.68131,-73.98879,Entire home/apt,91,6,69,1,265
+282977,Brooklyn,Park Slope,40.67264,-73.98136,Private room,125,3,232,1,303
+283090,Manhattan,East Village,40.7241,-73.97899,Entire home/apt,180,7,24,2,125
+283272,Brooklyn,Williamsburg,40.71422,-73.9484,Entire home/apt,100,19,5,2,6
+283550,Manhattan,Hell's Kitchen,40.76001,-73.99133,Entire home/apt,175,3,10,1,0
+284208,Brooklyn,South Slope,40.66441,-73.97974,Private room,65,4,36,2,80
+284855,Manhattan,West Village,40.73362,-74.00923,Entire home/apt,240,5,94,1,134
+285442,Manhattan,East Village,40.73119,-73.98819,Private room,300,6,1,1,0
+285492,Manhattan,Chelsea,40.74494,-73.9998,Entire home/apt,385,1,63,1,364
+285716,Brooklyn,Bushwick,40.69657,-73.9129,Private room,47,15,5,1,0
+286662,Brooklyn,Crown Heights,40.67106,-73.95463,Entire home/apt,110,3,238,1,297
+286838,Manhattan,Harlem,40.80748,-73.95589,Private room,75,2,101,1,0
+287397,Brooklyn,Bedford-Stuyvesant,40.68991,-73.93179,Entire home/apt,100,3,21,3,43
+287408,Manhattan,Hell's Kitchen,40.76147,-73.99152,Entire home/apt,165,2,72,1,10
+287417,Brooklyn,Bedford-Stuyvesant,40.68174,-73.91921,Entire home/apt,300,2,40,1,0
+287421,Brooklyn,Cobble Hill,40.68538,-74.00056,Entire home/apt,140,3,103,1,189
+287481,Brooklyn,Williamsburg,40.70839,-73.94289,Entire home/apt,120,6,66,2,17
+287839,Brooklyn,Fort Greene,40.69018,-73.98107,Entire home/apt,175,3,35,1,289
+287845,Brooklyn,Carroll Gardens,40.68128,-73.99522,Entire home/apt,275,31,121,1,305
+289020,Manhattan,East Village,40.72948,-73.98694,Entire home/apt,179,8,15,1,0
+289037,Brooklyn,Carroll Gardens,40.68353,-73.9914,Entire home/apt,189,2,13,1,0
+289288,Manhattan,East Village,40.72506,-73.98865,Entire home/apt,219,2,129,1,220
+289665,Manhattan,West Village,40.72891,-74.00293,Entire home/apt,450,20,157,1,0
+289703,Manhattan,SoHo,40.7253,-73.99916,Entire home/apt,249,5,8,1,0
+289958,Queens,Long Island City,40.75295,-73.93228,Private room,65,2,5,1,362
+289995,Brooklyn,Greenpoint,40.71947,-73.95252,Entire home/apt,250,4,46,1,121
+290457,Manhattan,Chinatown,40.71283,-73.99703,Entire home/apt,139,30,37,1,153
+291524,Manhattan,Upper West Side,40.77338,-73.98887,Entire home/apt,209,7,14,1,205
+291714,Brooklyn,Crown Heights,40.67385,-73.94405,Entire home/apt,120,5,37,1,310
+291812,Queens,Astoria,40.76856,-73.91828,Entire home/apt,70,5,1,1,0
+292047,Manhattan,West Village,40.73908,-74.00378,Private room,90,3,209,1,236
+292121,Manhattan,Hell's Kitchen,40.7625,-73.9869,Entire home/apt,199,3,4,1,200
+292266,Brooklyn,Bushwick,40.69755,-73.91187,Private room,50,60,17,2,74
+293837,Brooklyn,Williamsburg,40.70736,-73.94331,Entire home/apt,157,4,54,2,12
+294227,Brooklyn,Greenpoint,40.73683,-73.9543,Entire home/apt,199,3,43,28,84
+294239,Queens,Astoria,40.76444,-73.92607,Entire home/apt,192,3,7,1,0
+294242,Brooklyn,Greenpoint,40.7389,-73.95395,Entire home/apt,199,3,75,28,84
+294250,Manhattan,Upper West Side,40.77611,-73.97808,Entire home/apt,150,1,88,1,0
+294259,Brooklyn,Greenpoint,40.73806,-73.95462,Entire home/apt,199,3,73,28,56
+294263,Brooklyn,Greenpoint,40.73661,-73.95479,Entire home/apt,199,3,89,28,62
+294280,Brooklyn,Greenpoint,40.73857,-73.95435,Entire home/apt,199,3,23,28,81
+294297,Brooklyn,Williamsburg,40.711,-73.96225,Entire home/apt,105,3,11,1,0
+294353,Brooklyn,Williamsburg,40.70686,-73.95365,Private room,135,28,84,6,310
+294490,Brooklyn,Greenpoint,40.73857,-73.95299,Entire home/apt,199,3,54,28,60
+294717,Brooklyn,Williamsburg,40.71095,-73.95239,Private room,125,3,17,1,0
+295231,Brooklyn,Williamsburg,40.70918,-73.94881,Private room,60,7,1,2,0
+295379,Brooklyn,Williamsburg,40.71685,-73.96573,Entire home/apt,85,1,73,1,0
+295998,Manhattan,Upper West Side,40.7909,-73.96762,Entire home/apt,300,3,36,1,29
+296345,Brooklyn,Williamsburg,40.71143,-73.94159,Private room,75,2,98,2,264
+296361,Queens,Elmhurst,40.737,-73.87444,Private room,55,1,63,2,341
+296658,Brooklyn,Crown Heights,40.66469,-73.96091,Private room,44,5,2,1,0
+296717,Brooklyn,Bedford-Stuyvesant,40.68855,-73.95405,Private room,55,5,18,3,0
+296844,Brooklyn,Williamsburg,40.71653,-73.95554,Private room,30,3,24,3,0
+297611,Brooklyn,Fort Greene,40.69309,-73.97074,Private room,35,3,1,1,0
+297962,Brooklyn,Williamsburg,40.70638,-73.96627,Private room,70,1,2,1,363
+298073,Brooklyn,Williamsburg,40.71629,-73.95786,Entire home/apt,130,14,23,1,25
+298759,Brooklyn,Bedford-Stuyvesant,40.68622,-73.94675,Private room,52,2,93,4,0
+299078,Manhattan,SoHo,40.72509,-74.00304,Entire home/apt,250,5,152,1,109
+299531,Brooklyn,East New York,40.66795,-73.89232,Entire home/apt,100,1,119,2,289
+299699,Brooklyn,Greenpoint,40.72582,-73.95843,Entire home/apt,130,4,9,1,188
+301034,Manhattan,Harlem,40.80637,-73.95433,Private room,140,2,44,1,260
+302057,Brooklyn,Flatbush,40.64387,-73.96855,Private room,75,2,158,1,168
+302758,Manhattan,East Harlem,40.7968,-73.93611,Entire home/apt,150,7,12,1,0
+303345,Manhattan,East Harlem,40.79596,-73.94463,Entire home/apt,90,3,51,1,311
+304799,Manhattan,Upper West Side,40.77508,-73.9799,Entire home/apt,150,2,11,1,2
+305211,Brooklyn,Williamsburg,40.71532,-73.96064,Entire home/apt,180,3,236,2,242
+306702,Brooklyn,Fort Greene,40.68786,-73.97421,Private room,135,3,16,1,0
+306799,Brooklyn,Bushwick,40.70793,-73.91987,Private room,65,5,123,1,46
+309342,Manhattan,Upper West Side,40.79044,-73.97513,Private room,99,3,14,1,365
+310220,Brooklyn,Greenpoint,40.72668,-73.95762,Private room,149,14,65,1,364
+310272,Staten Island,Clifton,40.62318,-74.07848,Private room,59,1,50,1,352
+310325,Manhattan,Harlem,40.82286,-73.94596,Private room,75,3,33,3,301
+310338,Manhattan,Harlem,40.82451,-73.94457,Private room,75,3,30,3,322
+310524,Brooklyn,Bedford-Stuyvesant,40.69348,-73.95927,Private room,75,3,13,1,298
+310796,Manhattan,Upper West Side,40.78443,-73.97399,Entire home/apt,109,30,18,5,285
+311003,Brooklyn,Crown Heights,40.67679,-73.95639,Entire home/apt,225,4,1,1,342
+311343,Manhattan,East Harlem,40.79107,-73.94381,Private room,86,3,216,1,250
+311356,Queens,Ridgewood,40.70215,-73.91139,Private room,52,2,98,1,326
+312429,Brooklyn,Prospect Heights,40.67339,-73.96519,Private room,100,2,61,1,90
+313890,Manhattan,Lower East Side,40.72209,-73.99274,Entire home/apt,99,30,13,9,289
+314982,Manhattan,East Village,40.73171,-73.98717,Private room,89,3,136,1,193
+316238,Brooklyn,Bedford-Stuyvesant,40.69213,-73.951,Entire home/apt,135,2,39,2,293
+317838,Manhattan,West Village,40.73237,-74.00608,Entire home/apt,199,14,65,1,155
+317905,Brooklyn,Kensington,40.64354,-73.97777,Entire home/apt,89,3,62,1,189
+318021,Manhattan,Harlem,40.80343,-73.9531,Private room,110,3,47,1,248
+318187,Brooklyn,Bushwick,40.70462,-73.9228,Entire home/apt,120,2,42,1,238
+319724,Brooklyn,Williamsburg,40.71394,-73.96267,Private room,59,3,207,2,284
+319798,Brooklyn,Bay Ridge,40.6339,-74.02035,Private room,49,4,72,2,343
+319844,Brooklyn,Greenpoint,40.73028,-73.95927,Private room,79,14,22,1,268
+320865,Manhattan,Harlem,40.8076,-73.94433,Entire home/apt,135,30,25,1,249
+320876,Brooklyn,South Slope,40.66485,-73.98343,Entire home/apt,185,2,215,1,291
+320877,Brooklyn,Williamsburg,40.71279,-73.95852,Entire home/apt,225,4,26,1,0
+321014,Manhattan,Gramercy,40.73294,-73.98282,Entire home/apt,245,5,18,1,0
+321136,Manhattan,Washington Heights,40.83456,-73.9457,Entire home/apt,115,3,18,1,31
+322037,Brooklyn,Williamsburg,40.72091,-73.95814,Entire home/apt,325,2,320,1,0
+322604,Brooklyn,Williamsburg,40.71819,-73.95414,Private room,95,2,160,2,79
+322974,Manhattan,West Village,40.73887,-74.00342,Private room,120,2,78,1,0
+323706,Manhattan,Upper West Side,40.77892,-73.98238,Entire home/apt,499,30,64,1,157
+324115,Brooklyn,Williamsburg,40.71336,-73.96192,Private room,75,2,219,2,277
+324517,Manhattan,Upper East Side,40.77688,-73.96177,Private room,109,1,66,1,353
+324800,Brooklyn,Williamsburg,40.71368,-73.94478,Entire home/apt,160,3,25,1,0
+325429,Manhattan,Upper East Side,40.7761,-73.95265,Entire home/apt,219,4,102,2,280
+326832,Manhattan,Upper East Side,40.77471,-73.95574,Entire home/apt,159,2,32,1,7
+326956,Brooklyn,Clinton Hill,40.68625,-73.96446,Private room,180,3,15,6,266
+327521,Manhattan,East Village,40.725,-73.98851,Entire home/apt,150,5,1,1,0
+327778,Manhattan,Kips Bay,40.74016,-73.97665,Entire home/apt,106,3,12,1,271
+328040,Manhattan,Midtown,40.75023,-73.98293,Entire home/apt,299,10,19,1,101
+328693,Manhattan,Upper West Side,40.78867,-73.96809,Entire home/apt,179,3,297,1,205
+328744,Brooklyn,Crown Heights,40.66604,-73.95914,Entire home/apt,165,3,12,1,343
+329064,Brooklyn,Flatbush,40.63593,-73.96076,Entire home/apt,500,4,9,1,0
+329310,Manhattan,Chinatown,40.71638,-73.99167,Entire home/apt,250,15,9,1,190
+329385,Manhattan,Inwood,40.86658,-73.92558,Private room,87,7,46,2,310
+333189,Brooklyn,Williamsburg,40.71179,-73.96449,Private room,79,4,42,2,52
+333323,Manhattan,Hell's Kitchen,40.76186,-73.99165,Private room,75,2,118,3,312
+334607,Brooklyn,Williamsburg,40.71417,-73.95917,Entire home/apt,200,30,53,1,0
+334781,Manhattan,Harlem,40.82772,-73.93877,Private room,80,1,15,1,329
+335797,Brooklyn,East Flatbush,40.63602,-73.94607,Entire home/apt,115,3,64,4,333
+335819,Brooklyn,East Flatbush,40.63759,-73.9459,Entire home/apt,115,3,51,4,327
+335820,Brooklyn,East Flatbush,40.63611,-73.94637,Entire home/apt,120,3,79,4,349
+336220,Manhattan,Harlem,40.803,-73.95278,Private room,125,3,202,1,217
+339456,Manhattan,Upper West Side,40.79526,-73.9655,Entire home/apt,387,1,23,1,0
+341525,Manhattan,Hell's Kitchen,40.75763,-73.99482,Private room,95,6,62,2,80
+341982,Manhattan,Upper West Side,40.77577,-73.98258,Entire home/apt,99,2,36,1,0
+342027,Manhattan,Upper East Side,40.77631,-73.95289,Entire home/apt,121,1,16,2,351
+342965,Manhattan,Hell's Kitchen,40.76774,-73.9892,Entire home/apt,350,4,24,1,362
+342995,Manhattan,Harlem,40.81169,-73.94355,Private room,75,2,77,2,144
+343276,Manhattan,Hell's Kitchen,40.75782,-73.99349,Private room,95,5,110,2,43
+343971,Manhattan,Harlem,40.83177,-73.95,Private room,89,1,56,1,365
+344019,Manhattan,West Village,40.73104,-74.00879,Private room,195,1,7,1,129
+344092,Brooklyn,Sunset Park,40.64372,-74.02066,Entire home/apt,70,18,19,1,0
+346248,Manhattan,Greenwich Village,40.72886,-74.00013,Private room,100,3,7,1,0
+346805,Manhattan,Lower East Side,40.71868,-73.99017,Entire home/apt,140,1,53,1,0
+347865,Manhattan,East Village,40.72143,-73.98117,Entire home/apt,189,3,265,2,355
+350168,Brooklyn,Park Slope,40.67725,-73.9821,Entire home/apt,178,30,8,1,280
+350525,Brooklyn,Crown Heights,40.66888,-73.95292,Entire home/apt,145,14,46,1,38
+351530,Brooklyn,Park Slope,40.67188,-73.97533,Entire home/apt,125,5,6,1,31
+351859,Manhattan,Chelsea,40.74964,-73.99158,Entire home/apt,265,4,75,1,324
+352651,Brooklyn,Prospect-Lefferts Gardens,40.65846,-73.95057,Private room,77,5,11,3,365
+352864,Manhattan,Upper East Side,40.78164,-73.94717,Private room,60,3,5,9,0
+353317,Manhattan,Chinatown,40.71515,-73.99029,Entire home/apt,129,3,132,1,171
+354095,Manhattan,East Village,40.72986,-73.97913,Entire home/apt,199,6,41,1,36
+355106,Brooklyn,Prospect-Lefferts Gardens,40.66039,-73.95937,Private room,92,7,34,1,332
+356230,Brooklyn,Crown Heights,40.66898,-73.9571,Entire home/apt,185,3,34,1,0
+357509,Manhattan,Midtown,40.75407,-73.96713,Entire home/apt,110,7,27,1,192
+359982,Brooklyn,Williamsburg,40.70712,-73.94013,Private room,65,4,30,1,139
+360400,Manhattan,Midtown,40.74553,-73.98943,Private room,135,3,214,2,167
+361803,Manhattan,Upper East Side,40.77584,-73.9502,Shared room,115,30,12,1,0
+363320,Manhattan,Harlem,40.79967,-73.95156,Private room,175,2,6,4,10
+364275,Brooklyn,Williamsburg,40.70507,-73.9353,Private room,72,3,156,1,110
+364785,Brooklyn,Park Slope,40.67962,-73.97655,Private room,80,2,30,1,0
+367042,Brooklyn,Crown Heights,40.66847,-73.94875,Entire home/apt,125,5,1,1,0
+367810,Brooklyn,Greenpoint,40.7376,-73.95678,Private room,120,5,3,1,242
+369411,Brooklyn,Williamsburg,40.71148,-73.95573,Private room,94,2,272,3,22
+369567,Brooklyn,Prospect Heights,40.67425,-73.96514,Private room,56,3,63,1,0
+369671,Manhattan,East Village,40.72899,-73.97792,Entire home/apt,549,30,58,1,200
+371138,Brooklyn,Greenpoint,40.72488,-73.94013,Entire home/apt,190,2,5,1,0
+373618,Brooklyn,Williamsburg,40.72212,-73.95696,Private room,129,3,63,2,87
+374548,Brooklyn,Bedford-Stuyvesant,40.68534,-73.93433,Entire home/apt,85,5,268,2,202
+375249,Staten Island,Graniteville,40.62109,-74.16534,Private room,20,3,80,1,226
+377217,Manhattan,Upper West Side,40.78161,-73.97898,Entire home/apt,145,3,22,1,0
+378460,Manhattan,Hell's Kitchen,40.75643,-73.99046,Entire home/apt,200,7,13,1,327
+380416,Brooklyn,Park Slope,40.67407,-73.98111,Entire home/apt,125,4,23,2,262
+380730,Brooklyn,Sheepshead Bay,40.59721,-73.95149,Entire home/apt,50,30,3,1,0
+382523,Manhattan,Harlem,40.80491,-73.94866,Private room,160,3,10,3,359
+382524,Manhattan,Harlem,40.80334,-73.94805,Private room,180,3,14,3,348
+385190,Manhattan,Inwood,40.87039,-73.91611,Private room,100,1,20,1,0
+385657,Brooklyn,Williamsburg,40.704,-73.93285,Private room,70,5,2,1,0
+385824,Bronx,Spuyten Duyvil,40.87991,-73.91673,Entire home/apt,120,2,47,1,318
+386555,Staten Island,Stapleton,40.62766,-74.07988,Private room,110,2,6,1,363
+386744,Manhattan,Upper East Side,40.7685,-73.96034,Private room,105,7,93,1,70
+386799,Manhattan,Midtown,40.76082,-73.97548,Entire home/apt,250,3,116,1,0
+387324,Manhattan,Kips Bay,40.74238,-73.98122,Private room,74,240,15,1,90
+387377,Manhattan,Harlem,40.80151,-73.9522,Entire home/apt,165,2,70,4,15
+387666,Manhattan,Washington Heights,40.83434,-73.94027,Private room,99,3,4,1,335
+387735,Manhattan,Gramercy,40.73677,-73.98084,Entire home/apt,125,30,128,4,0
+389482,Queens,Briarwood,40.71151,-73.81561,Private room,75,1,59,2,0
+391948,Queens,Ozone Park,40.68581,-73.84642,Shared room,45,1,8,2,364
+391955,Brooklyn,Columbia St,40.68636,-74.00345,Entire home/apt,159,2,106,1,34
+392948,Brooklyn,Williamsburg,40.70994,-73.96573,Private room,45,15,15,4,242
+393016,Manhattan,Hell's Kitchen,40.76013,-73.99007,Private room,104,2,133,1,147
+393094,Manhattan,Financial District,40.70621,-74.01525,Entire home/apt,225,4,27,1,169
+393682,Manhattan,Nolita,40.72172,-73.99689,Private room,100,5,61,1,188
+394026,Brooklyn,Greenpoint,40.72049,-73.95221,Private room,90,2,2,2,89
+394111,Queens,Briarwood,40.71068,-73.81577,Private room,75,1,16,2,189
+396636,Manhattan,Harlem,40.83091,-73.94223,Entire home/apt,135,5,38,1,253
+397034,Manhattan,Upper West Side,40.7824,-73.98294,Private room,125,1,25,1,311
+397297,Manhattan,East Village,40.72634,-73.98267,Entire home/apt,225,3,93,1,0
+397420,Manhattan,Harlem,40.82703,-73.94311,Private room,85,3,6,1,363
+398281,Manhattan,Upper East Side,40.78521,-73.95489,Entire home/apt,200,7,30,1,224
+398283,Brooklyn,South Slope,40.66106,-73.98316,Entire home/apt,250,3,17,1,5
+399946,Manhattan,Lower East Side,40.72123,-73.98996,Private room,90,10,67,1,301
+400039,Brooklyn,Bushwick,40.70339,-73.92945,Entire home/apt,130,30,53,1,0
+400466,Brooklyn,Prospect-Lefferts Gardens,40.66009,-73.96237,Entire home/apt,90,30,32,1,50
+401579,Brooklyn,Carroll Gardens,40.67939,-73.99398,Entire home/apt,298,30,131,2,296
+401836,Manhattan,Upper East Side,40.76494,-73.95804,Entire home/apt,300,4,19,1,84
+403056,Manhattan,East Harlem,40.79314,-73.94853,Private room,125,3,74,3,212
+403264,Manhattan,Midtown,40.7453,-73.99056,Private room,145,3,165,2,181
+403668,Manhattan,East Village,40.72812,-73.97966,Entire home/apt,147,2,16,1,0
+404502,Brooklyn,Williamsburg,40.7093,-73.96484,Private room,123,3,269,3,158
+404923,Brooklyn,Windsor Terrace,40.64791,-73.97904,Entire home/apt,88,3,243,1,217
+405025,Queens,Long Island City,40.75453,-73.93377,Entire home/apt,215,2,59,1,335
+405408,Manhattan,SoHo,40.72057,-73.99976,Entire home/apt,225,3,134,1,231
+406926,Manhattan,Nolita,40.7234,-73.99439,Entire home/apt,269,28,81,1,122
+406992,Brooklyn,Williamsburg,40.71121,-73.94669,Entire home/apt,145,3,7,1,270
+407469,Brooklyn,Bushwick,40.68979,-73.91661,Private room,75,3,112,8,330
+408983,Brooklyn,Prospect-Lefferts Gardens,40.65937,-73.95906,Entire home/apt,229,2,92,1,321
+409262,Brooklyn,Boerum Hill,40.68599,-73.98826,Entire home/apt,300,29,23,2,312
+409293,Manhattan,East Harlem,40.79477,-73.95046,Private room,100,3,67,3,345
+409666,Brooklyn,Brighton Beach,40.5781,-73.95455,Entire home/apt,75,2,8,1,2
+411336,Manhattan,Nolita,40.72278,-73.9967,Entire home/apt,225,2,244,2,252
+411525,Brooklyn,Williamsburg,40.71472,-73.96225,Private room,120,6,62,2,15
+411918,Brooklyn,Crown Heights,40.66924,-73.94406,Entire home/apt,160,5,125,3,169
+412061,Brooklyn,Crown Heights,40.67259,-73.95489,Entire home/apt,125,30,58,2,212
+412180,Brooklyn,Bedford-Stuyvesant,40.69321,-73.9442,Entire home/apt,95,5,9,1,0
+413504,Brooklyn,Williamsburg,40.71348,-73.94447,Private room,119,3,137,1,296
+413775,Manhattan,Midtown,40.75816,-73.96457,Entire home/apt,275,2,16,1,167
+413876,Manhattan,Financial District,40.70537,-74.00992,Entire home/apt,160,1,36,1,365
+414801,Brooklyn,Clinton Hill,40.68722,-73.96289,Entire home/apt,500,1,54,4,365
+415304,Manhattan,East Village,40.73111,-73.98528,Entire home/apt,175,14,1,1,0
+416557,Brooklyn,Greenpoint,40.72212,-73.94389,Entire home/apt,87,6,39,2,258
+417685,Brooklyn,Park Slope,40.66626,-73.97933,Entire home/apt,160,1,145,2,257
+418291,Manhattan,East Village,40.72978,-73.9793,Private room,125,3,28,1,364
+419373,Brooklyn,Bedford-Stuyvesant,40.68838,-73.94193,Entire home/apt,90,2,206,1,236
+419792,Manhattan,Lower East Side,40.71804,-73.98565,Entire home/apt,200,7,4,1,0
+421554,Brooklyn,Bedford-Stuyvesant,40.68559,-73.93896,Entire home/apt,250,15,37,2,54
+422040,Manhattan,Upper West Side,40.77995,-73.98342,Private room,99,30,27,1,189
+424192,Manhattan,Hell's Kitchen,40.7559,-73.99469,Entire home/apt,325,30,18,1,364
+424667,Manhattan,Hell's Kitchen,40.76291,-73.99202,Private room,99,1,134,1,265
+424767,Manhattan,Midtown,40.74406,-73.98273,Entire home/apt,325,2,197,1,207
+424889,Manhattan,West Village,40.73041,-74.00498,Entire home/apt,129,7,5,1,0
+424930,Brooklyn,Crown Heights,40.6764,-73.96218,Entire home/apt,130,28,5,1,196
+425784,Brooklyn,Vinegar Hill,40.70279,-73.98284,Entire home/apt,190,4,8,1,0
+428226,Brooklyn,Crown Heights,40.67436,-73.956,Private room,55,2,62,2,57
+430427,Manhattan,Washington Heights,40.83559,-73.94095,Private room,60,2,13,1,0
+430665,Manhattan,Upper West Side,40.79234,-73.96482,Entire home/apt,250,1,8,1,0
+431865,Manhattan,Washington Heights,40.83451,-73.93885,Entire home/apt,275,3,50,2,277
+432090,Queens,Long Island City,40.74826,-73.94633,Private room,50,180,69,1,0
+433218,Brooklyn,Prospect Heights,40.67763,-73.97185,Entire home/apt,125,4,41,1,10
+433414,Brooklyn,Clinton Hill,40.68472,-73.96691,Entire home/apt,150,20,89,1,247
+433914,Brooklyn,East New York,40.65408,-73.87883,Entire home/apt,70,4,40,1,273
+434792,Brooklyn,Gowanus,40.67302,-73.98756,Entire home/apt,138,3,106,1,189
+435774,Manhattan,Financial District,40.70633,-74.00974,Entire home/apt,265,4,33,1,0
+435776,Manhattan,Upper East Side,40.77548,-73.95183,Private room,145,5,2,1,365
+435909,Manhattan,West Village,40.73775,-74.00344,Entire home/apt,151,88,19,1,249
+435946,Manhattan,Financial District,40.70917,-74.0146,Entire home/apt,208,6,100,1,310
+436510,Brooklyn,Williamsburg,40.7108,-73.96226,Entire home/apt,200,3,16,1,291
+436619,Manhattan,East Village,40.72507,-73.98861,Private room,110,2,64,1,74
+436824,Manhattan,Harlem,40.82726,-73.9444,Private room,58,1,17,2,289
+436916,Manhattan,Harlem,40.82669,-73.94281,Private room,55,2,7,1,0
+437352,Brooklyn,Park Slope,40.67078,-73.98815,Entire home/apt,105,115,15,1,219
+437906,Manhattan,East Village,40.728,-73.97903,Entire home/apt,350,5,4,1,0
+438513,Brooklyn,Prospect-Lefferts Gardens,40.65814,-73.96181,Entire home/apt,150,3,87,1,73
+439750,Brooklyn,Williamsburg,40.71517,-73.94292,Private room,55,150,10,1,97
+442636,Queens,Ridgewood,40.70054,-73.90255,Entire home/apt,77,3,289,1,85
+442649,Manhattan,Chelsea,40.74572,-73.99965,Entire home/apt,125,9,10,1,0
+443646,Manhattan,Upper West Side,40.78911,-73.97396,Entire home/apt,395,14,39,1,50
+444171,Brooklyn,Bedford-Stuyvesant,40.68813,-73.92817,Entire home/apt,189,7,7,2,303
+444430,Bronx,Mott Haven,40.81128,-73.92399,Private room,49,1,23,1,333
+446367,Manhattan,Upper West Side,40.77593,-73.97699,Entire home/apt,90,4,22,1,239
+447766,Manhattan,Kips Bay,40.73903,-73.97975,Private room,100,1,1,1,6
+447840,Brooklyn,Williamsburg,40.71164,-73.965,Entire home/apt,299,2,5,3,0
+448048,Queens,Jackson Heights,40.75193,-73.87873,Private room,75,5,30,3,180
+448049,Queens,Jackson Heights,40.74906,-73.89377,Private room,69,7,55,3,318
+449034,Brooklyn,Williamsburg,40.71756,-73.95282,Private room,90,1,155,3,328
+449130,Manhattan,Harlem,40.8179,-73.94319,Private room,94,1,95,1,18
+449660,Brooklyn,Windsor Terrace,40.64814,-73.97304,Private room,80,2,118,1,353
+449680,Bronx,Longwood,40.81611,-73.89909,Entire home/apt,100,5,82,1,63
+450009,Brooklyn,Canarsie,40.62897,-73.90334,Private room,39,5,105,3,34
+450577,Manhattan,Upper West Side,40.77555,-73.9767,Entire home/apt,250,3,73,1,284
+450578,Brooklyn,Sunset Park,40.6397,-74.0162,Private room,55,7,28,2,333
+452068,Brooklyn,Kensington,40.64205,-73.97173,Entire home/apt,200,1,3,1,0
+452541,Brooklyn,Windsor Terrace,40.66034,-73.9829,Entire home/apt,142,3,120,1,222
+453094,Brooklyn,Clinton Hill,40.68699,-73.9635,Private room,70,2,339,3,333
+453161,Brooklyn,Greenpoint,40.72183,-73.94908,Entire home/apt,260,2,7,1,0
+453255,Manhattan,Lower East Side,40.71986,-73.9869,Entire home/apt,225,4,13,1,195
+453317,Brooklyn,Bedford-Stuyvesant,40.68881,-73.95405,Private room,59,21,6,3,0
+454334,Manhattan,Harlem,40.81669,-73.94267,Private room,65,1,3,1,0
+454763,Manhattan,Inwood,40.86717,-73.9194,Entire home/apt,99,20,11,1,249
+454929,Manhattan,East Village,40.72981,-73.98318,Entire home/apt,239,2,67,1,78
+455734,Manhattan,Inwood,40.86929,-73.92421,Entire home/apt,50,2,123,1,21
+455801,Manhattan,Harlem,40.80533,-73.95204,Private room,65,4,109,3,0
+456110,Manhattan,Chelsea,40.7476,-73.99698,Entire home/apt,139,4,23,1,0
+456190,Manhattan,West Village,40.73357,-74.00723,Entire home/apt,174,2,269,2,167
+456457,Manhattan,West Village,40.73204,-74.00189,Entire home/apt,315,3,7,1,0
+456526,Manhattan,Harlem,40.81713,-73.94217,Private room,75,3,36,1,47
+457829,Manhattan,East Village,40.72917,-73.98811,Entire home/apt,210,1,178,1,0
+458154,Brooklyn,Williamsburg,40.7061,-73.94531,Private room,55,4,132,2,195
+458377,Brooklyn,Williamsburg,40.70147,-73.94378,Entire home/apt,229,3,12,1,319
+459066,Manhattan,Upper East Side,40.76719,-73.95303,Entire home/apt,150,2,23,1,0
+460036,Manhattan,Kips Bay,40.74134,-73.98113,Entire home/apt,129,2,47,1,177
+460999,Manhattan,Harlem,40.8162,-73.94747,Entire home/apt,100,8,8,1,0
+461050,Brooklyn,Williamsburg,40.71613,-73.95837,Entire home/apt,200,3,17,1,67
+462454,Manhattan,Lower East Side,40.71746,-73.98782,Private room,89,5,4,1,0
+463107,Brooklyn,Crown Heights,40.66933,-73.93798,Entire home/apt,250,90,19,1,311
+464231,Brooklyn,Bedford-Stuyvesant,40.68905,-73.9541,Private room,65,7,2,3,0
+465277,Brooklyn,Crown Heights,40.67615,-73.95441,Entire home/apt,68,2,35,3,0
+466277,Brooklyn,Williamsburg,40.7111,-73.94643,Entire home/apt,235,3,108,2,144
+466457,Brooklyn,Bedford-Stuyvesant,40.68944,-73.9376,Entire home/apt,100,3,182,1,220
+467569,Manhattan,Lower East Side,40.72106,-73.98384,Entire home/apt,311,3,31,1,28
+467634,Queens,Jamaica,40.67747,-73.76493,Shared room,39,1,454,1,353
+467866,Manhattan,West Village,40.73123,-74.00591,Private room,100,2,199,1,19
+470090,Manhattan,Lower East Side,40.72147,-73.99208,Entire home/apt,210,1,230,1,319
+470370,Brooklyn,Crown Heights,40.66604,-73.95086,Private room,55,4,101,4,170
+470498,Manhattan,Battery Park City,40.71012,-74.01504,Private room,65,2,8,1,0
+470709,Brooklyn,Williamsburg,40.71856,-73.95166,Entire home/apt,165,30,154,1,157
+471712,Manhattan,Morningside Heights,40.80661,-73.9576,Private room,89,28,69,1,80
+471758,Manhattan,Tribeca,40.72203,-74.00988,Entire home/apt,500,10,3,1,0
+471845,Brooklyn,Bedford-Stuyvesant,40.68229,-73.94287,Entire home/apt,145,14,3,1,0
+471914,Brooklyn,Prospect-Lefferts Gardens,40.65955,-73.96066,Private room,110,4,12,1,330
+472052,Manhattan,Upper West Side,40.77137,-73.98943,Entire home/apt,180,5,13,1,0
+472376,Brooklyn,Prospect Heights,40.67796,-73.96458,Entire home/apt,115,2,10,1,0
+472546,Brooklyn,Bushwick,40.6933,-73.90823,Entire home/apt,82,15,5,1,311
+473592,Queens,Long Island City,40.7502,-73.94189,Private room,70,1,144,2,340
+473777,Brooklyn,Williamsburg,40.71285,-73.94383,Entire home/apt,155,5,10,1,0
+475216,Brooklyn,Sunset Park,40.66387,-73.99077,Entire home/apt,100,2,17,1,0
+476527,Manhattan,East Village,40.72893,-73.98278,Entire home/apt,89,30,57,6,0
+476570,Manhattan,East Village,40.73009,-73.9827,Entire home/apt,89,30,70,6,4
+476571,Manhattan,East Village,40.72955,-73.98298,Entire home/apt,99,30,62,6,8
+476899,Manhattan,East Village,40.72693,-73.98521,Entire home/apt,155,6,17,1,0
+476983,Manhattan,Harlem,40.82537,-73.94392,Private room,85,1,439,2,238
+478053,Manhattan,Two Bridges,40.71137,-73.99403,Private room,80,4,48,1,96
+478385,Manhattan,Kips Bay,40.74428,-73.97809,Entire home/apt,135,3,134,1,236
+478832,Brooklyn,Carroll Gardens,40.67579,-73.99968,Entire home/apt,150,6,2,1,0
+478949,Manhattan,Chelsea,40.74087,-74.00226,Entire home/apt,380,3,16,1,0
+479002,Brooklyn,Fort Greene,40.68723,-73.96897,Entire home/apt,450,2,31,1,30
+479263,Brooklyn,Williamsburg,40.7182,-73.95763,Entire home/apt,145,30,36,1,342
+479285,Queens,Sunnyside,40.74679,-73.91853,Private room,80,3,1,1,330
+479867,Brooklyn,Williamsburg,40.71739,-73.95472,Entire home/apt,225,2,338,2,225
+480549,Manhattan,Upper West Side,40.77099,-73.9898,Private room,99,3,117,1,0
+481022,Manhattan,Lower East Side,40.7195,-73.98022,Entire home/apt,125,1,261,1,212
+482365,Manhattan,Hell's Kitchen,40.75636,-73.9939,Entire home/apt,80,30,32,7,365
+482765,Brooklyn,Fort Greene,40.68834,-73.97875,Private room,100,2,112,2,12
+483414,Brooklyn,Bedford-Stuyvesant,40.68586,-73.94837,Private room,55,2,22,4,297
+483485,Manhattan,Civic Center,40.71164,-74.00774,Entire home/apt,328,2,319,1,112
+483505,Brooklyn,Williamsburg,40.70743,-73.96728,Entire home/apt,142,7,69,1,261
+484297,Brooklyn,Clinton Hill,40.68545,-73.96534,Entire home/apt,350,4,10,1,0
+484312,Brooklyn,Windsor Terrace,40.65854,-73.98384,Entire home/apt,300,2,24,1,23
+484728,Brooklyn,Fort Hamilton,40.61269,-74.03381,Entire home/apt,105,30,3,1,30
+485026,Brooklyn,Gowanus,40.67858,-73.98537,Private room,125,31,17,2,331
+486350,Brooklyn,Williamsburg,40.70821,-73.95352,Entire home/apt,225,7,13,2,0
+488083,Brooklyn,Sunset Park,40.66158,-73.98954,Entire home/apt,92,2,58,1,0
+489018,Manhattan,East Village,40.72457,-73.98453,Entire home/apt,185,2,62,1,0
+489365,Brooklyn,Williamsburg,40.71689,-73.95706,Entire home/apt,226,3,203,1,38
+489924,Brooklyn,Sunset Park,40.66221,-73.99743,Private room,50,2,33,1,20
+489965,Manhattan,East Harlem,40.79313,-73.93493,Private room,80,3,47,2,0
+490278,Manhattan,Midtown,40.75632,-73.96464,Entire home/apt,99,14,30,1,317
+490989,Brooklyn,Park Slope,40.67996,-73.98027,Entire home/apt,68,3,2,1,0
+491123,Brooklyn,Prospect Heights,40.67369,-73.96589,Private room,102,2,121,1,361
+491529,Brooklyn,Park Slope,40.67211,-73.976,Entire home/apt,220,3,27,1,68
+491942,Manhattan,Upper West Side,40.79183,-73.97172,Entire home/apt,199,3,24,1,0
+491977,Manhattan,Chinatown,40.71456,-73.99978,Entire home/apt,165,5,22,1,316
+493177,Manhattan,Chinatown,40.71668,-73.99073,Entire home/apt,150,2,162,1,231
+493611,Brooklyn,Gowanus,40.67862,-73.98561,Entire home/apt,385,1,66,2,363
+494937,Manhattan,SoHo,40.72162,-74.00414,Entire home/apt,499,2,63,1,26
+495249,Queens,East Elmhurst,40.75541,-73.89239,Private room,85,1,219,2,305
+495348,Brooklyn,Fort Greene,40.69011,-73.97691,Entire home/apt,160,4,2,2,34
+496166,Brooklyn,South Slope,40.66641,-73.98283,Entire home/apt,249,3,12,1,26
+497370,Brooklyn,Gowanus,40.67828,-73.99136,Private room,80,2,35,1,189
+498052,Brooklyn,Williamsburg,40.71483,-73.96216,Private room,120,1,124,1,292
+498120,Bronx,Allerton,40.8687,-73.8524,Private room,35,7,2,1,90
+498859,Brooklyn,Brighton Beach,40.5822,-73.96392,Entire home/apt,169,4,63,1,323
+500845,Manhattan,East Village,40.72686,-73.9797,Entire home/apt,220,4,162,1,341
+500886,Brooklyn,Bedford-Stuyvesant,40.68825,-73.92951,Private room,85,3,103,2,344
+501082,Manhattan,Harlem,40.82392,-73.94205,Private room,79,30,185,1,302
+501098,Brooklyn,Williamsburg,40.71384,-73.9474,Private room,90,4,219,1,30
+501693,Manhattan,Upper West Side,40.7952,-73.9624,Private room,99,1,280,1,246
+502132,Manhattan,Chelsea,40.73942,-74.00009,Shared room,50,1,61,2,0
+502309,Brooklyn,Prospect-Lefferts Gardens,40.65524,-73.95646,Private room,46,1,184,5,362
+502429,Brooklyn,South Slope,40.66153,-73.98554,Entire home/apt,325,3,116,1,203
+503460,Staten Island,New Springville,40.59274,-74.16178,Private room,68,2,11,1,88
+503529,Manhattan,SoHo,40.72701,-74.0011,Entire home/apt,198,3,9,1,0
+503585,Brooklyn,Bedford-Stuyvesant,40.68607,-73.95839,Entire home/apt,100,5,4,1,0
+503722,Brooklyn,Williamsburg,40.71345,-73.95689,Entire home/apt,175,2,15,1,64
+503790,Manhattan,West Village,40.73214,-74.00188,Entire home/apt,130,4,22,1,77
+504322,Manhattan,Greenwich Village,40.72903,-74.00028,Entire home/apt,180,3,18,1,0
+504362,Brooklyn,Prospect Heights,40.67823,-73.97007,Entire home/apt,209,3,56,1,160
+504394,Manhattan,Upper West Side,40.79842,-73.96903,Entire home/apt,150,4,2,1,141
+504437,Manhattan,Lower East Side,40.72232,-73.98686,Entire home/apt,104,3,57,1,6
+505029,Manhattan,East Village,40.72454,-73.97944,Entire home/apt,175,4,13,1,0
+505231,Manhattan,Upper East Side,40.77799,-73.95223,Private room,80,1,1,1,0
+505315,Brooklyn,Bushwick,40.69227,-73.90852,Private room,68,2,37,1,23
+506121,Manhattan,East Village,40.7276,-73.98347,Private room,72,5,451,2,13
+506527,Queens,Astoria,40.75782,-73.92129,Entire home/apt,107,30,24,8,262
+506571,Manhattan,East Village,40.72756,-73.97939,Entire home/apt,150,7,19,1,24
+506575,Bronx,Morris Heights,40.84937,-73.91328,Private room,45,3,190,2,329
+507393,Brooklyn,Bedford-Stuyvesant,40.68549,-73.94724,Private room,49,2,46,4,301
+509989,Brooklyn,Flatbush,40.64229,-73.96548,Entire home/apt,349,1,169,1,344
+510218,Manhattan,Upper West Side,40.79218,-73.97926,Entire home/apt,185,2,165,1,259
+510454,Manhattan,Kips Bay,40.73951,-73.98146,Entire home/apt,145,3,2,1,0
+511436,Brooklyn,Williamsburg,40.7139,-73.96553,Entire home/apt,96,3,1,1,0
+511733,Brooklyn,Bushwick,40.70753,-73.92048,Entire home/apt,120,5,3,1,0
+511960,Manhattan,East Village,40.73044,-73.98683,Entire home/apt,160,1,15,1,0
+512209,Brooklyn,Brooklyn Heights,40.69964,-73.99299,Entire home/apt,800,3,60,1,67
+512210,Brooklyn,Crown Heights,40.67709,-73.95237,Entire home/apt,349,2,320,1,260
+512775,Queens,Long Island City,40.75296,-73.93716,Entire home/apt,350,2,182,1,272
+513343,Brooklyn,Prospect Heights,40.67717,-73.96915,Entire home/apt,125,30,1,1,341
+513688,Brooklyn,Boerum Hill,40.68586,-73.9809,Entire home/apt,350,2,134,1,56
+514457,Brooklyn,Bedford-Stuyvesant,40.68543,-73.93838,Entire home/apt,150,10,10,2,185
+515392,Manhattan,Chelsea,40.74348,-73.9998,Entire home/apt,200,1,60,1,260
+516452,Brooklyn,Fort Greene,40.68679,-73.97378,Entire home/apt,99,30,5,1,242
+516461,Manhattan,Chelsea,40.75086,-73.99776,Entire home/apt,130,5,9,1,0
+516643,Brooklyn,Williamsburg,40.71915,-73.95581,Entire home/apt,150,3,1,1,0
+516791,Brooklyn,Kensington,40.64625,-73.97932,Entire home/apt,90,10,33,1,269
+517626,Brooklyn,Williamsburg,40.71577,-73.94084,Private room,95,1,10,1,0
+517654,Queens,Ridgewood,40.70278,-73.90153,Entire home/apt,70,30,3,1,0
+518566,Manhattan,Upper East Side,40.77108,-73.95967,Private room,82,3,10,2,251
+518576,Brooklyn,Bedford-Stuyvesant,40.68812,-73.94627,Entire home/apt,250,30,62,3,292
+518960,Manhattan,Harlem,40.82823,-73.94691,Entire home/apt,90,4,266,1,150
+519310,Queens,Woodside,40.74377,-73.91225,Private room,75,2,251,2,317
+521018,Brooklyn,Clinton Hill,40.69432,-73.96481,Entire home/apt,160,14,3,1,0
+521038,Manhattan,Harlem,40.82749,-73.9382,Private room,115,7,8,1,178
+521522,Brooklyn,South Slope,40.66777,-73.98367,Private room,150,4,5,1,0
+521672,Brooklyn,Williamsburg,40.71423,-73.95305,Private room,89,4,160,1,23
+521806,Queens,Rego Park,40.72719,-73.86166,Entire home/apt,69,5,5,1,4
+522081,Manhattan,Chelsea,40.74341,-73.99298,Private room,170,2,183,2,254
+523123,Brooklyn,South Slope,40.66051,-73.98495,Entire home/apt,375,5,19,1,43
+524111,Manhattan,East Village,40.72915,-73.98019,Entire home/apt,118,3,141,1,13
+525120,Manhattan,Chelsea,40.74767,-74.01061,Entire home/apt,135,6,42,1,170
+525293,Bronx,Concourse,40.82822,-73.92439,Entire home/apt,250,3,119,1,339
+525388,Brooklyn,Greenpoint,40.73067,-73.955,Entire home/apt,200,7,20,1,365
+525412,Manhattan,Nolita,40.72246,-73.99552,Entire home/apt,150,5,5,1,0
+525523,Manhattan,East Harlem,40.80762,-73.94017,Private room,50,2,16,1,60
+526532,Manhattan,Harlem,40.80719,-73.94253,Entire home/apt,100,2,24,1,0
+526923,Manhattan,Flatiron District,40.74129,-73.98374,Entire home/apt,265,3,26,1,341
+526942,Manhattan,Upper East Side,40.77761,-73.94606,Private room,90,30,3,1,128
+528485,Brooklyn,Sunset Park,40.66119,-73.98822,Private room,36,10,5,2,44
+530247,Manhattan,Upper West Side,40.78339,-73.98003,Entire home/apt,250,4,2,2,0
+530431,Manhattan,Harlem,40.80654,-73.95019,Entire home/apt,220,3,194,1,338
+530576,Manhattan,Upper West Side,40.78111,-73.97739,Private room,93,14,88,1,176
+530632,Brooklyn,Crown Heights,40.67147,-73.94979,Entire home/apt,275,5,2,1,357
+531091,Queens,Astoria,40.75532,-73.91603,Private room,109,30,304,1,0
+531208,Brooklyn,Williamsburg,40.70762,-73.96764,Entire home/apt,450,2,11,1,0
+531258,Manhattan,Greenwich Village,40.7311,-73.99913,Entire home/apt,165,30,19,1,259
+531455,Brooklyn,Prospect-Lefferts Gardens,40.66199,-73.96294,Entire home/apt,80,7,23,1,20
+532288,Manhattan,Greenwich Village,40.73176,-73.99895,Private room,295,5,103,3,350
+532749,Brooklyn,Williamsburg,40.71606,-73.95526,Entire home/apt,280,7,82,1,41
+533168,Manhattan,Nolita,40.72184,-73.9944,Entire home/apt,300,30,92,1,106
+533506,Manhattan,East Village,40.72829,-73.98156,Entire home/apt,99,30,66,6,0
+533625,Brooklyn,Bedford-Stuyvesant,40.69043,-73.95677,Entire home/apt,175,3,18,2,0
+533927,Manhattan,Chelsea,40.74403,-73.99581,Entire home/apt,225,4,153,1,205
+534897,Manhattan,Chelsea,40.74552,-74.0006,Entire home/apt,230,6,6,1,0
+535095,Brooklyn,Prospect Heights,40.6744,-73.96558,Private room,90,7,43,1,38
+535352,Manhattan,Upper West Side,40.79358,-73.97043,Entire home/apt,102,3,36,1,21
+536578,Brooklyn,Bushwick,40.7014,-73.91333,Private room,59,10,19,1,0
+538344,Manhattan,East Village,40.72924,-73.98113,Entire home/apt,195,2,160,1,68
+538590,Queens,Astoria,40.75919,-73.91836,Entire home/apt,150,3,74,2,365
+539160,Manhattan,Washington Heights,40.83064,-73.94076,Entire home/apt,170,1,47,2,17
+539350,Manhattan,Hell's Kitchen,40.76184,-73.99334,Entire home/apt,217,2,43,1,0
+540057,Manhattan,Harlem,40.82445,-73.95243,Entire home/apt,185,1,102,2,91
+540489,Manhattan,Little Italy,40.72006,-73.99579,Private room,58,6,18,1,0
+541725,Brooklyn,Williamsburg,40.71872,-73.96042,Entire home/apt,189,4,33,2,1
+542054,Manhattan,East Village,40.72855,-73.98265,Entire home/apt,88,30,60,6,0
+542203,Manhattan,Hell's Kitchen,40.76304,-73.9888,Entire home/apt,195,3,22,2,59
+543792,Queens,Ridgewood,40.70878,-73.91727,Entire home/apt,110,5,107,1,276
+544131,Manhattan,Greenwich Village,40.72987,-74.00082,Private room,79,4,87,1,30
+544331,Manhattan,Upper East Side,40.77424,-73.94839,Entire home/apt,110,10,16,1,0
+545261,Brooklyn,Clinton Hill,40.68752,-73.96688,Private room,200,3,2,1,365
+545651,Brooklyn,Prospect-Lefferts Gardens,40.65841,-73.95016,Private room,69,4,19,3,43
+546383,Queens,Flushing,40.75578,-73.81948,Private room,55,1,474,3,332
+546504,Brooklyn,Brooklyn Heights,40.69271,-73.99365,Entire home/apt,135,4,5,1,0
+546573,Manhattan,Financial District,40.70587,-74.01534,Entire home/apt,500,2,63,1,79
+548133,Brooklyn,Clinton Hill,40.69073,-73.96762,Entire home/apt,135,3,28,1,211
+549873,Manhattan,East Village,40.72564,-73.98252,Entire home/apt,90,2,5,1,0
+550288,Manhattan,Upper East Side,40.78024,-73.94813,Entire home/apt,160,4,16,1,0
+550653,Brooklyn,Windsor Terrace,40.6599,-73.98279,Private room,65,20,6,1,311
+550777,Manhattan,Upper West Side,40.7964,-73.9675,Entire home/apt,210,3,25,1,347
+550858,Manhattan,Chelsea,40.74664,-73.99441,Entire home/apt,399,3,15,1,0
+552141,Manhattan,Lower East Side,40.71788,-73.98975,Entire home/apt,300,1,45,1,111
+552519,Brooklyn,Crown Heights,40.67356,-73.9425,Entire home/apt,185,1,215,3,348
+552639,Manhattan,Harlem,40.81757,-73.94709,Entire home/apt,220,3,33,2,174
+553516,Brooklyn,Prospect Heights,40.68052,-73.97254,Entire home/apt,121,2,46,1,0
+553565,Manhattan,Inwood,40.86821,-73.92252,Entire home/apt,120,10,25,1,129
+553862,Brooklyn,Park Slope,40.67981,-73.97967,Private room,152,2,23,1,365
+554165,Brooklyn,Gowanus,40.68251,-73.98486,Entire home/apt,250,2,57,1,25
+555206,Manhattan,East Village,40.72718,-73.9812,Private room,99,6,80,1,0
+557487,Brooklyn,Greenpoint,40.72363,-73.9457,Entire home/apt,104,11,22,1,0
+559511,Brooklyn,Greenpoint,40.72697,-73.93921,Entire home/apt,120,5,40,1,0
+560078,Manhattan,East Village,40.72274,-73.97934,Entire home/apt,295,3,85,1,261
+560406,Brooklyn,Carroll Gardens,40.68343,-73.99189,Entire home/apt,90,4,1,1,0
+563442,Manhattan,West Village,40.73514,-73.99954,Entire home/apt,197,14,29,1,0
+563496,Manhattan,Greenwich Village,40.73481,-73.99845,Entire home/apt,145,5,1,1,0
+564049,Manhattan,Upper West Side,40.80053,-73.96651,Entire home/apt,90,30,23,1,0
+564184,Manhattan,Chelsea,40.73971,-74.00221,Private room,125,2,42,1,172
+564447,Manhattan,Hell's Kitchen,40.75767,-73.99034,Entire home/apt,190,1,195,1,69
+564751,Manhattan,Upper West Side,40.80165,-73.96287,Shared room,76,2,158,3,324
+565814,Brooklyn,Bedford-Stuyvesant,40.68328,-73.9379,Private room,50,2,1,1,0
+566712,Manhattan,East Village,40.72819,-73.97933,Private room,107,1,115,1,85
+566911,Brooklyn,Bedford-Stuyvesant,40.68411,-73.93875,Entire home/apt,80,4,42,1,245
+567195,Brooklyn,Bedford-Stuyvesant,40.68269,-73.94004,Entire home/apt,150,5,3,1,0
+568661,Brooklyn,Bushwick,40.70779,-73.92129,Entire home/apt,110,90,32,1,330
+568684,Brooklyn,Bushwick,40.70202,-73.92402,Entire home/apt,115,370,6,1,365
+568743,Manhattan,East Village,40.72603,-73.98751,Entire home/apt,151,2,214,3,256
+570218,Brooklyn,Fort Greene,40.68522,-73.97771,Entire home/apt,130,2,11,1,0
+570750,Brooklyn,Crown Heights,40.67391,-73.94039,Entire home/apt,180,2,221,1,264
+571564,Brooklyn,Crown Heights,40.67436,-73.94807,Private room,95,1,123,3,359
+573612,Manhattan,Harlem,40.81199,-73.95116,Private room,79,1,132,2,335
+573671,Brooklyn,Bedford-Stuyvesant,40.68586,-73.9501,Private room,60,30,41,8,245
+573795,Brooklyn,East Flatbush,40.65204,-73.94938,Entire home/apt,133,4,104,1,338
+573870,Manhattan,Upper West Side,40.78292,-73.97438,Entire home/apt,120,30,18,5,337
+575061,Brooklyn,Williamsburg,40.71603,-73.95665,Private room,120,2,143,1,102
+576227,Manhattan,Harlem,40.82446,-73.95274,Private room,700,28,4,1,22
+576426,Manhattan,Hell's Kitchen,40.7641,-73.98803,Entire home/apt,165,3,25,1,0
+576916,Manhattan,Upper West Side,40.79785,-73.97202,Entire home/apt,165,4,4,1,0
+577324,Queens,Ditmars Steinway,40.76961,-73.90451,Entire home/apt,54,45,198,1,80
+577703,Manhattan,East Village,40.73047,-73.98229,Entire home/apt,100,5,6,1,0
+577824,Brooklyn,Crown Heights,40.6772,-73.9506,Private room,80,7,10,1,365
+578267,Manhattan,Chinatown,40.71328,-73.99315,Private room,96,19,30,1,165
+578941,Brooklyn,Park Slope,40.66732,-73.98233,Entire home/apt,159,2,4,1,0
+579716,Brooklyn,South Slope,40.66488,-73.98079,Private room,50,2,201,1,54
+580323,Manhattan,East Harlem,40.78837,-73.94628,Private room,75,2,51,1,77
+581180,Brooklyn,Clinton Hill,40.68232,-73.96501,Entire home/apt,155,30,63,1,249
+581421,Brooklyn,Greenpoint,40.73252,-73.95496,Private room,150,2,28,1,72
+581542,Queens,Arverne,40.59783,-73.80158,Entire home/apt,92,1,55,1,8
+582272,Brooklyn,Greenpoint,40.72437,-73.94847,Private room,75,5,1,1,0
+582372,Queens,Astoria,40.77115,-73.92275,Private room,69,40,23,1,207
+583337,Brooklyn,Carroll Gardens,40.67859,-73.99444,Entire home/apt,115,4,61,1,15
+583352,Manhattan,East Village,40.72304,-73.97923,Entire home/apt,120,60,5,1,0
+584122,Manhattan,Hell's Kitchen,40.77032,-73.99493,Private room,120,2,67,1,179
+585369,Manhattan,Greenwich Village,40.72692,-73.99948,Entire home/apt,215,30,110,1,332
+585491,Brooklyn,Crown Heights,40.6806,-73.96317,Entire home/apt,195,2,160,1,255
+585937,Brooklyn,Greenpoint,40.72949,-73.95493,Entire home/apt,175,3,102,2,215
+586847,Brooklyn,Crown Heights,40.67649,-73.9435,Private room,80,2,5,4,311
+587519,Brooklyn,Williamsburg,40.71099,-73.95217,Private room,48,5,1,1,0
+587554,Manhattan,West Village,40.73041,-74.00326,Entire home/apt,200,7,34,1,217
+587641,Brooklyn,Williamsburg,40.7197,-73.95741,Entire home/apt,275,30,6,1,363
+587698,Brooklyn,Gravesend,40.60399,-73.97092,Private room,72,1,61,2,335
+587740,Manhattan,SoHo,40.72372,-74.00277,Entire home/apt,199,60,11,1,281
+588677,Brooklyn,Williamsburg,40.70989,-73.95347,Entire home/apt,250,30,1,2,250
+590903,Manhattan,Harlem,40.80797,-73.9489,Private room,75,5,46,1,343
+591135,Manhattan,SoHo,40.72466,-73.99632,Private room,125,1,132,1,365
+591565,Manhattan,Tribeca,40.71552,-74.00749,Private room,229,1,62,1,36
+591710,Brooklyn,Brooklyn Heights,40.69464,-73.99885,Entire home/apt,175,10,8,1,0
+592785,Brooklyn,Bedford-Stuyvesant,40.6877,-73.95824,Entire home/apt,140,3,16,1,0
+592831,Brooklyn,Bedford-Stuyvesant,40.69079,-73.95809,Private room,54,2,19,1,220
+592853,Queens,Ridgewood,40.70001,-73.90698,Entire home/apt,75,2,17,1,0
+593000,Manhattan,Upper East Side,40.77247,-73.94665,Entire home/apt,110,7,12,1,0
+593292,Manhattan,Murray Hill,40.75128,-73.97658,Entire home/apt,165,1,321,1,185
+593320,Manhattan,Inwood,40.86345,-73.92039,Private room,55,4,160,2,79
+594020,Manhattan,Inwood,40.86284,-73.91955,Private room,55,4,142,2,179
+594036,Manhattan,West Village,40.73413,-74.00465,Entire home/apt,300,1,5,1,0
+594640,Manhattan,Chelsea,40.74026,-74.00079,Entire home/apt,275,6,61,1,69
+595321,Brooklyn,Williamsburg,40.71316,-73.94532,Private room,77,3,5,1,0
+595604,Manhattan,Washington Heights,40.8347,-73.94857,Private room,60,30,36,1,365
+596448,Brooklyn,Brooklyn Heights,40.69082,-73.99281,Entire home/apt,129,1,109,1,261
+597544,Queens,Sunnyside,40.74124,-73.92273,Private room,100,3,28,1,188
+597624,Brooklyn,Park Slope,40.67465,-73.97975,Entire home/apt,120,4,14,1,0
+598612,Brooklyn,Williamsburg,40.72203,-73.95376,Entire home/apt,500,2,250,1,307
+599595,Manhattan,Upper West Side,40.7839,-73.97897,Entire home/apt,179,4,12,1,11
+599847,Brooklyn,Clinton Hill,40.68533,-73.96808,Entire home/apt,149,2,20,1,4
+600286,Brooklyn,Williamsburg,40.70397,-73.95536,Entire home/apt,180,14,27,1,312
+600775,Brooklyn,Prospect Heights,40.68084,-73.97429,Private room,100,2,73,3,257
+600877,Brooklyn,Boerum Hill,40.68379,-73.98313,Entire home/apt,180,3,2,1,0
+602070,Brooklyn,Greenpoint,40.72188,-73.94963,Entire home/apt,128,5,38,1,20
+602142,Brooklyn,Prospect Heights,40.67963,-73.97237,Entire home/apt,260,14,5,1,0
+602453,Brooklyn,Park Slope,40.6686,-73.98342,Private room,65,3,31,1,22
+602888,Manhattan,Upper East Side,40.76985,-73.95815,Entire home/apt,200,2,17,1,0
+606269,Manhattan,Hell's Kitchen,40.76257,-73.99303,Entire home/apt,249,3,35,1,38
+607735,Brooklyn,Gowanus,40.68466,-73.98871,Entire home/apt,300,30,63,3,365
+607781,Manhattan,East Harlem,40.79183,-73.94743,Entire home/apt,120,7,149,1,16
+607891,Manhattan,Upper West Side,40.77471,-73.98261,Private room,120,20,107,1,144
+609213,Brooklyn,Prospect Heights,40.67293,-73.96399,Entire home/apt,125,5,7,1,0
+609559,Queens,Elmhurst,40.73587,-73.88279,Entire home/apt,99,3,48,2,301
+609983,Brooklyn,Bushwick,40.69945,-73.92148,Entire home/apt,115,3,54,1,3
+610118,Brooklyn,Bushwick,40.7072,-73.92245,Entire home/apt,275,31,17,1,364
+610596,Brooklyn,Gowanus,40.67376,-73.99648,Entire home/apt,198,2,103,1,299
+611009,Manhattan,East Village,40.7256,-73.97857,Entire home/apt,199,3,243,1,142
+612936,Manhattan,Upper West Side,40.79196,-73.97065,Private room,125,3,93,1,58
+613528,Manhattan,Harlem,40.81726,-73.94583,Entire home/apt,80,2,54,2,193
+613556,Manhattan,Tribeca,40.71655,-74.01171,Entire home/apt,130,30,2,52,116
+613818,Brooklyn,Cypress Hills,40.68375,-73.87065,Private room,35,28,88,4,326
+614269,Brooklyn,Williamsburg,40.70958,-73.93578,Entire home/apt,90,30,15,1,0
+616585,Brooklyn,Williamsburg,40.72091,-73.96133,Entire home/apt,250,3,25,2,188
+618916,Brooklyn,Prospect Heights,40.68066,-73.96644,Entire home/apt,200,4,11,1,0
+619122,Brooklyn,Williamsburg,40.71447,-73.95237,Private room,64,30,17,2,230
+619471,Brooklyn,Bedford-Stuyvesant,40.68372,-73.9406,Private room,65,3,5,2,341
+621430,Manhattan,Hell's Kitchen,40.76876,-73.99473,Private room,90,2,28,1,358
+623747,Manhattan,Kips Bay,40.74285,-73.97986,Entire home/apt,50,30,8,1,91
+624222,Manhattan,Harlem,40.80352,-73.95127,Entire home/apt,136,2,15,2,6
+625197,Brooklyn,Williamsburg,40.71455,-73.93739,Entire home/apt,400,3,2,1,83
+625365,Brooklyn,Prospect-Lefferts Gardens,40.65826,-73.95951,Entire home/apt,125,4,40,1,29
+627432,Manhattan,East Village,40.7324,-73.98577,Entire home/apt,165,7,57,1,32
+628078,Manhattan,Harlem,40.80338,-73.95594,Entire home/apt,105,14,6,1,0
+628227,Manhattan,Hell's Kitchen,40.7592,-73.99133,Entire home/apt,148,4,57,1,0
+629315,Brooklyn,Fort Greene,40.68935,-73.9695,Entire home/apt,120,3,22,1,189
+629770,Manhattan,Gramercy,40.73326,-73.98245,Entire home/apt,99,8,6,1,0
+629774,Manhattan,East Village,40.73082,-73.98502,Entire home/apt,175,1,17,1,0
+629855,Brooklyn,Williamsburg,40.71382,-73.94164,Private room,85,2,14,1,0
+629949,Manhattan,Upper East Side,40.77975,-73.94977,Private room,80,1,160,1,319
+630034,Brooklyn,Bedford-Stuyvesant,40.68517,-73.95563,Entire home/apt,119,2,85,1,338
+633276,Queens,Long Island City,40.74609,-73.94691,Private room,89,1,165,2,50
+633950,Manhattan,SoHo,40.72625,-74.0018,Shared room,195,2,13,1,0
+634353,Manhattan,Upper West Side,40.77428,-73.98594,Entire home/apt,1000,30,44,11,364
+635114,Manhattan,Greenwich Village,40.72812,-74.00191,Entire home/apt,225,4,51,1,172
+635282,Brooklyn,Williamsburg,40.71657,-73.96264,Entire home/apt,165,2,179,1,0
+635662,Brooklyn,Windsor Terrace,40.65193,-73.97301,Private room,60,2,206,2,86
+636391,Manhattan,West Village,40.73485,-74.00637,Entire home/apt,165,5,4,1,87
+637228,Brooklyn,Bushwick,40.70074,-73.92333,Private room,80,14,2,1,67
+637504,Queens,Sunnyside,40.73607,-73.92439,Private room,52,3,1,1,0
+637716,Manhattan,Nolita,40.72095,-73.99401,Entire home/apt,160,4,2,1,0
+638894,Brooklyn,Crown Heights,40.67639,-73.96003,Entire home/apt,110,5,3,1,15
+638898,Manhattan,Upper West Side,40.79913,-73.96057,Private room,60,2,19,1,0
+639199,Staten Island,Tottenville,40.50868,-74.23986,Entire home/apt,299,3,59,1,245
+639781,Manhattan,East Village,40.72389,-73.98934,Entire home/apt,200,6,1,1,128
+640589,Manhattan,West Village,40.73727,-74.00213,Entire home/apt,700,5,1,1,365
+640691,Brooklyn,Cobble Hill,40.68648,-73.99257,Private room,120,3,254,1,271
+640990,Manhattan,East Harlem,40.79512,-73.93182,Private room,65,2,129,2,32
+641768,Manhattan,Hell's Kitchen,40.76206,-73.9998,Entire home/apt,263,30,11,2,33
+642682,Brooklyn,Bedford-Stuyvesant,40.69382,-73.95002,Entire home/apt,120,20,32,1,149
+643591,Manhattan,Upper West Side,40.78455,-73.97352,Entire home/apt,150,5,8,3,0
+643948,Manhattan,Inwood,40.87114,-73.91791,Private room,60,2,261,1,156
+644464,Brooklyn,Williamsburg,40.71827,-73.96259,Private room,350,2,3,1,365
+644575,Staten Island,Tompkinsville,40.63358,-74.0833,Private room,71,2,23,2,352
+644833,Manhattan,Harlem,40.82312,-73.94971,Entire home/apt,433,5,108,2,318
+644869,Manhattan,Harlem,40.8224,-73.94358,Private room,79,3,9,1,329
+645075,Manhattan,Hell's Kitchen,40.76376,-73.99161,Private room,140,2,248,1,0
+645693,Queens,Astoria,40.75703,-73.91666,Private room,61,4,107,2,335
+645922,Manhattan,Midtown,40.74648,-73.98459,Private room,100,3,41,1,0
+645942,Manhattan,Nolita,40.72294,-73.99388,Entire home/apt,250,4,43,1,347
+646147,Manhattan,Harlem,40.82732,-73.95112,Private room,145,3,39,1,44
+646391,Brooklyn,Bedford-Stuyvesant,40.6951,-73.95605,Shared room,45,4,31,1,0
+646458,Brooklyn,Williamsburg,40.71256,-73.96626,Private room,73,6,6,2,310
+647413,Brooklyn,Prospect Heights,40.6795,-73.9685,Entire home/apt,150,3,18,1,68
+647520,Manhattan,NoHo,40.7256,-73.99445,Entire home/apt,234,20,29,1,302
+647580,Manhattan,East Village,40.73045,-73.98541,Entire home/apt,150,1,11,1,0
+648047,Manhattan,Gramercy,40.737,-73.98199,Private room,65,4,161,1,182
+648246,Brooklyn,Williamsburg,40.71227,-73.96776,Entire home/apt,195,1,39,1,270
+649903,Brooklyn,Crown Heights,40.67189,-73.93499,Entire home/apt,90,7,2,1,0
+651375,Manhattan,SoHo,40.72381,-73.99684,Entire home/apt,595,5,59,1,169
+651475,Manhattan,Gramercy,40.73337,-73.984,Private room,109,1,323,1,276
+651648,Brooklyn,Clinton Hill,40.68304,-73.96348,Entire home/apt,200,3,56,1,365
+652371,Manhattan,Midtown,40.75743,-73.96939,Entire home/apt,90,30,3,52,358
+652466,Manhattan,Kips Bay,40.7419,-73.9816,Entire home/apt,100,30,2,52,342
+652515,Manhattan,Hell's Kitchen,40.76758,-73.98722,Entire home/apt,85,30,2,52,223
+652648,Manhattan,Kips Bay,40.74189,-73.97833,Entire home/apt,87,30,3,52,363
+652691,Manhattan,Upper West Side,40.76934,-73.98464,Entire home/apt,95,30,1,52,365
+654005,Manhattan,Upper West Side,40.78363,-73.97797,Entire home/apt,349,3,58,1,341
+654232,Manhattan,East Village,40.72171,-73.98334,Entire home/apt,99,3,10,1,0
+654612,Manhattan,Hell's Kitchen,40.76803,-73.98767,Entire home/apt,160,2,83,1,105
+655230,Manhattan,Chinatown,40.71695,-73.99031,Entire home/apt,149,4,12,1,203
+655472,Brooklyn,Crown Heights,40.67574,-73.95434,Entire home/apt,60,3,1,1,0
+655783,Manhattan,Midtown,40.75663,-73.96681,Entire home/apt,285,7,10,1,0
+656281,Brooklyn,Kensington,40.64573,-73.98013,Private room,72,1,48,1,312
+657005,Manhattan,West Village,40.74004,-74.00426,Entire home/apt,150,16,5,1,339
+657198,Brooklyn,Columbia St,40.68863,-74.00181,Entire home/apt,200,3,15,1,0
+657217,Manhattan,Upper East Side,40.7779,-73.95246,Private room,79,1,347,2,247
+657727,Manhattan,Upper West Side,40.78194,-73.98248,Entire home/apt,197,1,108,2,269
+658008,Brooklyn,Bedford-Stuyvesant,40.6883,-73.95375,Entire home/apt,75,3,163,2,218
+658366,Manhattan,Gramercy,40.73354,-73.98593,Entire home/apt,127,3,182,1,264
+658515,Manhattan,East Harlem,40.8014,-73.94361,Private room,110,1,37,1,365
+658932,Queens,Ridgewood,40.69922,-73.90027,Private room,69,1,30,1,0
+659880,Brooklyn,Williamsburg,40.70653,-73.94421,Private room,100,60,3,1,365
+659952,Manhattan,Hell's Kitchen,40.76287,-73.9957,Entire home/apt,99,3,46,1,31
+660016,Brooklyn,Williamsburg,40.70249,-73.9488,Entire home/apt,139,2,211,1,19
+660036,Manhattan,Upper West Side,40.78754,-73.96989,Private room,113,1,93,1,2
+661814,Manhattan,Chelsea,40.741,-73.99957,Entire home/apt,250,2,10,1,0
+663608,Manhattan,Kips Bay,40.74027,-73.98061,Entire home/apt,295,4,72,1,122
+664047,Manhattan,Upper West Side,40.77516,-73.98573,Entire home/apt,2000,30,59,11,364
+665394,Manhattan,Hell's Kitchen,40.7589,-73.99015,Entire home/apt,220,2,18,1,0
+666220,Manhattan,East Village,40.72771,-73.98172,Private room,75,5,6,1,0
+666315,Brooklyn,Williamsburg,40.71157,-73.9636,Entire home/apt,100,31,15,1,223
+666613,Brooklyn,Williamsburg,40.71112,-73.96338,Entire home/apt,199,4,78,1,65
+667375,Manhattan,Chelsea,40.74272,-74.00309,Entire home/apt,200,3,17,1,5
+667549,Brooklyn,Flatbush,40.64895,-73.95758,Entire home/apt,140,4,15,1,365
+668400,Manhattan,Inwood,40.86186,-73.92701,Private room,50,7,1,1,0
+668691,Brooklyn,Bushwick,40.68888,-73.91911,Private room,45,5,69,3,223
+669633,Brooklyn,Gowanus,40.67947,-73.98458,Entire home/apt,109,31,114,2,110
+669831,Manhattan,East Harlem,40.79591,-73.94801,Private room,108,3,161,2,24
+670767,Brooklyn,Bushwick,40.68796,-73.91906,Private room,42,5,70,3,236
+671633,Manhattan,Upper East Side,40.77382,-73.95088,Entire home/apt,141,2,46,1,346
+672724,Brooklyn,Fort Greene,40.68418,-73.96926,Entire home/apt,355,5,19,1,301
+673248,Brooklyn,Bedford-Stuyvesant,40.68773,-73.95631,Entire home/apt,80,3,162,2,249
+673760,Brooklyn,Canarsie,40.62764,-73.90086,Private room,250,2,70,3,0
+674692,Queens,Ridgewood,40.70719,-73.89632,Private room,75,14,11,1,332
+675793,Manhattan,West Village,40.73456,-74.00347,Private room,88,2,2,1,348
+676257,Manhattan,Kips Bay,40.74166,-73.97811,Private room,65,5,39,1,318
+676295,Queens,Jamaica,40.67166,-73.76566,Private room,58,2,56,2,365
+679633,Queens,Ditmars Steinway,40.77987,-73.91565,Entire home/apt,75,3,1,1,0
+679769,Queens,Astoria,40.77329,-73.92832,Private room,100,2,35,1,144
+680104,Manhattan,Lower East Side,40.7195,-73.99416,Private room,167,5,32,1,341
+680225,Queens,Ridgewood,40.70866,-73.91537,Private room,65,2,1,2,0
+680998,Manhattan,Harlem,40.80829,-73.9426,Entire home/apt,125,21,12,2,267
+681518,Manhattan,Upper West Side,40.80114,-73.96378,Private room,95,2,211,3,126
+681805,Staten Island,Mariners Harbor,40.62879,-74.16062,Private room,54,2,48,1,232
+682122,Brooklyn,Flatlands,40.61676,-73.92552,Entire home/apt,89,2,219,2,319
+682155,Manhattan,East Harlem,40.79417,-73.95101,Private room,92,3,218,2,12
+683084,Manhattan,Chelsea,40.75286,-74.00162,Entire home/apt,199,6,40,1,0
+683681,Manhattan,West Village,40.73477,-74.00275,Entire home/apt,179,14,37,1,284
+683743,Queens,Long Island City,40.7453,-73.95294,Private room,65,20,28,3,188
+683821,Manhattan,Harlem,40.80314,-73.95768,Private room,55,3,66,2,13
+684808,Manhattan,Murray Hill,40.74888,-73.97828,Entire home/apt,129,30,43,6,256
+684991,Manhattan,Murray Hill,40.74851,-73.97796,Entire home/apt,134,30,9,6,313
+685435,Brooklyn,East New York,40.67635,-73.89124,Private room,35,3,13,1,2
+686696,Manhattan,Upper East Side,40.78002,-73.95211,Private room,250,1,60,1,148
+688652,Brooklyn,Clinton Hill,40.69445,-73.96401,Entire home/apt,249,4,19,1,362
+689329,Queens,East Elmhurst,40.75772,-73.8953,Private room,62,1,296,2,234
+689900,Manhattan,Upper West Side,40.80373,-73.9679,Private room,119,1,96,1,0
+690349,Brooklyn,South Slope,40.66481,-73.98367,Entire home/apt,179,2,77,1,0
+690516,Brooklyn,Fort Greene,40.68757,-73.97469,Entire home/apt,220,1,115,2,96
+690553,Brooklyn,Williamsburg,40.7056,-73.94202,Entire home/apt,198,1,294,1,233
+690603,Brooklyn,Crown Heights,40.67722,-73.95005,Entire home/apt,155,3,66,3,309
+690675,Brooklyn,Williamsburg,40.71407,-73.95336,Entire home/apt,199,7,4,1,0
+690849,Manhattan,East Village,40.72912,-73.98355,Entire home/apt,95,3,39,1,15
+690934,Brooklyn,Park Slope,40.68305,-73.97853,Entire home/apt,550,4,173,1,258
+690960,Brooklyn,Bushwick,40.68161,-73.90796,Private room,60,2,295,2,210
+692137,Brooklyn,Williamsburg,40.71428,-73.961,Entire home/apt,380,4,62,2,170
+692567,Brooklyn,Bushwick,40.70234,-73.91849,Private room,84,2,138,1,225
+693597,Manhattan,Upper West Side,40.77563,-73.98065,Entire home/apt,165,30,27,1,128
+695002,Manhattan,East Village,40.72866,-73.98048,Entire home/apt,105,30,96,1,295
+695216,Brooklyn,Fort Greene,40.69096,-73.97241,Entire home/apt,134,2,119,1,0
+695297,Brooklyn,Bedford-Stuyvesant,40.69114,-73.94601,Private room,68,5,8,1,281
+695465,Manhattan,East Village,40.72482,-73.98097,Entire home/apt,73,30,100,1,3
+696593,Brooklyn,Park Slope,40.67406,-73.97697,Entire home/apt,150,5,1,1,27
+697499,Manhattan,Upper West Side,40.77392,-73.97852,Entire home/apt,100,3,89,1,0
+697923,Manhattan,Hell's Kitchen,40.76422,-73.99382,Private room,75,2,176,2,23
+698094,Manhattan,Midtown,40.76221,-73.97787,Private room,120,4,31,1,0
+698132,Brooklyn,Bedford-Stuyvesant,40.69128,-73.93653,Entire home/apt,85,4,239,2,1
+698162,Manhattan,Inwood,40.86737,-73.91877,Entire home/apt,55,2,79,1,3
+698298,Manhattan,Nolita,40.72177,-73.9961,Private room,95,10,13,1,51
+698327,Manhattan,Chelsea,40.74034,-74.00259,Private room,72,14,11,3,297
+698514,Manhattan,West Village,40.73105,-74.00285,Entire home/apt,250,80,5,2,78
+698882,Brooklyn,Cobble Hill,40.68902,-73.99517,Private room,69,2,13,1,0
+699348,Brooklyn,Prospect Heights,40.67793,-73.96577,Private room,78,4,190,2,188
+699472,Brooklyn,Williamsburg,40.70995,-73.95536,Entire home/apt,220,1,404,2,341
+700530,Manhattan,SoHo,40.72756,-74.00239,Entire home/apt,230,2,27,1,101
+700916,Brooklyn,Bedford-Stuyvesant,40.68906,-73.94103,Entire home/apt,150,4,79,1,246
+701227,Brooklyn,Fort Greene,40.6967,-73.97622,Private room,80,2,14,2,364
+702213,Brooklyn,Williamsburg,40.70751,-73.9467,Private room,150,3,32,2,365
+702440,Brooklyn,Park Slope,40.67507,-73.98093,Entire home/apt,150,3,76,1,266
+702551,Manhattan,Upper West Side,40.79507,-73.97568,Entire home/apt,900,1,7,2,365
+703745,Manhattan,East Village,40.72225,-73.98496,Entire home/apt,130,7,11,1,0
+703971,Brooklyn,Prospect-Lefferts Gardens,40.6582,-73.95275,Private room,70,5,18,3,365
+704838,Queens,Woodside,40.74723,-73.89706,Entire home/apt,120,3,60,3,281
+705749,Staten Island,Concord,40.60183,-74.08953,Private room,75,30,59,2,354
+705997,Brooklyn,Sunset Park,40.66084,-73.99328,Entire home/apt,100,15,22,2,5
+706347,Brooklyn,Williamsburg,40.71796,-73.95439,Private room,69,3,2,3,284
+707396,Manhattan,East Village,40.72558,-73.97929,Entire home/apt,399,7,104,1,42
+707736,Manhattan,Harlem,40.80748,-73.94869,Entire home/apt,299,3,6,1,348
+708374,Manhattan,Upper West Side,40.79854,-73.96089,Private room,100,3,326,1,90
+708637,Queens,Jackson Heights,40.74869,-73.88293,Private room,68,28,55,2,89
+710243,Manhattan,Lower East Side,40.71819,-73.99136,Entire home/apt,175,5,56,1,263
+710283,Brooklyn,Greenpoint,40.72582,-73.95213,Entire home/apt,330,3,51,1,19
+710284,Manhattan,Chelsea,40.74225,-73.99492,Entire home/apt,425,5,7,1,0
+711635,Manhattan,East Village,40.73016,-73.98643,Entire home/apt,240,5,86,1,344
+712136,Staten Island,Concord,40.60213,-74.0893,Private room,75,30,36,2,362
+712260,Brooklyn,Carroll Gardens,40.68344,-73.9933,Private room,210,2,75,1,309
+713538,Brooklyn,Clinton Hill,40.68341,-73.9606,Entire home/apt,175,1,363,2,323
+713891,Brooklyn,Williamsburg,40.71534,-73.94906,Private room,85,2,146,1,46
+714028,Queens,Woodside,40.74746,-73.89712,Entire home/apt,120,3,51,3,253
+714049,Queens,Woodside,40.74687,-73.89892,Entire home/apt,120,3,55,3,289
+714075,Brooklyn,Bedford-Stuyvesant,40.68712,-73.95876,Private room,75,5,1,2,0
+714939,Manhattan,West Village,40.73795,-74.00593,Entire home/apt,495,3,29,1,22
+715102,Brooklyn,Williamsburg,40.71055,-73.94915,Private room,65,14,30,2,38
+715270,Bronx,Allerton,40.85956,-73.87067,Private room,39,2,169,4,306
+716169,Brooklyn,Fort Greene,40.68811,-73.97236,Entire home/apt,93,4,1,1,0
+718761,Brooklyn,Williamsburg,40.70985,-73.9452,Private room,146,2,8,4,88
+719329,Brooklyn,Crown Heights,40.67473,-73.96263,Entire home/apt,120,3,12,1,15
+719914,Manhattan,Harlem,40.82655,-73.93943,Private room,79,3,19,1,365
+720274,Brooklyn,Crown Heights,40.67471,-73.95324,Entire home/apt,100,5,9,1,0
+720394,Manhattan,Upper West Side,40.80155,-73.96569,Private room,120,1,5,2,0
+721719,Manhattan,Harlem,40.80745,-73.94353,Entire home/apt,150,5,17,2,36
+721762,Manhattan,East Village,40.72576,-73.98582,Entire home/apt,144,4,70,1,198
+722451,Manhattan,Harlem,40.82398,-73.954,Entire home/apt,350,1,1,1,0
+722464,Brooklyn,Bedford-Stuyvesant,40.68724,-73.95837,Private room,85,5,1,2,189
+723507,Manhattan,Upper West Side,40.79241,-73.97111,Entire home/apt,195,3,17,1,26
+723523,Manhattan,Upper East Side,40.77042,-73.96145,Entire home/apt,200,2,59,1,0
+723560,Manhattan,Lower East Side,40.71625,-73.9843,Entire home/apt,169,5,62,1,249
+723709,Manhattan,Harlem,40.80351,-73.95648,Private room,95,10,6,2,63
+725270,Manhattan,Flatiron District,40.74056,-73.99262,Entire home/apt,375,2,33,1,346
+725509,Brooklyn,Crown Heights,40.66983,-73.94322,Entire home/apt,168,2,158,2,253
+726422,Brooklyn,Crown Heights,40.67942,-73.96248,Entire home/apt,50,4,8,1,220
+726465,Brooklyn,Williamsburg,40.71927,-73.95591,Private room,129,2,129,3,36
+726692,Queens,Astoria,40.76216,-73.92542,Entire home/apt,245,6,1,1,164
+727512,Brooklyn,Greenpoint,40.73867,-73.95448,Entire home/apt,199,3,50,28,47
+727547,Brooklyn,Greenpoint,40.73844,-73.95456,Entire home/apt,199,3,116,28,36
+727835,Brooklyn,Williamsburg,40.70866,-73.95166,Private room,99,6,89,2,89
+727964,Brooklyn,Brooklyn Heights,40.69127,-73.99552,Entire home/apt,160,1,17,1,0
+728409,Brooklyn,Williamsburg,40.70061,-73.9552,Private room,65,2,164,2,0
+728493,Manhattan,Harlem,40.81073,-73.9437,Private room,70,7,67,1,0
+728498,Manhattan,Harlem,40.80517,-73.95404,Private room,80,1,135,1,365
+728764,Manhattan,Hell's Kitchen,40.76761,-73.98619,Entire home/apt,100,30,3,52,365
+729306,Brooklyn,Borough Park,40.64431,-74.00016,Private room,70,1,139,1,364
+729841,Manhattan,West Village,40.73616,-74.004,Entire home/apt,200,2,23,1,0
+730480,Brooklyn,Sunset Park,40.65989,-73.99536,Private room,66,3,51,1,329
+731293,Manhattan,Upper East Side,40.76352,-73.96394,Entire home/apt,200,3,203,1,260
+731300,Brooklyn,Williamsburg,40.71141,-73.95427,Private room,95,2,164,2,93
+731316,Manhattan,Chelsea,40.74092,-74.00037,Entire home/apt,140,1,6,1,0
+732624,Manhattan,Harlem,40.81908,-73.94776,Private room,65,1,327,1,287
+732700,Manhattan,Midtown,40.75154,-73.97104,Entire home/apt,106,7,10,1,0
+734749,Manhattan,Upper West Side,40.78361,-73.97645,Entire home/apt,155,181,82,1,188
+735677,Manhattan,East Village,40.72849,-73.98041,Entire home/apt,249,2,111,1,28
+735890,Manhattan,East Village,40.72369,-73.9894,Entire home/apt,120,7,6,1,0
+736187,Brooklyn,Greenpoint,40.72661,-73.94586,Private room,52,5,35,3,1
+737075,Manhattan,East Village,40.7232,-73.97927,Private room,75,26,57,3,98
+737126,Brooklyn,Williamsburg,40.71714,-73.95447,Shared room,195,2,80,1,364
+738588,Staten Island,Arrochar,40.59193,-74.06476,Entire home/apt,625,4,1,4,335
+739239,Manhattan,Upper West Side,40.78674,-73.97243,Entire home/apt,171,30,4,8,346
+739242,Manhattan,Upper West Side,40.78747,-73.97238,Entire home/apt,185,30,8,8,346
+739815,Queens,Long Island City,40.74975,-73.93688,Private room,55,7,39,1,46
+740823,Brooklyn,Bushwick,40.70226,-73.92797,Private room,50,2,27,1,2
+740947,Manhattan,Kips Bay,40.74231,-73.97839,Entire home/apt,120,30,3,52,365
+741154,Manhattan,Tribeca,40.71778,-74.00452,Entire home/apt,210,14,10,1,0
+741346,Manhattan,East Village,40.7296,-73.98479,Entire home/apt,133,2,1,1,50
+741354,Brooklyn,Brighton Beach,40.57728,-73.95362,Entire home/apt,73,30,21,1,251
+741783,Manhattan,West Village,40.73454,-74.00365,Entire home/apt,350,1,237,1,0
+741797,Manhattan,Tribeca,40.71729,-74.00424,Entire home/apt,259,2,20,1,17
+741806,Manhattan,Inwood,40.85963,-73.93107,Private room,97,7,2,1,87
+742026,Manhattan,Nolita,40.7229,-73.99574,Entire home/apt,199,7,66,1,142
+742779,Manhattan,Morningside Heights,40.80529,-73.96467,Entire home/apt,125,2,7,1,358
+742795,Brooklyn,Fort Greene,40.68736,-73.97496,Entire home/apt,100,1,273,1,45
+744078,Brooklyn,Canarsie,40.6258,-73.90004,Private room,39,5,60,3,34
+744220,Manhattan,Nolita,40.72064,-73.99605,Entire home/apt,125,28,19,1,267
+744228,Manhattan,Harlem,40.80145,-73.95572,Entire home/apt,150,1,2,1,0
+745037,Manhattan,Midtown,40.76412,-73.97666,Entire home/apt,170,7,83,1,203
+746088,Manhattan,Little Italy,40.71955,-73.99706,Entire home/apt,199,3,219,1,212
+746996,Brooklyn,Park Slope,40.6747,-73.98245,Private room,125,3,270,1,300
+747029,Manhattan,Chelsea,40.74314,-74.00119,Private room,155,5,18,1,90
+747159,Manhattan,Gramercy,40.73158,-73.98303,Private room,120,4,132,1,267
+747344,Brooklyn,Williamsburg,40.70608,-73.93154,Entire home/apt,220,3,151,1,115
+747419,Brooklyn,Bedford-Stuyvesant,40.68371,-73.95604,Entire home/apt,90,1,3,1,0
+747538,Brooklyn,Crown Heights,40.67652,-73.9614,Private room,61,2,167,1,320
+747605,Manhattan,East Village,40.72699,-73.97969,Entire home/apt,179,4,213,1,277
+748656,Queens,Flushing,40.76372,-73.79201,Shared room,108,5,2,1,0
+749108,Brooklyn,Clinton Hill,40.68391,-73.96201,Entire home/apt,575,3,12,1,0
+749455,Manhattan,Upper West Side,40.77938,-73.98247,Private room,99,1,353,4,73
+749896,Brooklyn,Williamsburg,40.7189,-73.95725,Entire home/apt,175,3,3,1,0
+749965,Brooklyn,Flatbush,40.64294,-73.96016,Entire home/apt,110,1,3,1,0
+751851,Brooklyn,Park Slope,40.66777,-73.97781,Entire home/apt,250,10,4,1,0
+752202,Brooklyn,Bedford-Stuyvesant,40.67968,-73.94715,Private room,100,1,113,1,0
+752289,Manhattan,Greenwich Village,40.72863,-74.00137,Entire home/apt,200,4,11,1,259
+752366,Queens,Astoria,40.75583,-73.91839,Entire home/apt,89,3,17,1,0
+752616,Manhattan,Chinatown,40.71592,-73.9898,Entire home/apt,400,3,46,1,175
+752783,Brooklyn,Windsor Terrace,40.65142,-73.97601,Entire home/apt,149,21,52,2,0
+753399,Manhattan,SoHo,40.72408,-73.99823,Entire home/apt,500,10,10,1,33
+753622,Manhattan,East Village,40.73233,-73.98695,Private room,95,5,64,1,316
+753687,Brooklyn,Bedford-Stuyvesant,40.67958,-73.93687,Entire home/apt,125,3,104,1,275
+753983,Manhattan,Upper West Side,40.80193,-73.96703,Private room,80,4,75,1,15
+753991,Brooklyn,Bedford-Stuyvesant,40.68522,-73.93557,Entire home/apt,105,5,227,2,234
+754353,Queens,Long Island City,40.75754,-73.93004,Private room,39,30,13,18,360
+755528,Bronx,Allerton,40.8584,-73.86969,Entire home/apt,49,2,189,4,238
+755684,Manhattan,Greenwich Village,40.72714,-73.99581,Entire home/apt,187,14,1,1,0
+755703,Brooklyn,Bushwick,40.70118,-73.92826,Private room,55,3,10,1,0
+756655,Brooklyn,Prospect Heights,40.68116,-73.96559,Entire home/apt,250,3,61,1,0
+756892,Manhattan,Midtown,40.75982,-73.96521,Entire home/apt,125,4,3,1,0
+756928,Brooklyn,Clinton Hill,40.68785,-73.96708,Entire home/apt,100,2,27,1,159
+757007,Brooklyn,Bedford-Stuyvesant,40.68444,-73.95692,Entire home/apt,175,7,1,1,0
+757187,Brooklyn,Clinton Hill,40.68468,-73.96303,Private room,50,4,32,1,347
+758782,Manhattan,Midtown,40.75383,-73.96777,Entire home/apt,133,6,22,1,5
+760303,Manhattan,Upper East Side,40.77638,-73.95247,Entire home/apt,155,5,63,1,235
+761606,Queens,Astoria,40.76361,-73.91793,Entire home/apt,140,5,15,1,260
+761835,Queens,Astoria,40.76605,-73.92922,Private room,80,2,72,1,364
+762015,Brooklyn,Bushwick,40.70022,-73.93032,Private room,103,2,58,3,69
+762145,Manhattan,Upper West Side,40.78227,-73.9841,Entire home/apt,600,3,9,2,353
+763527,Brooklyn,Flatbush,40.64073,-73.95832,Private room,70,3,169,3,188
+763600,Brooklyn,Williamsburg,40.70369,-73.93284,Private room,75,3,2,1,0
+763809,Brooklyn,Flatbush,40.64232,-73.9572,Private room,55,3,66,3,264
+763965,Manhattan,East Harlem,40.80826,-73.93401,Entire home/apt,50,4,24,1,25
+764052,Queens,Ditmars Steinway,40.77466,-73.91807,Entire home/apt,390,3,1,1,89
+764753,Brooklyn,Crown Heights,40.67679,-73.93776,Entire home/apt,82,8,108,2,238
+765203,Brooklyn,Williamsburg,40.70745,-73.94307,Shared room,52,3,19,2,88
+765315,Brooklyn,Williamsburg,40.71203,-73.95993,Private room,115,2,91,1,258
+765563,Queens,Bayside,40.75666,-73.76314,Entire home/apt,299,2,67,2,322
+765569,Brooklyn,Downtown Brooklyn,40.69594,-73.98375,Entire home/apt,175,13,64,1,116
+766542,Brooklyn,Williamsburg,40.71988,-73.95616,Entire home/apt,100,90,4,1,250
+766964,Queens,Astoria,40.77016,-73.92316,Private room,55,80,3,1,119
+767562,Brooklyn,Bushwick,40.69254,-73.91092,Private room,45,2,77,5,167
+767761,Brooklyn,Williamsburg,40.71572,-73.95574,Entire home/apt,165,1,41,1,19
+767967,Manhattan,Chelsea,40.75039,-74.00287,Entire home/apt,105,7,2,1,0
+767983,Brooklyn,Williamsburg,40.71435,-73.95073,Entire home/apt,200,3,4,1,0
+769175,Manhattan,Washington Heights,40.83556,-73.94609,Private room,65,30,1,1,249
+769279,Manhattan,East Village,40.72439,-73.97767,Private room,100,7,1,1,0
+769448,Brooklyn,Williamsburg,40.7179,-73.96107,Entire home/apt,312,2,302,1,246
+770514,Manhattan,Flatiron District,40.73997,-73.98789,Entire home/apt,195,1,1,1,0
+770893,Manhattan,Upper West Side,40.77734,-73.9877,Entire home/apt,100,29,3,1,301
+770960,Brooklyn,Prospect Heights,40.67453,-73.96759,Entire home/apt,155,3,13,1,0
+772362,Manhattan,Hell's Kitchen,40.76078,-73.99076,Entire home/apt,165,3,276,1,146
+772679,Manhattan,East Harlem,40.80343,-73.93514,Entire home/apt,120,3,22,1,365
+773041,Bronx,Allerton,40.85914,-73.86979,Private room,38,1,187,4,241
+773844,Brooklyn,Fort Greene,40.69377,-73.97009,Private room,90,10,1,1,0
+773993,Manhattan,Upper East Side,40.77032,-73.95331,Private room,85,2,138,1,196
+774791,Queens,Flushing,40.75612,-73.82517,Private room,55,2,31,2,282
+774899,Manhattan,West Village,40.73461,-74.00594,Shared room,350,2,13,1,0
+775238,Manhattan,East Village,40.72578,-73.98448,Private room,59,4,12,1,12
+775280,Manhattan,Harlem,40.81381,-73.94314,Entire home/apt,280,4,97,2,48
+775326,Queens,Long Island City,40.74527,-73.94629,Private room,69,1,153,2,132
+776257,Brooklyn,Williamsburg,40.71813,-73.9606,Entire home/apt,230,5,72,1,325
+777297,Brooklyn,Williamsburg,40.71606,-73.95527,Entire home/apt,200,2,72,1,52
+777327,Brooklyn,Flatbush,40.64047,-73.96388,Entire home/apt,150,5,52,1,311
+778381,Brooklyn,Bedford-Stuyvesant,40.6953,-73.95832,Private room,75,1,28,1,365
+778495,Manhattan,Upper West Side,40.79767,-73.96114,Private room,120,3,2,3,0
+779561,Manhattan,West Village,40.73652,-74.00876,Entire home/apt,140,30,18,1,182
+779838,Manhattan,Upper West Side,40.7982,-73.97173,Entire home/apt,200,2,8,1,337
+780205,Manhattan,Civic Center,40.71247,-73.99873,Entire home/apt,225,3,3,2,189
+780858,Brooklyn,Fort Greene,40.68798,-73.97442,Entire home/apt,145,7,4,1,36
+781486,Bronx,Port Morris,40.80461,-73.92276,Private room,60,3,86,2,1
+782063,Brooklyn,Bedford-Stuyvesant,40.68191,-73.95475,Entire home/apt,119,5,7,1,0
+782554,Manhattan,West Village,40.73364,-74.00539,Entire home/apt,189,2,68,1,63
+783202,Manhattan,West Village,40.73164,-74.00327,Entire home/apt,190,2,185,5,0
+783341,Manhattan,Lower East Side,40.71502,-73.98192,Private room,69,7,48,1,235
+783964,Queens,Long Island City,40.74997,-73.9397,Private room,70,1,148,2,303
+784088,Brooklyn,Williamsburg,40.71188,-73.9608,Entire home/apt,155,2,8,1,0
+784124,Brooklyn,Bedford-Stuyvesant,40.68176,-73.914,Entire home/apt,149,2,67,3,329
+784169,Manhattan,West Village,40.73186,-74.00329,Private room,160,1,148,1,295
+784170,Brooklyn,Williamsburg,40.70719,-73.95228,Private room,100,20,1,6,214
+785166,Manhattan,Lower East Side,40.71818,-73.98206,Entire home/apt,220,25,1,1,350
+785508,Manhattan,Washington Heights,40.84448,-73.93978,Private room,85,2,211,2,339
+785978,Manhattan,East Village,40.72762,-73.98218,Entire home/apt,135,5,18,1,0
+786053,Brooklyn,Prospect-Lefferts Gardens,40.65545,-73.95781,Private room,45,1,168,5,359
+786685,Manhattan,Harlem,40.82294,-73.94999,Entire home/apt,225,1,50,1,265
+786727,Manhattan,Harlem,40.81915,-73.93964,Entire home/apt,100,7,11,1,0
+786843,Brooklyn,Williamsburg,40.71222,-73.95827,Entire home/apt,145,3,121,1,45
+786955,Manhattan,West Village,40.73403,-74.00298,Entire home/apt,210,1,108,1,305
+788005,Brooklyn,Prospect Heights,40.67708,-73.96649,Entire home/apt,195,4,10,1,95
+788035,Manhattan,Nolita,40.72232,-73.99343,Private room,95,7,46,1,0
+788106,Manhattan,West Village,40.73761,-74.00043,Entire home/apt,140,2,34,1,159
+789476,Manhattan,Harlem,40.79863,-73.95292,Private room,95,2,25,1,0
+789559,Manhattan,Upper West Side,40.77775,-73.98732,Entire home/apt,295,10,11,1,0
+790767,Manhattan,East Village,40.72877,-73.98794,Entire home/apt,250,9,2,2,126
+791452,Bronx,Fieldston,40.88757,-73.90522,Entire home/apt,60,1,25,1,311
+792142,Manhattan,Upper East Side,40.76553,-73.96262,Entire home/apt,150,2,4,1,0
+792835,Manhattan,Lower East Side,40.71703,-73.98612,Entire home/apt,159,2,260,1,141
+793951,Manhattan,Harlem,40.82169,-73.93882,Private room,78,1,52,1,0
+794156,Manhattan,Upper West Side,40.77445,-73.98496,Entire home/apt,210,30,48,1,36
+794245,Brooklyn,Bedford-Stuyvesant,40.68356,-73.94042,Private room,60,14,12,2,0
+794281,Manhattan,Greenwich Village,40.73545,-73.9931,Entire home/apt,220,6,23,1,0
+794425,Brooklyn,Windsor Terrace,40.65954,-73.97805,Entire home/apt,199,265,20,2,90
+794427,Brooklyn,Windsor Terrace,40.65875,-73.9766,Entire home/apt,225,300,13,2,0
+794472,Manhattan,Upper West Side,40.80118,-73.96783,Entire home/apt,350,6,13,2,0
+794496,Manhattan,Inwood,40.8678,-73.92619,Private room,65,2,93,1,0
+794535,Manhattan,Chelsea,40.75351,-73.99762,Entire home/apt,225,7,3,1,250
+794567,Brooklyn,Prospect-Lefferts Gardens,40.65586,-73.95953,Private room,82,3,62,1,247
+795680,Manhattan,Upper East Side,40.7666,-73.95903,Entire home/apt,105,14,7,1,84
+796232,Brooklyn,Bushwick,40.70308,-73.92765,Entire home/apt,115,4,12,1,0
+796370,Manhattan,Upper East Side,40.77043,-73.9515,Entire home/apt,150,25,1,2,207
+796490,Brooklyn,South Slope,40.66882,-73.98841,Private room,65,5,5,1,0
+796523,Brooklyn,Crown Heights,40.67759,-73.95432,Entire home/apt,150,4,13,2,15
+797696,Brooklyn,Williamsburg,40.70773,-73.9566,Private room,101,2,32,1,0
+797972,Manhattan,Gramercy,40.73493,-73.98655,Entire home/apt,130,3,26,2,19
+798128,Manhattan,Upper East Side,40.77483,-73.94674,Entire home/apt,175,3,1,1,0
+798429,Manhattan,Harlem,40.82536,-73.94923,Entire home/apt,115,3,186,1,237
+799319,Brooklyn,Fort Greene,40.69075,-73.97192,Entire home/apt,128,5,154,1,301
+799484,Manhattan,Kips Bay,40.7449,-73.97656,Entire home/apt,116,30,5,52,311
+799829,Manhattan,Washington Heights,40.85262,-73.93821,Entire home/apt,192,2,41,2,0
+799900,Brooklyn,Prospect Heights,40.67338,-73.96415,Entire home/apt,150,17,3,1,0
+799924,Brooklyn,Williamsburg,40.70538,-73.92946,Entire home/apt,163,1,3,1,0
+799945,Brooklyn,Fort Greene,40.68537,-73.97713,Private room,40,8,32,5,284
+800051,Brooklyn,Williamsburg,40.7176,-73.95234,Entire home/apt,200,10,6,1,174
+801281,Manhattan,Lower East Side,40.71956,-73.98574,Entire home/apt,158,5,39,1,0
+801626,Brooklyn,Park Slope,40.68015,-73.978,Private room,115,2,25,6,89
+802498,Manhattan,Harlem,40.82974,-73.94193,Private room,85,1,190,2,178
+802677,Manhattan,Upper West Side,40.78592,-73.97775,Entire home/apt,173,4,16,1,0
+803237,Brooklyn,Crown Heights,40.67504,-73.95273,Entire home/apt,250,4,6,1,250
+803778,Manhattan,NoHo,40.72591,-73.99452,Entire home/apt,465,30,47,1,277
+804194,Brooklyn,Williamsburg,40.70747,-73.93879,Entire home/apt,275,7,2,1,0
+804246,Manhattan,Chinatown,40.71786,-73.99518,Private room,195,3,61,1,134
+804388,Brooklyn,Clinton Hill,40.68631,-73.96802,Entire home/apt,63,5,5,1,0
+804815,Manhattan,Washington Heights,40.83329,-73.93834,Private room,36,1,33,1,211
+804911,Brooklyn,Carroll Gardens,40.68216,-73.99504,Entire home/apt,130,5,2,1,0
+805028,Brooklyn,Boerum Hill,40.68418,-73.98039,Entire home/apt,200,4,13,1,0
+805218,Brooklyn,Greenpoint,40.73159,-73.95048,Private room,85,2,36,1,278
+806038,Queens,Elmhurst,40.73698,-73.87763,Private room,45,3,89,3,213
+806040,Queens,Elmhurst,40.73842,-73.87609,Private room,45,3,125,3,208
+807535,Brooklyn,Williamsburg,40.70876,-73.94971,Private room,79,5,5,2,198
+807882,Brooklyn,Williamsburg,40.71986,-73.95925,Entire home/apt,149,4,1,1,0
+808313,Manhattan,East Village,40.72721,-73.98411,Entire home/apt,200,7,3,1,0
+808476,Manhattan,Harlem,40.83378,-73.94966,Private room,85,1,1,1,365
+808618,Queens,Kew Gardens,40.70947,-73.82922,Private room,60,3,12,1,351
+808705,Manhattan,Hell's Kitchen,40.76704,-73.98345,Entire home/apt,139,45,16,8,0
+808774,Brooklyn,Williamsburg,40.7119,-73.96031,Entire home/apt,160,30,19,1,59
+808851,Manhattan,East Harlem,40.78728,-73.94579,Private room,95,4,150,1,192
+810346,Brooklyn,Williamsburg,40.70281,-73.94328,Private room,80,10,15,1,0
+810681,Brooklyn,Clinton Hill,40.69319,-73.96351,Entire home/apt,250,5,2,1,0
+811198,Manhattan,Chelsea,40.74117,-73.99517,Entire home/apt,349,3,3,1,0
+811238,Manhattan,Harlem,40.80586,-73.94642,Entire home/apt,165,7,8,1,234
+811299,Brooklyn,Boerum Hill,40.68515,-73.99055,Entire home/apt,119,5,42,1,0
+811347,Manhattan,West Village,40.73713,-74.00232,Entire home/apt,240,7,7,1,0
+811450,Brooklyn,Bedford-Stuyvesant,40.68194,-73.92757,Private room,79,4,1,1,359
+812057,Brooklyn,Bedford-Stuyvesant,40.68509,-73.93854,Entire home/apt,215,3,1,2,300
+812467,Brooklyn,Kensington,40.63547,-73.97417,Private room,49,1,61,1,100
+812671,Brooklyn,Park Slope,40.67138,-73.97772,Entire home/apt,190,3,76,1,48
+812938,Manhattan,Chelsea,40.74082,-73.99581,Entire home/apt,99,2,52,1,30
+813225,Brooklyn,Fort Greene,40.68871,-73.97181,Private room,68,8,37,5,280
+813554,Brooklyn,Park Slope,40.67228,-73.97248,Entire home/apt,185,30,36,1,358
+813793,Manhattan,Lower East Side,40.71988,-73.98639,Entire home/apt,225,4,92,1,67
+814327,Manhattan,Upper East Side,40.77171,-73.95042,Private room,81,10,64,1,311
+814616,Manhattan,East Village,40.72699,-73.97894,Entire home/apt,199,5,23,1,0
+814911,Brooklyn,Bushwick,40.6916,-73.92294,Private room,55,2,2,1,0
+815045,Manhattan,West Village,40.73227,-74.00949,Entire home/apt,340,7,38,1,302
+815465,Manhattan,Harlem,40.80139,-73.95433,Entire home/apt,135,3,205,2,184
+816637,Queens,Sunnyside,40.74263,-73.92476,Entire home/apt,85,2,108,1,0
+816673,Brooklyn,Bushwick,40.69764,-73.93084,Entire home/apt,65,7,4,1,0
+816888,Manhattan,Washington Heights,40.85604,-73.93469,Entire home/apt,100,30,13,1,219
+817113,Brooklyn,Crown Heights,40.67309,-73.94799,Private room,109,1,73,3,284
+818084,Manhattan,Greenwich Village,40.72825,-74.00225,Entire home/apt,290,2,70,1,339
+818325,Manhattan,Kips Bay,40.7445,-73.97583,Entire home/apt,148,5,29,1,188
+818337,Queens,Flushing,40.75979,-73.81016,Private room,57,2,17,4,308
+818451,Manhattan,Upper East Side,40.76883,-73.95353,Entire home/apt,150,6,23,1,0
+818481,Manhattan,Harlem,40.82258,-73.95418,Private room,60,2,67,4,117
+818518,Manhattan,Harlem,40.82238,-73.95534,Private room,60,2,48,4,114
+819206,Manhattan,East Harlem,40.79106,-73.95058,Shared room,45,2,107,1,313
+819228,Manhattan,Harlem,40.82173,-73.95548,Private room,60,2,33,4,211
+819419,Brooklyn,Clinton Hill,40.68443,-73.96337,Entire home/apt,125,3,124,1,158
+819893,Manhattan,Harlem,40.82233,-73.95568,Private room,60,2,36,4,133
+819956,Brooklyn,Bedford-Stuyvesant,40.68615,-73.93095,Private room,75,2,38,1,365
+820218,Manhattan,East Village,40.73131,-73.98609,Entire home/apt,121,2,6,1,156
+820710,Brooklyn,Clinton Hill,40.69413,-73.96389,Private room,89,2,89,3,318
+820801,Brooklyn,Greenpoint,40.72103,-73.94798,Entire home/apt,300,30,1,1,0
+820946,Brooklyn,Greenpoint,40.73319,-73.95623,Private room,110,1,4,1,0
+820953,Brooklyn,Greenpoint,40.72166,-73.94037,Entire home/apt,99,7,10,1,81
+821135,Brooklyn,Downtown Brooklyn,40.69379,-73.98525,Entire home/apt,170,7,41,1,0
+822016,Brooklyn,Crown Heights,40.67231,-73.96032,Private room,90,2,24,1,30
+823520,Manhattan,Chelsea,40.75284,-74.00138,Private room,179,2,251,1,157
+823618,Manhattan,Harlem,40.81024,-73.94154,Private room,80,4,41,2,119
+823631,Manhattan,Harlem,40.80997,-73.93992,Private room,65,5,29,2,186
+823880,Manhattan,Lower East Side,40.72125,-73.99272,Private room,69,1,322,1,84
+824163,Brooklyn,Bushwick,40.69763,-73.93102,Private room,42,1,18,1,60
+824421,Brooklyn,Williamsburg,40.71622,-73.96042,Private room,70,1,8,1,0
+825193,Brooklyn,Park Slope,40.67507,-73.97792,Entire home/apt,155,5,22,1,189
+825486,Manhattan,Upper East Side,40.76744,-73.96118,Entire home/apt,135,1,225,1,19
+825545,Manhattan,Greenwich Village,40.73336,-73.99836,Private room,120,21,79,2,34
+825550,Brooklyn,Gowanus,40.67869,-73.99197,Entire home/apt,135,8,7,1,0
+826307,Staten Island,Tompkinsville,40.63132,-74.08799,Private room,47,1,20,1,323
+826388,Manhattan,Harlem,40.80394,-73.9506,Private room,69,4,18,1,280
+826603,Brooklyn,Crown Heights,40.67828,-73.95646,Private room,100,2,37,1,2
+826685,Brooklyn,Bedford-Stuyvesant,40.68407,-73.93944,Private room,51,3,36,2,32
+826764,Manhattan,Chelsea,40.73588,-73.99224,Private room,65,180,2,1,263
+827719,Brooklyn,Clinton Hill,40.68334,-73.96704,Private room,60,3,126,2,120
+828130,Brooklyn,Prospect-Lefferts Gardens,40.66229,-73.96296,Private room,70,1,84,1,188
+828553,Manhattan,Gramercy,40.7349,-73.98549,Entire home/apt,130,3,26,2,23
+828685,Brooklyn,Bedford-Stuyvesant,40.6938,-73.94698,Private room,70,1,37,3,325
+828796,Brooklyn,Clinton Hill,40.68673,-73.96252,Entire home/apt,200,2,267,1,266
+829083,Brooklyn,Prospect Heights,40.67378,-73.96471,Entire home/apt,150,3,11,1,0
+829935,Manhattan,Washington Heights,40.83783,-73.93832,Entire home/apt,130,5,47,1,9
+830840,Brooklyn,Midwood,40.62908,-73.95965,Private room,68,7,1,1,87
+830949,Manhattan,East Village,40.72632,-73.97907,Private room,79,1,137,2,298
+831911,Manhattan,Upper West Side,40.77627,-73.98365,Entire home/apt,149,10,9,1,0
+832596,Manhattan,Upper East Side,40.77613,-73.94872,Entire home/apt,250,4,1,1,0
+832772,Manhattan,Upper West Side,40.77837,-73.97964,Entire home/apt,175,7,23,1,0
+833519,Manhattan,Washington Heights,40.85123,-73.93223,Private room,40,15,4,3,353
+834088,Brooklyn,Greenpoint,40.73184,-73.95802,Private room,55,11,11,3,11
+834190,Manhattan,Lower East Side,40.71921,-73.99116,Private room,99,2,540,1,179
+836578,Manhattan,Chelsea,40.74372,-74.00021,Entire home/apt,240,7,26,1,330
+836720,Queens,College Point,40.78417,-73.83875,Entire home/apt,400,2,47,1,361
+837282,Manhattan,Tribeca,40.71969,-74.00876,Entire home/apt,235,3,5,1,177
+837430,Manhattan,East Village,40.7225,-73.98267,Entire home/apt,130,5,4,1,0
+837503,Brooklyn,Bedford-Stuyvesant,40.69165,-73.95456,Entire home/apt,96,5,224,1,77
+837958,Queens,Long Island City,40.7529,-73.92985,Private room,63,2,26,3,249
+838070,Brooklyn,Sunset Park,40.66059,-73.99361,Entire home/apt,150,10,8,2,176
+838586,Brooklyn,Williamsburg,40.71733,-73.9531,Entire home/apt,200,2,11,1,0
+838974,Brooklyn,Prospect Heights,40.67922,-73.96907,Entire home/apt,90,7,6,1,0
+839058,Manhattan,Midtown,40.76188,-73.97193,Entire home/apt,269,5,15,1,0
+840103,Brooklyn,Prospect Heights,40.68062,-73.97042,Private room,80,2,24,1,0
+840594,Manhattan,West Village,40.73126,-74.00502,Entire home/apt,400,7,7,1,365
+840667,Manhattan,Greenwich Village,40.73075,-73.99265,Entire home/apt,349,3,17,1,356
+840731,Manhattan,East Village,40.73345,-73.98956,Entire home/apt,495,2,66,1,334
+840794,Brooklyn,Prospect Heights,40.6763,-73.96528,Entire home/apt,85,14,13,1,22
+841075,Brooklyn,Bushwick,40.70366,-73.9269,Entire home/apt,85,15,22,1,0
+841211,Manhattan,Chelsea,40.7466,-73.99219,Private room,999,10,30,1,365
+841292,Manhattan,Chelsea,40.74712,-73.99514,Private room,109,3,26,2,18
+841484,Manhattan,Lower East Side,40.71892,-73.98627,Entire home/apt,175,3,50,1,1
+842167,Manhattan,Chinatown,40.71593,-73.99031,Entire home/apt,150,4,14,1,18
+842176,Brooklyn,Williamsburg,40.71541,-73.94464,Private room,80,4,80,1,245
+842494,Manhattan,Upper West Side,40.77886,-73.98444,Entire home/apt,150,7,1,1,0
+842973,Manhattan,Hell's Kitchen,40.76194,-73.99346,Entire home/apt,175,1,33,1,0
+843003,Queens,Astoria,40.75665,-73.92015,Entire home/apt,107,30,15,8,268
+843036,Manhattan,Washington Heights,40.84714,-73.94172,Entire home/apt,80,60,22,1,226
+843491,Queens,Flushing,40.76074,-73.80969,Private room,80,3,8,4,342
+843499,Manhattan,Harlem,40.8129,-73.95213,Private room,75,1,4,2,0
+843524,Brooklyn,Bushwick,40.70234,-73.92424,Entire home/apt,800,1,34,1,365
+844319,Brooklyn,Flatbush,40.62961,-73.9572,Entire home/apt,130,1,219,1,237
+845417,Manhattan,Lower East Side,40.71312,-73.99033,Entire home/apt,260,6,23,1,0
+845517,Brooklyn,Clinton Hill,40.69691,-73.96713,Private room,36,1,8,1,83
+846190,Brooklyn,Prospect-Lefferts Gardens,40.66251,-73.95374,Entire home/apt,140,2,11,1,35
+846275,Manhattan,Lower East Side,40.72003,-73.98693,Entire home/apt,145,2,220,1,268
+846457,Brooklyn,Williamsburg,40.7141,-73.96477,Entire home/apt,120,3,8,1,0
+846470,Brooklyn,Williamsburg,40.70694,-73.95307,Private room,75,18,5,6,112
+846549,Brooklyn,Bedford-Stuyvesant,40.68941,-73.95247,Private room,60,2,2,1,0
+846799,Brooklyn,Bushwick,40.7077,-73.92212,Private room,69,30,51,1,7
+846829,Manhattan,Lower East Side,40.71275,-73.98682,Private room,95,1,7,1,0
+846854,Manhattan,Upper West Side,40.78689,-73.97314,Entire home/apt,300,30,93,1,284
+846871,Manhattan,Upper West Side,40.78429,-73.97815,Private room,131,2,220,1,1
+847591,Brooklyn,Bushwick,40.7016,-73.91868,Entire home/apt,120,5,6,1,0
+848087,Brooklyn,Bedford-Stuyvesant,40.68196,-73.95168,Entire home/apt,100,5,15,1,94
+848170,Brooklyn,Kensington,40.64651,-73.97662,Entire home/apt,100,4,20,1,0
+848220,Manhattan,Upper East Side,40.76714,-73.95922,Entire home/apt,160,1,187,1,221
+848707,Queens,Flushing,40.76,-73.81117,Private room,60,2,17,4,314
+848718,Brooklyn,Prospect-Lefferts Gardens,40.6593,-73.95686,Private room,75,3,46,3,311
+848722,Queens,Flushing,40.76014,-73.81146,Private room,45,2,39,4,292
+848853,Manhattan,Harlem,40.80712,-73.95316,Private room,65,2,15,1,361
+849409,Brooklyn,Prospect Heights,40.68099,-73.97446,Entire home/apt,120,5,145,1,0
+849567,Manhattan,Inwood,40.86585,-73.92693,Entire home/apt,80,4,16,1,0
+849603,Brooklyn,Crown Heights,40.67525,-73.9486,Entire home/apt,100,7,52,1,56
+849703,Brooklyn,Carroll Gardens,40.67771,-73.99428,Entire home/apt,250,2,82,1,0
+850097,Manhattan,West Village,40.73118,-74.0029,Entire home/apt,235,2,97,1,40
+850148,Brooklyn,Williamsburg,40.7106,-73.96532,Private room,85,2,35,2,365
+850198,Manhattan,Upper East Side,40.77815,-73.95902,Entire home/apt,195,31,8,1,273
+850338,Brooklyn,Williamsburg,40.71427,-73.94671,Entire home/apt,145,3,166,2,151
+850517,Brooklyn,Bushwick,40.68646,-73.91313,Entire home/apt,289,3,38,4,354
+850712,Manhattan,Greenwich Village,40.73132,-73.99979,Entire home/apt,120,30,17,1,231
+850943,Brooklyn,Williamsburg,40.71171,-73.96694,Entire home/apt,149,5,26,2,14
+851130,Manhattan,Washington Heights,40.84764,-73.93875,Shared room,100,1,31,1,364
+851772,Manhattan,Upper East Side,40.7704,-73.95024,Entire home/apt,166,1,15,1,188
+851784,Manhattan,Washington Heights,40.85016,-73.93178,Entire home/apt,99,3,106,1,331
+852118,Brooklyn,Crown Heights,40.67434,-73.95728,Entire home/apt,150,2,37,2,230
+852632,Brooklyn,Gowanus,40.66893,-73.99404,Shared room,44,2,155,1,325
+852949,Manhattan,Greenwich Village,40.72977,-74.00164,Entire home/apt,195,2,12,1,90
+854033,Manhattan,Civic Center,40.7123,-73.99946,Private room,100,4,8,2,7
+854253,Brooklyn,Flatbush,40.6489,-73.96872,Entire home/apt,60,5,3,1,189
+854521,Manhattan,Harlem,40.80925,-73.95541,Private room,62,2,45,2,310
+855206,Manhattan,East Village,40.72957,-73.98406,Private room,99,5,8,1,0
+855462,Manhattan,Lower East Side,40.72034,-73.98585,Private room,90,15,25,1,35
+855549,Manhattan,Upper West Side,40.79279,-73.97131,Private room,88,1,100,3,98
+855919,Manhattan,Harlem,40.80845,-73.94435,Entire home/apt,125,1,64,1,135
+856304,Brooklyn,Flatbush,40.6483,-73.9644,Private room,74,1,8,1,283
+856440,Manhattan,Hell's Kitchen,40.76616,-73.98411,Entire home/apt,176,7,33,1,0
+856918,Brooklyn,Park Slope,40.67422,-73.98097,Private room,62,2,11,2,158
+857696,Manhattan,East Harlem,40.80215,-73.93889,Private room,51,1,4,5,0
+857810,Brooklyn,Williamsburg,40.71373,-73.94958,Entire home/apt,249,3,31,1,365
+858223,Manhattan,Chelsea,40.73818,-73.9977,Entire home/apt,200,2,82,3,157
+858695,Bronx,Mount Eden,40.84058,-73.91382,Private room,30,2,291,1,208
+859023,Brooklyn,Gowanus,40.66958,-73.98998,Entire home/apt,240,2,22,1,280
+859596,Manhattan,East Harlem,40.79541,-73.94465,Private room,100,1,58,2,316
+860163,Manhattan,East Harlem,40.78844,-73.94951,Entire home/apt,125,2,71,1,199
+860401,Brooklyn,Fort Greene,40.68681,-73.97675,Entire home/apt,149,29,86,2,125
+860827,Brooklyn,Clinton Hill,40.68707,-73.96571,Entire home/apt,170,1,315,1,275
+862890,Manhattan,Washington Heights,40.85081,-73.93118,Private room,150,2,3,1,365
+864790,Manhattan,Upper West Side,40.77366,-73.98574,Private room,125,4,77,1,326
+864981,Brooklyn,Sunset Park,40.64902,-74.00897,Private room,68,5,43,2,282
+865355,Manhattan,Harlem,40.82719,-73.94484,Private room,90,7,35,1,312
+866890,Manhattan,Harlem,40.82316,-73.94129,Private room,65,3,68,2,361
+867020,Brooklyn,Greenpoint,40.73404,-73.95737,Private room,50,31,10,3,193
+867721,Brooklyn,Bedford-Stuyvesant,40.68344,-73.92189,Private room,65,3,132,3,35
+867749,Brooklyn,Crown Heights,40.67813,-73.96355,Entire home/apt,200,30,1,1,283
+867769,Brooklyn,Bedford-Stuyvesant,40.68411,-73.92973,Private room,65,3,116,3,73
+868548,Brooklyn,Williamsburg,40.70933,-73.94141,Private room,58,10,7,1,0
+869522,Manhattan,Harlem,40.82579,-73.94907,Private room,65,2,2,1,0
+870119,Brooklyn,Clinton Hill,40.69208,-73.96525,Entire home/apt,185,4,8,1,8
+871076,Brooklyn,Bensonhurst,40.6101,-73.99591,Entire home/apt,115,4,6,1,0
+873465,Brooklyn,Flatbush,40.65307,-73.95781,Entire home/apt,115,2,20,1,282
+873701,Brooklyn,Crown Heights,40.67121,-73.95534,Entire home/apt,140,4,125,1,239
+874683,Brooklyn,Bushwick,40.68777,-73.91601,Private room,62,2,22,1,87
+874706,Brooklyn,Kensington,40.64534,-73.97189,Entire home/apt,95,3,154,1,310
+875111,Brooklyn,Bedford-Stuyvesant,40.68586,-73.95875,Entire home/apt,100,3,7,1,0
+875567,Manhattan,West Village,40.73746,-74.00686,Entire home/apt,113,3,71,1,343
+876355,Manhattan,Morningside Heights,40.81368,-73.95942,Entire home/apt,108,30,5,1,230
+876565,Brooklyn,Bedford-Stuyvesant,40.68598,-73.92677,Private room,62,3,112,3,59
+877135,Brooklyn,Williamsburg,40.71518,-73.94571,Entire home/apt,95,3,36,1,89
+878142,Brooklyn,Williamsburg,40.71335,-73.9496,Entire home/apt,200,4,4,2,0
+880256,Manhattan,Harlem,40.82764,-73.93842,Entire home/apt,165,2,21,1,347
+880424,Brooklyn,Prospect-Lefferts Gardens,40.65514,-73.95956,Private room,60,1,109,1,2
+882209,Brooklyn,Williamsburg,40.70502,-73.95262,Private room,80,2,37,2,89
+882258,Brooklyn,Prospect-Lefferts Gardens,40.66033,-73.96212,Entire home/apt,100,6,78,1,0
+882559,Manhattan,Hell's Kitchen,40.76113,-73.98918,Private room,110,3,213,1,281
+883209,Brooklyn,Bedford-Stuyvesant,40.69132,-73.94205,Shared room,50,3,15,1,365
+883306,Brooklyn,Clinton Hill,40.69494,-73.96372,Private room,79,2,102,3,361
+883423,Brooklyn,Carroll Gardens,40.67996,-74.00101,Entire home/apt,140,3,93,1,65
+883517,Manhattan,Upper West Side,40.78615,-73.98137,Entire home/apt,339,4,28,1,167
+886808,Queens,Flushing,40.75088,-73.81029,Private room,55,1,116,2,298
+886833,Queens,Flushing,40.7525,-73.81126,Entire home/apt,81,1,313,2,263
+887129,Brooklyn,Williamsburg,40.71437,-73.96054,Entire home/apt,191,3,156,1,21
+887292,Brooklyn,Bushwick,40.69982,-73.91957,Entire home/apt,139,3,106,1,248
+887355,Manhattan,Murray Hill,40.74791,-73.97334,Entire home/apt,500,5,1,1,281
+888583,Brooklyn,Greenpoint,40.734,-73.95474,Entire home/apt,120,2,27,1,280
+888905,Manhattan,East Harlem,40.78933,-73.94932,Private room,60,2,53,4,0
+890839,Brooklyn,Crown Heights,40.68015,-73.96299,Entire home/apt,295,2,8,3,365
+890855,Brooklyn,Clinton Hill,40.68252,-73.96664,Entire home/apt,100,6,10,1,0
+891117,Manhattan,Harlem,40.82264,-73.94041,Private room,49,1,594,3,339
+892463,Manhattan,West Village,40.73084,-74.00431,Entire home/apt,150,3,9,1,0
+892704,Brooklyn,Bedford-Stuyvesant,40.68485,-73.93684,Entire home/apt,120,2,163,1,161
+893413,Manhattan,East Village,40.72668,-73.98179,Entire home/apt,2500,30,15,1,89
+893853,Manhattan,Flatiron District,40.74207,-73.99094,Entire home/apt,175,25,49,1,188
+894015,Brooklyn,Bedford-Stuyvesant,40.68194,-73.92896,Entire home/apt,107,2,147,1,27
+894063,Brooklyn,Williamsburg,40.71216,-73.96326,Private room,98,3,78,1,268
+894093,Queens,Astoria,40.7686,-73.9201,Private room,47,1,71,1,0
+895386,Manhattan,Harlem,40.80706,-73.95403,Entire home/apt,170,5,86,3,29
+898669,Manhattan,West Village,40.73276,-74.00074,Entire home/apt,150,3,90,1,184
+898861,Queens,Briarwood,40.71156,-73.8091,Entire home/apt,63,3,104,1,256
+900383,Brooklyn,Bedford-Stuyvesant,40.68145,-73.95178,Shared room,110,3,28,1,34
+903906,Brooklyn,South Slope,40.66485,-73.98838,Entire home/apt,329,4,2,1,0
+903947,Manhattan,Harlem,40.82124,-73.93838,Private room,49,1,597,3,342
+903972,Manhattan,Harlem,40.82085,-73.94025,Private room,49,1,607,3,293
+904060,Brooklyn,Clinton Hill,40.68496,-73.96111,Entire home/apt,165,4,37,1,343
+905425,Brooklyn,Greenpoint,40.73425,-73.95506,Entire home/apt,160,5,152,1,281
+905947,Brooklyn,Flatbush,40.64388,-73.95279,Private room,38,3,66,3,283
+906038,Manhattan,Upper West Side,40.79626,-73.96145,Entire home/apt,170,7,28,1,333
+906058,Manhattan,Morningside Heights,40.80776,-73.9654,Private room,105,2,233,1,294
+907966,Brooklyn,Greenpoint,40.72676,-73.95529,Private room,50,2,30,3,249
+908923,Manhattan,East Village,40.72784,-73.98486,Entire home/apt,100,3,2,1,0
+909859,Brooklyn,Park Slope,40.6734,-73.97657,Entire home/apt,890,3,26,1,341
+910976,Manhattan,Financial District,40.71078,-74.00995,Private room,160,3,24,2,352
+911092,Manhattan,East Village,40.723,-73.97861,Entire home/apt,145,2,157,1,221
+912376,Brooklyn,Bedford-Stuyvesant,40.69901,-73.93967,Private room,51,3,4,1,188
+915020,Brooklyn,South Slope,40.66414,-73.98457,Entire home/apt,150,3,136,1,301
+916311,Manhattan,East Village,40.72361,-73.97877,Private room,180,3,5,2,31
+917058,Manhattan,Greenwich Village,40.73356,-73.99876,Entire home/apt,225,1,3,1,188
+918049,Manhattan,Chelsea,40.73949,-73.99483,Entire home/apt,250,3,48,1,217
+918239,Brooklyn,Williamsburg,40.70159,-73.94346,Private room,56,1,103,1,65
+918426,Brooklyn,Prospect Heights,40.67852,-73.97008,Private room,70,7,73,4,212
+919491,Brooklyn,Park Slope,40.67665,-73.97925,Private room,70,2,163,1,163
+919830,Manhattan,Chelsea,40.74605,-73.99906,Private room,125,2,153,1,161
+919978,Manhattan,Hell's Kitchen,40.7642,-73.98677,Entire home/apt,399,2,287,1,284
+919990,Brooklyn,Carroll Gardens,40.67573,-73.99878,Entire home/apt,157,6,1,1,24
+920930,Brooklyn,Bedford-Stuyvesant,40.68863,-73.94294,Entire home/apt,145,7,28,1,188
+921441,Manhattan,Washington Heights,40.84408,-73.93675,Private room,75,1,120,1,90
+921585,Brooklyn,Bedford-Stuyvesant,40.68336,-73.93648,Entire home/apt,280,3,68,1,280
+921624,Brooklyn,Williamsburg,40.71579,-73.9588,Entire home/apt,220,4,22,1,8
+921862,Manhattan,Upper West Side,40.7886,-73.97553,Entire home/apt,190,28,28,1,283
+923566,Manhattan,Upper West Side,40.78775,-73.98152,Entire home/apt,200,6,22,2,354
+923979,Queens,Briarwood,40.70715,-73.81468,Entire home/apt,77,1,78,1,168
+924600,Brooklyn,Bedford-Stuyvesant,40.68713,-73.93659,Private room,35,5,69,3,244
+924658,Brooklyn,Bedford-Stuyvesant,40.687,-73.93446,Shared room,30,5,91,3,248
+924719,Manhattan,East Village,40.72615,-73.98781,Entire home/apt,199,29,12,1,31
+925075,Manhattan,Hell's Kitchen,40.75893,-73.99014,Entire home/apt,140,3,25,1,157
+925137,Manhattan,Chelsea,40.74435,-74.00038,Entire home/apt,124,30,4,1,42
+925240,Manhattan,East Village,40.73194,-73.98939,Entire home/apt,295,7,92,1,316
+925730,Manhattan,Chinatown,40.7189,-73.99654,Entire home/apt,160,7,13,1,335
+926337,Queens,Long Island City,40.74641,-73.94611,Private room,349,1,30,2,365
+927408,Brooklyn,Clinton Hill,40.68618,-73.96603,Private room,98,2,38,6,158
+927597,Queens,Flushing,40.75444,-73.83057,Private room,76,1,75,2,0
+927987,Manhattan,Upper East Side,40.77543,-73.95499,Entire home/apt,230,3,20,1,282
+929032,Brooklyn,Vinegar Hill,40.70163,-73.98208,Private room,60,3,13,1,0
+931642,Manhattan,Murray Hill,40.74848,-73.97884,Private room,118,30,116,1,228
+932277,Brooklyn,DUMBO,40.70434,-73.98989,Private room,125,20,35,1,311
+933129,Brooklyn,Fort Greene,40.69097,-73.97972,Entire home/apt,195,29,55,2,233
+933861,Manhattan,Hell's Kitchen,40.763,-73.98911,Private room,85,2,100,1,63
+936218,Manhattan,Harlem,40.81378,-73.95353,Private room,55,14,17,1,41
+937678,Brooklyn,Bushwick,40.70627,-73.92223,Entire home/apt,155,2,20,1,0
+938022,Brooklyn,Williamsburg,40.7078,-73.94827,Private room,99,1,94,1,358
+939657,Manhattan,Harlem,40.81071,-73.94493,Entire home/apt,140,30,81,2,194
+939724,Brooklyn,Bedford-Stuyvesant,40.6943,-73.94538,Private room,85,1,32,3,340
+940115,Brooklyn,Crown Heights,40.67555,-73.95254,Entire home/apt,75,7,15,1,178
+940116,Brooklyn,Sunset Park,40.64942,-74.00749,Private room,53,5,39,2,282
+941179,Brooklyn,Crown Heights,40.67296,-73.9501,Entire home/apt,150,2,42,1,365
+941642,Manhattan,Hell's Kitchen,40.76662,-73.99302,Entire home/apt,179,3,209,1,202
+944040,Brooklyn,Crown Heights,40.67607,-73.95408,Entire home/apt,135,1,67,1,348
+944049,Manhattan,West Village,40.73194,-74.00189,Entire home/apt,200,4,45,1,48
+944183,Manhattan,Harlem,40.81177,-73.95139,Entire home/apt,200,3,1,1,0
+944755,Brooklyn,Prospect-Lefferts Gardens,40.65908,-73.96125,Entire home/apt,100,5,117,2,73
+944840,Brooklyn,DUMBO,40.70447,-73.98754,Entire home/apt,134,14,14,1,0
+945297,Manhattan,East Village,40.72836,-73.98163,Private room,100,1,414,2,231
+947810,Manhattan,Upper East Side,40.77464,-73.95695,Private room,50,20,11,1,269
+947963,Brooklyn,Williamsburg,40.71684,-73.9441,Private room,50,40,16,1,324
+949713,Brooklyn,Gowanus,40.6745,-73.99582,Entire home/apt,400,30,30,1,67
+951365,Queens,Ridgewood,40.7099,-73.91509,Entire home/apt,115,2,74,2,314
+951944,Manhattan,SoHo,40.72493,-74.00307,Entire home/apt,235,3,73,1,44
+953275,Manhattan,East Harlem,40.79531,-73.9333,Entire home/apt,125,7,50,1,188
+953951,Manhattan,West Village,40.73377,-74.00259,Entire home/apt,250,2,56,1,134
+955153,Manhattan,SoHo,40.72256,-73.99767,Entire home/apt,650,5,7,2,90
+955542,Brooklyn,Prospect Heights,40.67942,-73.97078,Private room,97,7,13,4,204
+956412,Brooklyn,DUMBO,40.70424,-73.98597,Entire home/apt,189,2,236,2,279
+957002,Manhattan,Upper West Side,40.7982,-73.96394,Entire home/apt,100,1,129,1,281
+957642,Brooklyn,Prospect-Lefferts Gardens,40.66167,-73.95098,Private room,49,5,114,3,323
+958444,Bronx,City Island,40.85235,-73.78873,Entire home/apt,84,3,67,1,0
+959349,Brooklyn,Williamsburg,40.71765,-73.93999,Entire home/apt,165,7,5,1,0
+959478,Manhattan,Chinatown,40.71687,-73.99046,Entire home/apt,87,59,51,1,0
+959871,Brooklyn,Williamsburg,40.71081,-73.96121,Private room,120,6,15,2,9
+959948,Manhattan,SoHo,40.72538,-74.00375,Entire home/apt,195,10,10,1,270
+960210,Brooklyn,Bedford-Stuyvesant,40.69437,-73.94519,Private room,89,1,21,3,365
+962045,Brooklyn,Bushwick,40.69288,-73.90374,Private room,62,2,324,1,267
+964379,Brooklyn,Bay Ridge,40.63463,-74.03621,Entire home/apt,130,28,14,2,340
+966104,Manhattan,East Village,40.72726,-73.97573,Private room,75,3,51,1,127
+968848,Brooklyn,Prospect Heights,40.67501,-73.96651,Private room,64,2,35,1,329
