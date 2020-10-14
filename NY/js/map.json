@@ -16,7 +16,7 @@
         "data": {
           "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/NYC.csv"
         },
-        "key": "neighbourhood",
+        "key": "neighbourhood_group",
         "fields": ["price"]
       }
     },
@@ -35,7 +35,7 @@
       "scale": {"type": "log"}
     },
     "tooltip": [
-      {"field": "properties.name", "type": "nominal", "title": "neighbourhood"}
+      {"field": "properties.name", "type": "nominal", "title": "neighbourhood_group"}
     
     ]
   }
