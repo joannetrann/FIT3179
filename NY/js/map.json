@@ -11,7 +11,7 @@
         }
   },
   "transform": [{
-      "lookup": "properties.name",
+      "lookup": "properties.state",
       "from": {
         "data": {
           "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/NYC.csv"
@@ -35,7 +35,7 @@
       "scale": {"type": "log"}
     },
     "tooltip": [
-      {"field": "properties.name", "type": "nominal", "title": "neighbourhood_group"}
+      {"field": "properties.state", "type": "nominal", "title": "neighbourhood_group"}
     
     ]
   }
