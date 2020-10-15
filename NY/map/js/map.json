@@ -7,14 +7,14 @@
   "layer": [
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/js/NTA%20map.json",
+        "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/map/js/NTA%20map.json",
         "format": {"type": "topojson", "feature": "NTA map"}
       },
       "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/ny_final.csv"
+        "url": "https://raw.githubusercontent.com//joannetrann/FIT3179/main/NY/map/ny_final.csv"
       },
       "encoding": {
         "longitude": {"field": "longitude", "type": "quantitative"},
