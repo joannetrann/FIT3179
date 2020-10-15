@@ -1,43 +1,46 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "title": "Airbnb in New York",
   "width": 800,
-  "height": 600,
-  "data": {
-    "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/js/ny_map.json",
-    "format": {
-          "type": "topojson",
-          "feature": "ny_map"
+  "height": 500,
+  "title": "Airbnb in New York",
+  "projection": {"type": "equalEarth"},
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/js/ny_map.json",
+        "format": {"type": "topojson", "feature": "ny_map"}
+      },
+      "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com//joannetrann/FIT3179/main/NY/ny_clean2.csv"
+      },
+      "encoding": {
+        "longitude": {"field": "longitude", "type": "quantitative"},
+        "latitude": {"field": "latitude", "type": "quantitative"}
+      },
+      "layer": [
+        {
+          "mark": {
+            "type": "circle",
+            "tooltip": {"content": "data"}
+          },
+          "encoding": {
+            "size": {"field": "price", 
+                     "type": "quantitative",
+                     "scale": {
+                          "domain": [0, 299]
+                        }},
+            "color": {"field": "neighbourhood", 
+                      "type": "nominal",
+                      "scale":{
+                          "scheme":"reds"
+                      }          
+            }
+          }
         }
-  },
-  "transform": [{
-      "lookup": "properties",
-      "from": {
-        "data": {
-          "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/NYC.csv"
-        },
-        "key": "neighbourhood_group",
-        "fields": ["price"]
-      }
-    },
-    {"calculate": "datum.Price + 0.1", "as": "Price"}
-  ],
-  "projection": {
-    "type": "equirectangular"
-  },
-  "mark": {
-    "type": "geoshape"
-    },
-  "encoding": {
-    "color": {
-      "field": "price",
-      "type": "quantitative",
-      "scale": {"type": "log"}
-    },
-    "tooltip": [
-      {"field": "properties", "type": "nominal", "title": "neighbourhood_group"},
-      {"field": "price", "type": "quantitative"}
-    ]
-  }
-
+      ]
+    }
+  ]
 }
