@@ -1,0 +1,16 @@
+Neighbourhood ,Room,Freq
+Bronx,Entire home/apt,379
+Brooklyn,Entire home/apt,9468
+Manhattan,Entire home/apt,13005
+Queens,Entire home/apt,2084
+Staten Island,Entire home/apt,173
+Bronx,Private room,649
+Brooklyn,Private room,10041
+Manhattan,Private room,7919
+Queens,Private room,3359
+Staten Island,Private room,187
+Bronx,Shared room,60
+Brooklyn,Shared room,411
+Manhattan,Shared room,476
+Queens,Shared room,192
+Staten Island,Shared room,9
