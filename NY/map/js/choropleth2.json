@@ -1,0 +1,60 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 800,
+  "height": 600,
+  "title": "Average Prices for Airbnb in New York",
+  "projection": {"type": "equirectangular"},
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/map/js/NTA%20map.json",
+        "format": {"type": "topojson", "feature": "NTA map"}
+      },
+      "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}
+    },
+    {
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "title": "Airbnb in New York",
+  "width": 800,
+  "height": 600,
+  "data": {
+    "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/map/js/NTA%20map.json",
+    "format": {
+          "type": "topojson",
+          "feature": "NTA map"
+        },
+        "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}
+  },
+  "transform": [{
+      "lookup": "properties.ntaname",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com//joannetrann/FIT3179/main/NY/map/ny_final.csv"
+        },
+        "key": "neighbourhood",
+        "fields": ["price"]
+      }
+    }
+  ],
+  "projection": {
+    "type": "equirectangular"
+  },
+  "mark": {
+    "type": "geoshape"
+    },
+  "encoding": {
+    "color": {
+      "field": "price",
+      "type": "quantitative",
+      "scale": {"type": "log"}
+    },
+    "tooltip": [
+      {"field": "properties.ntaname", "type": "nominal", "title": "Neighbourhood"},
+      {"field": "properties.boroname", "type": "nominal", "title": "Borough"},
+      {"field": "price", "type": "quantitative","title": "Average Price", "format": ".2f"}
+    ]
+  }
+
+}
+  ]
+}
