@@ -1,1 +1,13 @@
 
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 900,
+  "height": 400,
+  "data": {"url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/stacked_bar/room_type%202.csv"},
+  "mark": {"type": "bar", "cornerRadiusTopLeft": 3, "cornerRadiusTopRight": 3},
+  "encoding": {
+    "x": {"aggregate": "sum", "field":"Freq"},
+    "y": {"field":"Neighbourhood", "type": "nominal"},
+    "color": {"field": "Room", "title": "Room Type"}
+  }
+}
