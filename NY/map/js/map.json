@@ -24,11 +24,12 @@
         {
           "mark": {
             "type": "circle",
-            "tooltip": {"content": "data"}
+            "tooltip": {"content": "encoding"}
           },
           "encoding": {
             "size": {"field": "price", 
                      "type": "quantitative",
+                     "format": ".2f",
                      "scale": {
                           "domain": [0, 299]
                         }},
