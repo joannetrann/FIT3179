@@ -1,47 +1,42 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "title": "Average Prices for Airbnb in New York Boroughs",
   "width": 800,
   "height": 600,
-  "title": "Average Prices for Airbnb in New York",
-  "projection": {"type": "equalEarth"},
-  "layer": [
-    {
-      "data": {
-        "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/map/js/NTA%20map.json",
-        "format": {"type": "topojson", "feature": "NTA map"}
-      },
-      "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}
-    },
-    {
-      "data": {
-        "url": "https://raw.githubusercontent.com//joannetrann/FIT3179/main/NY/map/ny_final.csv"
-      },
-      "encoding": {
-        "longitude": {"field": "longitude", "type": "quantitative"},
-        "latitude": {"field": "latitude", "type": "quantitative"}
-      },
-      "layer": [
-        {
-          "mark": {
-            "type": "circle",
-            "tooltip": {"content": "encoding"}
-          },
-          "encoding": {
-            "size": {"field": "price", 
-                     "type": "quantitative",
-                     "format": ".2f",
-                     "scale": {
-                          "domain": [0, 299]
-                        }},
-            "color": {"field": "neighbourhood", 
-                      "type": "nominal",
-                      "scale":{
-                          "scheme":"reds"
-                      }          
-            }
-          }
-        }
-      ]
+  "data": {
+    "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/map/js/NTA%20map.json",
+    "format": {
+          "type": "topojson",
+          "feature": "NTA map"
+        },
+        "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}
+  },
+  "transform": [{
+      "lookup": "properties.boroname",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com//joannetrann/FIT3179/main/NY/map/ny_final.csv"
+        },
+        "key": "neighbourhood_group",
+        "fields": ["price"]
+      }
     }
-  ]
+  ],
+  "projection": {
+    "type": "equirectangular"
+  },
+  "mark": {
+    "type": "geoshape"
+    },
+  "encoding": {
+    "color": {
+      "field": "price",
+      "type": "quantitative",
+      "scale": {"type": "log"}
+    },
+    "tooltip": [ {"field": "properties.boroname", "type": "nominal", "title": "Borough"},
+      {"field": "price", "type": "quantitative", "format": ".2f", "title": "Price"}
+    ]
+  }
+
 }
