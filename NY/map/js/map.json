@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "title": "Average Prices for Airbnb in New York Boroughs",
+  "title": "Average Prices for Airbnb in Each New York Borough",
   "width": 800,
   "height": 600,
   "data": {
@@ -15,9 +15,9 @@
       "lookup": "properties.boroname",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com//joannetrann/FIT3179/main/NY/map/ny_final.csv"
+          "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/map/ny_clean2.csv"
         },
-        "key": "neighbourhood_group",
+        "key": "neighbourhood",
         "fields": ["price"]
       }
     }
@@ -33,6 +33,7 @@
       "field": "price",
       "type": "quantitative",
       "scale": {"type": "log"}
+      
     },
     "tooltip": [ {"field": "properties.boroname", "type": "nominal", "title": "Borough"},
       {"field": "price", "type": "quantitative", "format": ".2f", "title": "Price"}
