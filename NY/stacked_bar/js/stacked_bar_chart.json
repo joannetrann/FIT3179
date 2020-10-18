@@ -9,7 +9,7 @@
   "encoding": {
     "x": {"aggregate": "sum", "field":"Freq", "title": "Percentage of Rooms Available"},
     "y": {"field":"Room", "type": "nominal", "title": "Room Type"},
-    "color": {"field": "Neighbourhood", "title": "Neighbourhood"},"scale":{"scheme": "pastel1"}
-  }
+    "color": {"field": "Neighbourhood", "title": "Neighbourhood","scale":{"scheme": "pastel1"}
+  }},
 }
 
