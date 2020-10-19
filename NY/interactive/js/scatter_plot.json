@@ -1,0 +1,146 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 600,
+  "height": 400,
+  "title": "Relationship between Number of Guests and Price in Each Borough",
+  "data": {
+  "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/interactive/corr_final.csv"},
+
+  "params": [
+    {"name": "Borough_Selection",
+    "bind":{
+      "input": "select",
+      "options": [
+        null,
+        "Bronx",
+        "Brooklyn",
+        "Manhattan",
+        "Staten Island",
+        "Queens"
+      ],
+      "labels":["Show All",
+        "Bronx",
+        "Brooklyn",
+        "Manhattan",
+        "Staten Island",
+        "Queens"],
+      "name": "Boroughs"
+    }
+    },
+    {
+      "name": "acc_Above",
+      "value": 0,
+      "bind": {
+        "input": "range",
+        "min": 0, 
+        "max": 12,
+        "step":1,
+        "name": "Guests"
+      }
+    },
+     {
+      "name": "Price_Above",
+      "value": 0,
+      "bind": {
+        "input": "range",
+        "min": 0, 
+        "max": 305,
+        "step":5,
+        "name": "Price"
+      }
+    }  
+  ],
+  "transform": [
+    {"filter": "Borough_Selection == null || datum.Boroughs == Borough_Selection"},
+    {"filter": "datum.price > Price_Above"},
+    {"filter": "datum.accommodates > acc_Above"}
+  ],
+  "encoding": {
+  "x": {
+        "field": "accommodates",
+        "type": "quantitative",
+        "title": "Number of Guests",
+        "scale": {"type": "ordinal", "domain": [0,12]}
+        },
+  "y": {
+      "field": "price",
+      "type": "quantitative",
+      "title": "Price"
+      }
+  },
+  "layer": [
+      {
+        "selection": {
+          "borough_highlight":{
+            "type": "multi",
+            "fields": ["Boroughs"],
+            "bind": "legend"
+          }
+        },
+        "mark": "circle",
+        "encoding": {
+          "size": {
+            "field": "price",
+            "type": "quantitative",
+            "title": "Price"
+          },
+          "color": {
+            "field": "Boroughs",
+            "type": "nominal",
+            "scale": {
+              "domain": [
+                "Bronx",
+                "Brooklyn",
+                "Manhattan",
+                "Staten Island",
+                "Queens"
+              ],
+              "range": [
+                "#a6cee3",
+                "#e78ac3",
+                "#c2a5cf",
+                "#b8e186",
+                "#fed9a6"
+              ]
+            }
+          },
+          "opacity":{
+            "condition": {"selection": "borough_highlight", "value": 0.6},
+            "value":0.2
+          },
+          "tooltip": [
+              {"field": "Boroughs", "type":"nominal", "title": "Borough"},
+              {"field": "neighbourhood", "type":"nominal", "title": "Neighbourhood"},
+              {"field": "price", "type":"quantitative", "title": "Price", "format": ".2f"},
+              {"field": "accommodates", "type":"quantitative", "title": "Accommodates",     "format": ".0f"}
+            ]
+        }
+      },
+      {
+        "mark": {
+          "type": "text",
+          "align": "right",
+          "baseline": "middle",
+          "dx": -12,
+          "fontSize": 11,
+          "fontStyle": "italic"
+        },
+        "encoding": {
+          "text": {"field": "neighbourhood", "type": "nominal"},
+          "colour": {"value": "black"},
+          "opacity":{
+            "condition": {
+              "test": "datum['neighbourhood'] == 'Riverdale'||datum['neighbourhood'] == 'Willowbrook'||datum['neighbourhood'] == 'Holliswood'|| datum['neighbourhood'] == 'Bay Terrace, Staten Island'||datum['neighbourhood'] == 'LongWood'||datum['neighbourhood'] == 'Chinatown'", "value": 1
+            },
+            "value":0
+          },
+           "tooltip": [
+              {"field": "Boroughs", "type":"nominal", "title": "Borough"},
+              {"field": "neighbourhood", "type":"nominal", "title": "Neighbourhood"},
+              {"field": "price", "type":"quantitative", "title": "Price", "format": ".2f"},
+              {"field": "accommodates", "type":"quantitative", "title": "Accommodates",     "format": ".0f"}
+            ]
+        }
+      }
+  ]
+}
