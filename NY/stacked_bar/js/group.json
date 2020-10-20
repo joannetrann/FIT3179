@@ -1,8 +1,8 @@
-{
+  {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "title": "Room Type Availabilities in New York", 
-  "width": 800,
-  "height": 600,
+  "width": 500,
+  "height": 300,
   "data": { "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/stacked_bar/room_type3.csv"},
  
   "width": {"step": 50},
@@ -18,6 +18,12 @@
       "field": "Neighbourhood",
       "axis": {"title": " "}
     },
+    "tooltip": [
+        {"field": "Neighbourhood", "type": "nominal"},
+        {"field": "Room", "title": "Room Type"},
+        {"field": "Freq", "type": "quantitative", "title": "Percentage of Listings", "format": ".2f"}, 
+        {"field": "Count", "title": "Number of Listings"}
+      ],
     "color": {
       "field": "Room","scale":{"scheme": "pastel1"}
     }
@@ -28,3 +34,4 @@
   }
 
 }
+
