@@ -6,10 +6,15 @@
 
   "encoding": {
     "y": 
-      {"field": "Available", "type": "nominal", "sort":"-y", "title": "Available"},
+      {"field": "Available", "type": "nominal", "sort":"-y", "title": "Available Within"},
     "x": 
       {"field": "Count", "type":"quantitative", "title": "Number of Listings"}, 
-      "color":{"value": "#e7d4e8"}
+      "color":{"value": "#e7d4e8"},
+      "tooltip":[
+        {"field": "Available"}, 
+        {"field": "Percentage", "title": "Percentage of Listings"},
+        {"field": "Count", "title": "Number of Listings"}
+      ]
   },
   "layer": [{
     "mark": "bar"
@@ -19,7 +24,6 @@
       "align":"left",
       "baseline": "middle",
       "dx": 3
-      
     },
     "encoding": {
       "text" : {"field": "Percentage"}, 
