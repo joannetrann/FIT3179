@@ -1,1 +1,31 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 600,
+  "height": 200,
+  "data": { "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/bar/ava.csv"},
 
+  "encoding": {
+    "y": 
+      {"field": "Available", "type": "nominal", "sort":"-y", "title": "Available"},
+    "x": 
+      {"field": "Count", "type":"quantitative", "title": "Number of Listings"}, 
+      "color":{"value": "#e7d4e8"}
+  },
+  "layer": [{
+    "mark": "bar"
+  }, {
+    "mark": {
+      "type": "text",
+      "align":"left",
+      "baseline": "middle",
+      "dx": 3
+      
+    },
+    "encoding": {
+      "text" : {"field": "Percentage"}, 
+      "color":{"value": "#000000"}
+    }
+  }
+
+  ]
+}
