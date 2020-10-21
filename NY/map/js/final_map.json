@@ -1,8 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "width": 800,
-  "height": 600,
-  "title": "Average Prices for Airbnb in New York",
+  "width": 400,
+  "height": 250,
   "projection": {"type": "equirectangular"},
   "layer": [
     {
@@ -15,8 +14,8 @@
     {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "title": "Airbnb in New York",
-  "width": 800,
-  "height": 600,
+  "width": 400,
+  "height": 250,
   "data": {
     "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/map/js/NTA%20map.json",
     "format": {
@@ -44,9 +43,10 @@
     },
   "encoding": {
     "color": {
+      
       "field": "price",
       "type": "quantitative",
-      "scale": {"type": "log"}
+      "scale": {"scheme": "bluepurple"}
     },
     "tooltip": [
       {"field": "properties.ntaname", "type": "nominal", "title": "Neighbourhood"},
