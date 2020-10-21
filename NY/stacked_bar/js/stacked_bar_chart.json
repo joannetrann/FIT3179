@@ -1,16 +1,53 @@
-
-{
+  {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "width": 900,
+  "title": "Room Type Availabilities in New York", 
+  "width": 200,
   "height": 300,
-  "title": "Room Type Availability in each Neighbourhood",
-  "data": {"url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/stacked_bar/room_type3.csv"},
-  "mark": {"type": "bar", "cornerRadiusTopLeft": 3, "cornerRadiusTopRight": 3},
+  "data": { "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/stacked_bar/room_type%202.csv"},
+  "transform": [
+    {}
+  ],
+  "width": {"step": 60},
+  "mark": "bar",
   "encoding": {
-    "x": {"aggregate": "sum", "field":"Freq", "title": "Percentage of Rooms Available"},
-    "y": {"field":"Room", "type": "nominal", "title": "Room Type"},
-    "color": {"field": "Neighbourhood", "title": "Neighbourhood", "scale":{"scheme": "pastel1"} }
+  
+    "y": {
+      "aggregate": "sum", "field": "%",
+      "title": "Percentage",
+      "scale": {"type": "ordinal", "domain": [0,100]}
+    },
+    "x": {
+      "field": "Neighbourhood",
+      "axis": {"title": " "}
+    },
+    
+    "tooltip": [
+        {"field": "Neighbourhood", "type": "nominal"},
+        {"field": "Room", "title": "Room Type"},
+        {"field": "%", "type": "quantitative", "title": "Percentage of Listings", "format": ".2f"}, 
+        {"field": "Freq", "title": "Number of Listings"}
+      ],
+    "color": {
+            "field": "Room",
+            "type": "nominal",
+            "scale": {
+              "domain": [
+                "Entire home/apt",
+                "Private room",
+                "Shared room"
+              ],
+              "range": [
+                "#bfd3e6",
+                "#ccece6",
+                "#fddaec"
+              ]
+            }
+          }
+  },
+  "config": {
+    "view": {"stroke": "transparent"},
+    "axis": {"domainWidth": 1}
   }
-}
 
+}
 
