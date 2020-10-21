@@ -7,7 +7,7 @@
   "transform": [
     {}
   ],
-  "width": {"step": 60},
+  "width": {"step": 52},
   "mark": "bar",
   "encoding": {
   
