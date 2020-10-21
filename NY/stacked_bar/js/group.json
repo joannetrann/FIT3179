@@ -1,8 +1,8 @@
   {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "title": "Room Type Availabilities in New York", 
-  "width": 500,
-  "height": 300,
+  "width": 300,
+  "height": 200,
   "data": { "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/stacked_bar/room_type3.csv"},
  
   "width": {"step": 50},
