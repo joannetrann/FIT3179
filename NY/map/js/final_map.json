@@ -13,7 +13,6 @@
     },
     {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "title": "Airbnb in New York",
   "width": 400,
   "height": 250,
   "data": {
