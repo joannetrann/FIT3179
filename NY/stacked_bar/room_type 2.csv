@@ -1,0 +1,16 @@
+,Neighbourhood ,Room,Freq,%
+1,Bronx,Entire home/apt,379,34.84
+2,Bronx,Private room,649,59.55
+3,Bronx,Shared room,60,5.52
+4,Brooklyn,Entire home/apt,9468,47.53
+5,Brooklyn,Private room,10041,50.41
+6,Brooklyn,Shared room,411,2.06
+7,Manhattan,Entire home/apt,13005,60.77
+8,Manhattan,Private room,7919,37.00
+9,Manhattan,Shared room,476,2.25
+10,Queens,Entire home/apt,2084,36.98
+11,Queens,Private room,3359,59.61
+12,Queens,Shared room,192,3.41
+13,Staten Island,Entire home/apt,173,46.88
+14,Staten Island,Private room,187,50.68
+15,Staten Island,Shared room,9,2.44
