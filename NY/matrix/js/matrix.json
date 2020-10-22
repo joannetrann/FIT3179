@@ -1,0 +1,39 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {
+      "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/matrix/price_dates.csv"
+  },
+  "title": "Variation of Price Throughout the Year",
+  "height": 400,
+  "width": 400,
+  "mark": "rect",
+  "encoding": {
+      "y": {
+          "field": "day",
+          "sort": ["1","2","3","4","5","6","7", "8", "9", "10", "11", "12", "13","14","15", "16", "17", "18", "19", "20", "21", "22","23", "23", "24", "25", "26", "27", "28", "29", "30", "31"],
+          "axis": {},
+          "title": null
+      },
+      "x": {
+          "field": "month",
+          "sort": ["1","2","3","4","5","6","7", "8", "9", "10", "11", "12"],
+          "timeUnit": "month",
+          "title": null,
+          "axis":{"orient": "top"}
+      },
+      "color": {
+          "field": "price",
+          "type": "quantitative",
+          "scale":{"scheme": "purples"},
+          "legend": {
+              "title": "Price"
+          }
+          
+      },
+      "tooltip": [
+        {"field": "month", "timeUnit": "month", "title": "Month"}, 
+        {"field": "day", "type": "quantitative", "title": "Day"},
+        {"field": "price", "type": "quantitative", "title": "Average Price", "format": ".0f"}
+      ]
+  }
+}
