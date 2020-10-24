@@ -3,7 +3,6 @@
   "data": {
       "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/matrix/price_dates.csv"
   },
-  "title": "Variation of Price Throughout the Year",
   "height": 400,
   "width": 400,
   "mark": "rect",
