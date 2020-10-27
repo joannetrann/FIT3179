@@ -23,7 +23,7 @@
       "color": {
           "field": "price",
           "type": "quantitative",
-          "scale":{"scheme": "purples"},
+          "scale":{"scheme": "bluepurple"},
           "legend": {
               "title": "Price"
           }
