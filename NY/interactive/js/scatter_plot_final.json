@@ -122,7 +122,7 @@
           "align": "right",
           "baseline": "middle",
           "dx": -12,
-          "fontSize": 8.8,
+          "fontSize": 10,
           "fontStyle": "italic"
         },
         "encoding": {
