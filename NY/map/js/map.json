@@ -1,5 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+   "title": "Average Prices for Each Borough in New York",
   
   "width": 300,
   "height": 250,
