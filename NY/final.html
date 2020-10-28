@@ -86,6 +86,9 @@
        <div class="pure-u-1-2">
           <div id="vis1"  class="vis-container"></div>
         </div>
+            <div class="pure-u-1-2">
+        <div id="vis6"  class="vis-container"></div>
+      </div>
        
          
     </div>
@@ -165,7 +168,8 @@
   var specVis3= "./stacked_bar/js/stacked_bar_chart.json";
   var specVis4= "./bar/js/bar.json";
   var specVis5= "./matrix/js/matrix.json";
-
+  var specVis6= "./bar/js/bar2.json";
+  
   vegaEmbed('#vis1', specVis1, {"actions": false}).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
@@ -186,6 +190,9 @@
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 
+    vegaEmbed('#vis6', specVis5, {"actions": false}).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
 
 </script>
 </body>
