@@ -32,7 +32,7 @@
     "color": {
       "field": "price",
       "type": "quantitative",
-      "scale": {"scheme": "bluepurple"}, 
+      "scale": {"scheme": "purples"}, 
       "title": "Price"
     
     },
