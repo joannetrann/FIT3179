@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   
-  "width": 400,
-  "height": 250,
+  "width": 200,
+  "height": 300,
   "data": {
     "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/map/js/NTA%20map.json",
     "format": {
