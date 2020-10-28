@@ -1,0 +1,20 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 200,
+  "height": 200,
+  "title": "Number of Airbnb Listings",
+  "data": { "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/bar/borough_listings.csv"},
+  "mark": "bar",
+  "encoding": {
+    "x": 
+      {"field": "Boroughs", "type":"nominal", "title": null}, 
+      "y": 
+      {"field": "Freq", "type": "quantitative", "sort":"-y", "title": "Number of Listings"},
+      "color":{"value": "#ccebc5"},
+      "tooltip":[
+        {"field": "Boroughs"}, 
+        {"field": "Freq", "title": "Number of Listings"}
+      ]
+      
+  }
+}
