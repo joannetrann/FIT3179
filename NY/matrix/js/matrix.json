@@ -1,45 +1,40 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  
-  "width": 350,
-  "height": 250,
   "data": {
-    "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/map/js/NTA%20map.json",
-    "format": {
-          "type": "topojson",
-          "feature": "NTA map"
-        },
-        "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}
+      "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/matrix/price_dates.csv"
   },
-  "transform": [{
-      "lookup": "properties.boroname",
-      "from": {
-        "data": {
-          "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/map/ny_clean2.csv"
-        },
-        "key": "neighbourhood",
-        "fields": ["price"]
-      }
-    }
-  ],
-  "config": {"legend": {"gradientDirection": "horizontal", "orient": "bottom", "gradientHorizontalMaxLength": 400}},
-  "projection": {
-    "type": "equirectangular"
-  },
-  "mark": {
-    "type": "geoshape"
-    },
+  "height": 400,
+  "width": 400,
+  "mark": "rect",
   "encoding": {
-    "color": {
-      "field": "price",
-      "type": "quantitative",
-      "scale": {"scheme": "purples"}, 
-      "title": "Price"
-    
-    },
-    "tooltip": [ {"field": "properties.boroname", "type": "nominal", "title": "Borough"},
-      {"field": "price", "type": "quantitative", "format": ".2f", "title": "Price"}
-    ]
-  }
-
+      "y": {
+          "field": "day",
+          "sort": ["1","2","3","4","5","6","7", "8", "9", "10", "11", "12", "13","14","15", "16", "17", "18", "19", "20", "21", "22","23", "23", "24", "25", "26", "27", "28", "29", "30", "31"],
+          "axis": {},
+          "title": null
+      },
+      "x": {
+          "field": "month",
+          "sort": ["1","2","3","4","5","6","7", "8", "9", "10", "11", "12"],
+          "timeUnit": "month",
+          "title": null,
+          "axis":{"orient": "top"}
+      },
+      "color": {
+          "field": "price",
+          "type": "quantitative",
+          "scale":{"scheme": "purples"},
+          "legend": {
+              "title": "Price"
+          }
+          
+      },
+      
+      "tooltip": [
+        {"field": "month", "timeUnit": "month", "title": "Month"}, 
+        {"field": "day", "type": "quantitative", "title": "Day"},
+        {"field": "price", "type": "quantitative", "title": "Average Price", "format": ".0f"}
+      ]
+  },
+    "config": {"legend": {"gradientDirection": "horizontal", "orient": "bottom", "gradientHorizontalMaxLength": 400}}
 }
