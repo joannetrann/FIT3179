@@ -10,7 +10,7 @@
       {"field": "Boroughs", "type":"nominal", "title": null}, 
       "y": 
       {"field": "Freq", "type": "quantitative", "sort":"-y", "title": null},
-      "color":{"value": "#b3cde3"},
+      "color":{"value": "#d0d1e6"},
       "tooltip":[
         {"field": "Boroughs"}, 
         {"field": "Freq", "title": "Number of Listings"}
