@@ -69,6 +69,7 @@
       "scale": {"type": "ordinal", "domain": [0,310]}
       }
   },
+  "config": {"legend":{"labelFontSize": 9}},
   "layer": [
       {
         "selection": {
