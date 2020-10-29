@@ -1,10 +1,9 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "width": 300,
+  "width": 320,
   "height": 300,
   "data": {
   "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/interactive/corr_final.csv"},
-
   "params": [
     {"name": "Borough_Selection",
     "bind":{
@@ -54,6 +53,8 @@
     {"filter": "datum.price > Price_Above"},
     {"filter": "datum.accommodates > acc_Above"}
   ],
+
+  
   "encoding": {
   "x": {
         "field": "accommodates",
@@ -119,7 +120,7 @@
       {
         "mark": {
           "type": "text",
-          "align": "right",
+          "align": "center",
           "baseline": "middle",
           "dx": -12,
           "fontSize": 10,
@@ -130,7 +131,7 @@
           "colour": {"value": "black"},
           "opacity":{
             "condition": {
-              "test": "datum['neighbourhood'] == 'Riverdale'||datum['neighbourhood'] == 'Willowbrook'||datum['neighbourhood'] == 'Holliswood'|| datum['neighbourhood'] == 'Williamsburg'||datum['neighbourhood'] == 'LongWood'||datum['neighbourhood'] == 'Chinatown'", "value": 1
+              "test": "datum['neighbourhood'] == 'Riverdale'||datum['neighbourhood'] == 'Willowbrook'||datum['neighbourhood'] == 'Holliswood'|| datum['neighbourhood'] == 'Sea Gate'||datum['neighbourhood'] == 'LongWood'||datum['neighbourhood'] == 'Tribeca'", "value": 1
             },
             "value":0
           },
