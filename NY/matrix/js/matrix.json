@@ -34,5 +34,6 @@
         {"field": "day", "type": "quantitative", "title": "Day"},
         {"field": "price", "type": "quantitative", "title": "Average Price", "format": ".0f"}
       ]
-  }
+  },
+    "config": {"legend": {"gradientDirection": "horizontal", "orient": "bottom", "gradientHorizontalMaxLength": 400}},
 }
