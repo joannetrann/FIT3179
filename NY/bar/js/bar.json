@@ -7,7 +7,7 @@
 
   "encoding": {
     "y": 
-      {"field": "Available", "type": "nominal", "sort":"-y", "title": "Available Within"},
+      {"field": "Available", "type": "nominal", "sort":"-y", "title": null},
     "x": 
       {"field": "Count", "type":"quantitative", "title": "Number of Listings"}, 
       "color":{"value": "#e7d4e8"},
