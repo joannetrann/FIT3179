@@ -5,9 +5,9 @@
   "data": {
   "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/interactive/corr_final.csv"},
   "params": [
-    {"name": "Borough_Selection",
+    {"name": "Borough_Selection", 
     "bind":{
-      "input": "select",
+      "input": "select", 
       "options": [
         null,
         "Bronx",
@@ -67,9 +67,16 @@
       "type": "quantitative",
       "title": "Price",
       "scale": {"type": "ordinal", "domain": [0,310]}
-      }
+      },
+  "size": {
+    "scale": {
+      "type": "threshold",
+      "domain": [50,100,200,300],
+      "range":[30,80,140,300,500]
+    }
+  }
   },
-  "config": {"legend":{"labelFontSize": 9}},
+  "config": {"legend":{"labelFontSize":  9}},
   "layer": [
       {
         "selection": {
@@ -123,7 +130,7 @@
           "type": "text",
           "align": "center",
           "baseline": "middle",
-          "dx": -12,
+          "dx": 30,
           "fontSize": 10,
           "fontStyle": "italic"
         },
