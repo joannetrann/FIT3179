@@ -1,16 +1,34 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "width": 300,
-  "height": 250,
+  "width": 270,
+  "height": 200,
   "title": "Number of Airbnb Listings",
   "data": { "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/bar/borough_listings.csv"},
   "mark": "bar",
   "encoding": {
     "x": 
-      {"field": "Boroughs", "type":"nominal", "title": null}, 
+      {"field": "Boroughs", "type":"nominal", "title": null},
+       "color":{
+           "field": "Boroughs",
+           "legend": null,
+           "scale": {"domain":[
+          "Bronx",
+          "Brooklyn", 
+          "Manhattan",
+          "Queens",
+          "Staten Island"
+      ],
+      "range": [
+          "#f2f0f7",
+          "#9e9ac8",
+          "#54278f",
+          "#dadaeb",
+          "#bcbddc"
+      ]}},
+      
       "y": 
       {"field": "Freq", "type": "quantitative", "sort":"-y", "title": null},
-      "color":{"value": "#DDDBE2"},
+    
       "tooltip":[
         {"field": "Boroughs"}, 
         {"field": "Freq", "title": "Number of Listings"}
