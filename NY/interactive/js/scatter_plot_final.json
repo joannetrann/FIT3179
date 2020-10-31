@@ -53,8 +53,6 @@
     {"filter": "datum.price > Price_Above"},
     {"filter": "datum.accommodates > acc_Above"}
   ],
-
-  
   "encoding": {
   "x": {
         "field": "accommodates",
@@ -80,6 +78,8 @@
   "layer": [
       {
         "selection": {
+          "grid":{"type": "interval", "bind": "scales"
+        },
           "borough_highlight":{
             "type": "multi",
             "fields": ["Boroughs"],
