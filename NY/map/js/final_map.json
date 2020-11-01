@@ -35,6 +35,7 @@
       }
     }
   ],
+  "config": {"legend": {"gradientDirection": "horizontal", "orient": "bottom", "gradientHorizontalMaxLength": 400}},
   "projection": {
     "type": "equirectangular"
   },
@@ -46,7 +47,7 @@
       
       "field": "price",
       "type": "quantitative",
-      "scale": {"scheme": "bluepurple"}
+      "scale": {"scheme": "purples"}
     },
     "tooltip": [
       {"field": "properties.ntaname", "type": "nominal", "title": "Neighbourhood"},
