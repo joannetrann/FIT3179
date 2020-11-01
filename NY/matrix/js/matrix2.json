@@ -4,7 +4,7 @@
       "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/matrix/price_dates.csv"
   },
   "height": 350,
-  "width": 350,
+  "width": 320,
   "mark": "rect",
   "encoding": {
       "y": {
