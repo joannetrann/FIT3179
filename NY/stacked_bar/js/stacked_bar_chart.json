@@ -1,14 +1,19 @@
-  {
+{
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "title": "Room Type Availabilities in New York", 
   "width": 200,
   "height": 300,
   "data": { "url": "https://raw.githubusercontent.com/joannetrann/FIT3179/main/NY/stacked_bar/room_type%202.csv"},
-  "transform": [
-    {}
-  ],
+  "selection": {
+      "highlight":{"type": "single", "empty": "none", 
+      "on": "mouseover"}, 
+      "select": {"type": "multi"}
+  },
   "width": {"step": 50},
-  "mark": "bar",
+  "mark": {
+      "type": "bar",
+      "cursor": "pointer"
+  },
   "encoding": {
   
     "y": {
@@ -16,11 +21,31 @@
       "title": "Percentage",
       "scale": {"type": "ordinal", "domain": [0,100]}
     },
+    "fillOpacity": {
+      "condition": {"selection": "select", "value": 1},
+      "value": 0.3
+    },
     "x": {
       "field": "Neighbourhood",
       "axis": {"title": " "}
+     
     },
-    
+    "strokeWidth": {
+      "condition": [
+        {
+          "test": {
+            "and": [
+              {"selection": "select"},
+              "length(data(\"select_store\"))"
+            ]
+          },
+          "value": 2
+        },
+        {"selection": "highlight", "value": 1}
+      ],
+      "value": 0
+    },
+ 
     "tooltip": [
         {"field": "Neighbourhood", "type": "nominal"},
         {"field": "Room", "title": "Room Type"},
@@ -50,4 +75,3 @@
   }
 
 }
-
